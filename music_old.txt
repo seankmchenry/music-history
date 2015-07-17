@@ -3977,6 +3977,7 @@ S:\Music\Singles\(117.12) Billy Ocean - Get Outta My Dreams, Get into My Car (Ex
 S:\Music\Singles\(117.30) Lenny Williams - Midnight Girl (King & Hound Edit).mp3
 S:\Music\Singles\(118.00) Chic - I Feel Your Love Comin' On (Dimitri From Paris Remix).mp3
 S:\Music\Singles\(118.00) Jamie Anderson & Owain K - Keep It Pumping.mp3
+S:\Music\Singles\(118.52) MAM - One of Them Nights.mp3
 S:\Music\Singles\(119.00) Saint Pepsi - Better.mp3
 S:\Music\Singles\(119.48) Timerider - Cocoon (Dance Version).mp3
 S:\Music\Singles\(119.80) The S.O.S. Band - Let's Do It (LNTG Rework).mp3
@@ -3984,6 +3985,7 @@ S:\Music\Singles\(119.98) Shit Robot - Simple Things (Work It Out) (Todd Terje V
 S:\Music\Singles\(120.00) Body Language - Falling Out (Tiger & Woods Remix).mp3
 S:\Music\Singles\(120.00) Bonar Bradberry - Lip Therapy (Maxxi Soundsystem Yeh Yeh Remix).mp3
 S:\Music\Singles\(120.00) Fuckpony - Bongo Porn (Tale of Us & Jay Haze Remix).mp3
+S:\Music\Singles\(120.00) MAM - Hold Tight.mp3
 S:\Music\Singles\(120.00) Monte - True (Original Mix).mp3
 S:\Music\Singles\(120.00) Monte - You Should Know (Original Mix).mp3
 S:\Music\Singles\(120.60) Rygar - Spaceraiders (Dance Version).mp3
