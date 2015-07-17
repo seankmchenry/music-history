@@ -10,7 +10,6 @@ S:\Music\Albums\M to O
 S:\Music\Albums\P to S
 S:\Music\Albums\T to Z
 S:\Music\Albums\A to C\9th Wonder - God's Stepson Instrumentals
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders
 S:\Music\Albums\A to C\Air - Pocket Symphony
 S:\Music\Albums\A to C\Ali Farka Toure & Ry Cooder - Talking Timbuktu
 S:\Music\Albums\A to C\Amon Tobin - Permutation
@@ -23,10 +22,8 @@ S:\Music\Albums\A to C\Aphex Twin - Selected Ambient Works 85-92
 S:\Music\Albums\A to C\Ataraxia - The Unexplained
 S:\Music\Albums\A to C\Augustus Pablo - East of the River Nile
 S:\Music\Albums\A to C\Augustus Pablo - King Tubby Meets Rockers Uptown
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs
 S:\Music\Albums\A to C\Ben Folds Five - The Unauthorized Biography of Reinhold Messner
 S:\Music\Albums\A to C\Bibio - Ambivalence Avenue
-S:\Music\Albums\A to C\Bill Withers - Lean On Me
 S:\Music\Albums\A to C\Billy Idol - Rebel Yell
 S:\Music\Albums\A to C\Biosphere - N-Plants
 S:\Music\Albums\A to C\Black Uhuru - Red
@@ -38,7 +35,6 @@ S:\Music\Albums\A to C\Bonobo - Black Sands
 S:\Music\Albums\A to C\Boozoo Bajou - Satta!
 S:\Music\Albums\A to C\Boz Scaggs - Silk Degrees
 S:\Music\Albums\A to C\Buckethead - Electric Tears
-S:\Music\Albums\A to C\Buckethead - Population Override
 S:\Music\Albums\A to C\Bunny Wailer - Rock 'n' Groove
 S:\Music\Albums\A to C\Bunny Wailer - Rootsman Skanking
 S:\Music\Albums\A to C\Burning Spear - Living Dub, Vol. 2
@@ -56,7 +52,6 @@ S:\Music\Albums\A to C\Cornelius - Sensuous
 S:\Music\Albums\A to C\Cornelius - The First Question Award
 S:\Music\Albums\A to C\Culture - Baldhead Bridge
 S:\Music\Albums\A to C\Currensy - Pilot Talk
-S:\Music\Albums\A to C\Currensy - Pilot Talk II
 S:\Music\Albums\A to C\The Abyssinians - Satta Massagana
 S:\Music\Albums\A to C\The Avalanches - Since I Left You
 S:\Music\Albums\A to C\The Blue Nile - Hats
@@ -76,21 +71,6 @@ S:\Music\Albums\A to C\9th Wonder - God's Stepson Instrumentals\10 - Mastermind.
 S:\Music\Albums\A to C\9th Wonder - God's Stepson Instrumentals\11 - Warrior Song.mp3
 S:\Music\Albums\A to C\9th Wonder - God's Stepson Instrumentals\12 - Ether.mp3
 S:\Music\Albums\A to C\9th Wonder - God's Stepson Instrumentals\folder.jpg
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\01 - Midnight Marauders Tour Guide.mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\02 - Steve Biko (Stir It Up).mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\03 - Award Tour.mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\04 - 8 Million Stories.mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\05 - Sucka Nigga.mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\06 - Midnight.mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\07 - We Can Get Down.mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\08 - Electric Relaxation.mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\09 - Clap Your Hands.mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\10 - Oh My God.mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\11 - Keep It Rollin'.mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\12 - The Chase, Part ll.mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\13 - Lyrics To Go.mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\14 - God Lives Through.mp3
-S:\Music\Albums\A to C\A Tribe Called Quest - Midnight Marauders\folder.jpg
 S:\Music\Albums\A to C\Air - Pocket Symphony\01 - Space Maker.mp3
 S:\Music\Albums\A to C\Air - Pocket Symphony\02 - Once Upon a Time.mp3
 S:\Music\Albums\A to C\Air - Pocket Symphony\03 - Hell of a Party.mp3
@@ -230,19 +210,6 @@ S:\Music\Albums\A to C\Augustus Pablo - King Tubby Meets Rockers Uptown\10 - Ska
 S:\Music\Albums\A to C\Augustus Pablo - King Tubby Meets Rockers Uptown\11 - Frozen Dub.mp3
 S:\Music\Albums\A to C\Augustus Pablo - King Tubby Meets Rockers Uptown\12 - Satta Dub.mp3
 S:\Music\Albums\A to C\Augustus Pablo - King Tubby Meets Rockers Uptown\folder.jpg
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\01 - Annie Waits.mp3
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\02 - Zak and Sara.mp3
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\03 - Still Fighting It.mp3
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\04 - Gone.mp3
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\05 - Fred Jones, Pt. 2.mp3
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\06 - Ascent of Stan.mp3
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\07 - Losing Lisa.mp3
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\08 - Carrying Cathy.mp3
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\09 - Not the Same.mp3
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\10 - Rockin' the Suburbs.mp3
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\11 - Fired.mp3
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\12 - Luckiest.mp3
-S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\folder.jpg
 S:\Music\Albums\A to C\Ben Folds Five - The Unauthorized Biography of Reinhold Messner\01 - Narcolepsy.mp3
 S:\Music\Albums\A to C\Ben Folds Five - The Unauthorized Biography of Reinhold Messner\02 - Don't Change Your Plans.mp3
 S:\Music\Albums\A to C\Ben Folds Five - The Unauthorized Biography of Reinhold Messner\03 - Mess.mp3
@@ -268,25 +235,6 @@ S:\Music\Albums\A to C\Bibio - Ambivalence Avenue\10 - The Palm of Your Wave.mp3
 S:\Music\Albums\A to C\Bibio - Ambivalence Avenue\11 - Cry! Baby!.mp3
 S:\Music\Albums\A to C\Bibio - Ambivalence Avenue\12 - Dwrcan.mp3
 S:\Music\Albums\A to C\Bibio - Ambivalence Avenue\folder.jpg
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\01 - Lovely Day.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\02 - I Want to Spend the Night.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\03 - Let Me Be the One You Need.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\04 - Hello Like Before.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\05 - Tender Things.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\06 - I Wish You Well.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\07 - Ain't No Sunshine.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\08 - Grandma's Hands.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\09 - Same Love That Made Me Laugh.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\10 - Lean On Me.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\11 - Harlem.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\12 - Use Me.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\13 - Who is He (And What is He to You).mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\14 - You Just Can't Smile It Away.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\15 - Just the Two of Us (feat. Grover Washington, Jr.).mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\16 - Steppin' Right Along.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\17 - You Try to Find a Love.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\18 - My Imagination.mp3
-S:\Music\Albums\A to C\Bill Withers - Lean On Me\folder.jpg
 S:\Music\Albums\A to C\Billy Idol - Rebel Yell\01 - Rebel Yell.mp3
 S:\Music\Albums\A to C\Billy Idol - Rebel Yell\02 - Daytime Drama.mp3
 S:\Music\Albums\A to C\Billy Idol - Rebel Yell\03 - Eyes Without a Face.mp3
@@ -422,17 +370,6 @@ S:\Music\Albums\A to C\Buckethead - Electric Tears\11 - Angel Monster.mp3
 S:\Music\Albums\A to C\Buckethead - Electric Tears\12 - Electric Tears.mp3
 S:\Music\Albums\A to C\Buckethead - Electric Tears\13 - Spell of the Gypsies.mp3
 S:\Music\Albums\A to C\Buckethead - Electric Tears\folder.jpg
-S:\Music\Albums\A to C\Buckethead - Population Override\01 - Unrestrained Growth.mp3
-S:\Music\Albums\A to C\Buckethead - Population Override\02 - Too Many Humans.mp3
-S:\Music\Albums\A to C\Buckethead - Population Override\03 - Population Override.mp3
-S:\Music\Albums\A to C\Buckethead - Population Override\04 - Humans Vanish.mp3
-S:\Music\Albums\A to C\Buckethead - Population Override\05 - Cruel Reality of Nature.mp3
-S:\Music\Albums\A to C\Buckethead - Population Override\06 - A Day Will Come.mp3
-S:\Music\Albums\A to C\Buckethead - Population Override\07 - Earth Heals Herself.mp3
-S:\Music\Albums\A to C\Buckethead - Population Override\08 - Clones.mp3
-S:\Music\Albums\A to C\Buckethead - Population Override\09 - Super Human.mp3
-S:\Music\Albums\A to C\Buckethead - Population Override\10 - ....mp3
-S:\Music\Albums\A to C\Buckethead - Population Override\folder.jpg
 S:\Music\Albums\A to C\Bunny Wailer - Rock 'n' Groove\01 - Rock and Groove.mp3
 S:\Music\Albums\A to C\Bunny Wailer - Rock 'n' Groove\02 - Another Dance.mp3
 S:\Music\Albums\A to C\Bunny Wailer - Rock 'n' Groove\03 - Dance Rock.mp3
@@ -627,20 +564,6 @@ S:\Music\Albums\A to C\Currensy - Pilot Talk\11 - Chilled Coughphee (feat. Devin
 S:\Music\Albums\A to C\Currensy - Pilot Talk\12 - Address (feat. Stalley).mp3
 S:\Music\Albums\A to C\Currensy - Pilot Talk\13 - Life Under the Scope.mp3
 S:\Music\Albums\A to C\Currensy - Pilot Talk\folder.jpg
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\01 - Airborne Aquaruim.mp3
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\02 - Michael Knight.mp3
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\03 - Montreux.mp3
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\04 - Famous.mp3
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\05 - Flight Briefing.mp3
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\06 - A Gee.mp3
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\07 - Real Estates.mp3
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\08 - Silence.mp3
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\09 - Hold On.mp3
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\10 - Fashionably Late.mp3
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\11 - Highed Up.mp3
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\12 - O.G. (The Jam).mp3
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\13 - Michael Knight (Remix).mp3
-S:\Music\Albums\A to C\Currensy - Pilot Talk II\folder.jpg
 S:\Music\Albums\A to C\The Abyssinians - Satta Massagana\01 - Declaration of Rights.mp3
 S:\Music\Albums\A to C\The Abyssinians - Satta Massagana\02 - The Good Lord.mp3
 S:\Music\Albums\A to C\The Abyssinians - Satta Massagana\03 - Forward on to Zion.mp3
@@ -723,10 +646,8 @@ S:\Music\Albums\A to C\The Cult - Love\10 - Black Angel.mp3
 S:\Music\Albums\A to C\The Cult - Love\folder.jpg
 S:\Music\Albums\D to I\Daft Punk - Discovery
 S:\Music\Albums\D to I\Daft Punk - Homework
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming
 S:\Music\Albums\D to I\David Bowie - Let's Dance
 S:\Music\Albums\D to I\David Gilmour - David Gilmour
-S:\Music\Albums\D to I\David Russell - Aire Latino
 S:\Music\Albums\D to I\Dennis Brown - If I Follow My Heart
 S:\Music\Albums\D to I\Depeche Mode - The Singles 86-98
 S:\Music\Albums\D to I\Dire Straits - Dire Straits
@@ -737,8 +658,6 @@ S:\Music\Albums\D to I\Earth Wind & Fire - I Am
 S:\Music\Albums\D to I\Eek-a-Mouse - Wa-Do-Dem
 S:\Music\Albums\D to I\Enigma - MCMXC a.D
 S:\Music\Albums\D to I\Erlend Oye - Unrest
-S:\Music\Albums\D to I\Explosions in the Sky - The Earth is Not a Cold Dead Place
-S:\Music\Albums\D to I\Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever
 S:\Music\Albums\D to I\Flying Lotus - Los Angeles
 S:\Music\Albums\D to I\Foesum - Perfection
 S:\Music\Albums\D to I\Foreigner - Complete Greatest Hits
@@ -799,19 +718,6 @@ S:\Music\Albums\D to I\Daft Punk - Homework\14 - Indo Silver Club.mp3
 S:\Music\Albums\D to I\Daft Punk - Homework\15 - Alive.mp3
 S:\Music\Albums\D to I\Daft Punk - Homework\16 - Funk Ad.mp3
 S:\Music\Albums\D to I\Daft Punk - Homework\folder.jpg
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming\01 - The Best of What's Around.mp3
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming\02 - What Would You Say.mp3
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming\03 - Satellite.mp3
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming\04 - Rhyme & Reason.mp3
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming\05 - Typical Situation.mp3
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming\06 - Dancing Nancies.mp3
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming\07 - Ants Marching.mp3
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming\08 - Lover Lay Down.mp3
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming\09 - Jimi Thing.mp3
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming\10 - Warehouse.mp3
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming\11 - Pay for What You Get.mp3
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming\12 - #34.mp3
-S:\Music\Albums\D to I\Dave Matthews Band - Under the Table and Dreaming\folder.jpg
 S:\Music\Albums\D to I\David Bowie - Let's Dance\01 - Modern Love.mp3
 S:\Music\Albums\D to I\David Bowie - Let's Dance\02 - China Girl.mp3
 S:\Music\Albums\D to I\David Bowie - Let's Dance\03 - Let's Dance.mp3
@@ -831,28 +737,6 @@ S:\Music\Albums\D to I\David Gilmour - David Gilmour\07 - No Way.mp3
 S:\Music\Albums\D to I\David Gilmour - David Gilmour\08 - It's Deafinitely.mp3
 S:\Music\Albums\D to I\David Gilmour - David Gilmour\09 - I Can't Breathe Anymore.mp3
 S:\Music\Albums\D to I\David Gilmour - David Gilmour\folder.jpg
-S:\Music\Albums\D to I\David Russell - Aire Latino\01 - Jorge Morel - Danza Brasilera.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\02 - Jorge Morel - Romance Criollo.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\03 - Jorge Morel - Sonatina- Allegretto.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\04 - Jorge Morel - Sonatina- Andante Espressivo.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\05 - Jorge Morel - Sonatina- Allegro.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\06 - Ariel Ram¡rez - Alfonsina y El Mar.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\07 - Eduardo Fal£ - La Cuartelera.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\08 - Agust¡n Barrios Mangor‚ - Ch“ro de Saudade.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\09 - Joao Pernambuco - Rebolico.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\10 - Joao Pernambuco - Sons de Carrilhoes.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\11 - Joao Pernambuco - Interrogando.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\12 - Dilermando Reis - Xodo da Baiana.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\13 - Dilermando Reis - Se Ela Perguntar.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\14 - Antonio Lauro - Seis por Derecho.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\15 - Carlos Pay‚s - Lejania.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\16 - Guido Santorsola - Ch“ro No.1 for Guitar.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\17 - Heitor Villa-Lobos - Ch“ros No.1, Tipico Brasileiro.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\18 - Jorge Cardoso - Milonga.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\19 - Jorge Cardoso - Vals Peruano.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\20 - Pablo Escobar - Chop¡.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\21 - Manuel Mar¡a Ponce - Scherzino Mexicano.mp3
-S:\Music\Albums\D to I\David Russell - Aire Latino\folder.jpg
 S:\Music\Albums\D to I\Dennis Brown - If I Follow My Heart\01 - Perhaps.mp3
 S:\Music\Albums\D to I\Dennis Brown - If I Follow My Heart\02 - Rain From the Skies.mp3
 S:\Music\Albums\D to I\Dennis Brown - If I Follow My Heart\03 - Johnny Too Bad.mp3
@@ -970,19 +854,6 @@ S:\Music\Albums\D to I\Erlend Oye - Unrest\08 - The Athlete.mp3
 S:\Music\Albums\D to I\Erlend Oye - Unrest\09 - A While Ago and Recently.mp3
 S:\Music\Albums\D to I\Erlend Oye - Unrest\10 - Like Gold.mp3
 S:\Music\Albums\D to I\Erlend Oye - Unrest\folder.jpg
-S:\Music\Albums\D to I\Explosions in the Sky - The Earth is Not a Cold Dead Place\01 - Six Days At the Bottom of the Ocean.mp3
-S:\Music\Albums\D to I\Explosions in the Sky - The Earth is Not a Cold Dead Place\02 - First Breath After Coma.mp3
-S:\Music\Albums\D to I\Explosions in the Sky - The Earth is Not a Cold Dead Place\03 - Only Moment We Were Alone.mp3
-S:\Music\Albums\D to I\Explosions in the Sky - The Earth is Not a Cold Dead Place\04 - Memorial.mp3
-S:\Music\Albums\D to I\Explosions in the Sky - The Earth is Not a Cold Dead Place\05 - Your Hand In Mine.mp3
-S:\Music\Albums\D to I\Explosions in the Sky - The Earth is Not a Cold Dead Place\folder.jpg
-S:\Music\Albums\D to I\Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever\01 - Greet Death.mp3
-S:\Music\Albums\D to I\Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever\02 - Yamin the Light.mp3
-S:\Music\Albums\D to I\Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever\03 - The Moon is Down.mp3
-S:\Music\Albums\D to I\Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever\04 - Have You Passed Through This Night.mp3
-S:\Music\Albums\D to I\Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever\05 - A Poor Man's Memory.mp3
-S:\Music\Albums\D to I\Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever\06 - With Tired Eyes, Tired Minds, Tired Souls, We Slept.mp3
-S:\Music\Albums\D to I\Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever\folder.jpg
 S:\Music\Albums\D to I\Flying Lotus - Los Angeles\01 - Brainfeeder.mp3
 S:\Music\Albums\D to I\Flying Lotus - Los Angeles\02 - Breathe Something  Stellar Star.mp3
 S:\Music\Albums\D to I\Flying Lotus - Los Angeles\03 - Beginners Falafel.mp3
@@ -1352,18 +1223,15 @@ S:\Music\Albums\J to L\Jean Michel Jarre - Oxygene
 S:\Music\Albums\J to L\Jimmy Cliff - The Harder They Come
 S:\Music\Albums\J to L\John Clarke - Seasonal Treasures
 S:\Music\Albums\J to L\John Holt - Police in Helicopter
-S:\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock
 S:\Music\Albums\J to L\Joseph Jacobs - Contemplations of Life
 S:\Music\Albums\J to L\Judas Priest - British Steel
 S:\Music\Albums\J to L\Judas Priest - Turbo
-S:\Music\Albums\J to L\Julie London - Around Midnight
 S:\Music\Albums\J to L\Junior M.A.F.I.A. - Conspiracy
 S:\Music\Albums\J to L\Kem - Kemistry
 S:\Music\Albums\J to L\Kenny Burrell - Midnight Blue
 S:\Music\Albums\J to L\Kenny G - Duotones
 S:\Music\Albums\J to L\Kenny G - G Force
 S:\Music\Albums\J to L\Kenny G - Kenny G
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You
 S:\Music\Albums\J to L\King Geedorah - Take Me to Your Leader
 S:\Music\Albums\J to L\King Sunny Ad‚ - Juju Music
 S:\Music\Albums\J to L\King Tubby & Friends - Dub Gone Crazy
@@ -1495,17 +1363,6 @@ S:\Music\Albums\J to L\John Holt - Police in Helicopter\08 - Sugar and Spice.mp3
 S:\Music\Albums\J to L\John Holt - Police in Helicopter\09 - Can't Use Me.mp3
 S:\Music\Albums\J to L\John Holt - Police in Helicopter\10 - I Got Caught.mp3
 S:\Music\Albums\J to L\John Holt - Police in Helicopter\folder.jpg
-S:\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\01 - Shattered Dreams.mp3
-S:\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\02 - Heart of Gold.mp3
-S:\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\03 - Turn Back the Clock.mp3
-S:\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\04 - Don't Say It's Love.mp3
-S:\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\05 - What Other Reason.mp3
-S:\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\06 - I Don't Want to Be a Hero.mp3
-S:\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\07 - Listen.mp3
-S:\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\08 - Different Seasons.mp3
-S:\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\09 - Don't Let It End This Way.mp3
-S:\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\10 - Foolish Heart.mp3
-S:\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\folder.jpg
 S:\Music\Albums\J to L\Joseph Jacobs - Contemplations of Life\01 - Contemplations of Life.mp3
 S:\Music\Albums\J to L\Joseph Jacobs - Contemplations of Life\02 - Good Memories.mp3
 S:\Music\Albums\J to L\Joseph Jacobs - Contemplations of Life\03 - Qualities.mp3
@@ -1538,19 +1395,6 @@ S:\Music\Albums\J to L\Judas Priest - Turbo\07 - Wild Nights, Hot & Crazy Days.m
 S:\Music\Albums\J to L\Judas Priest - Turbo\08 - Hot for Love.mp3
 S:\Music\Albums\J to L\Judas Priest - Turbo\09 - Reckless.mp3
 S:\Music\Albums\J to L\Judas Priest - Turbo\folder.jpg
-S:\Music\Albums\J to L\Julie London - Around Midnight\01 - Around Midnight.mp3
-S:\Music\Albums\J to L\Julie London - Around Midnight\02 - Lonely In Paris.mp3
-S:\Music\Albums\J to L\Julie London - Around Midnight\03 - Misty.mp3
-S:\Music\Albums\J to L\Julie London - Around Midnight\04 - Black Coffee.mp3
-S:\Music\Albums\J to L\Julie London - Around Midnight\05 - Lush Life.mp3
-S:\Music\Albums\J to L\Julie London - Around Midnight\06 - In The Wee Small Hours Of The Morning.mp3
-S:\Music\Albums\J to L\Julie London - Around Midnight\07 - Don't Smoke In Bed.mp3
-S:\Music\Albums\J to L\Julie London - Around Midnight\08 - You And The Night And The Music.mp3
-S:\Music\Albums\J to L\Julie London - Around Midnight\09 - Something Cool.mp3
-S:\Music\Albums\J to L\Julie London - Around Midnight\10 - How About Me.mp3
-S:\Music\Albums\J to L\Julie London - Around Midnight\11 - But Not For Me.mp3
-S:\Music\Albums\J to L\Julie London - Around Midnight\12 - The Party's Over.mp3
-S:\Music\Albums\J to L\Julie London - Around Midnight\folder.jpg
 S:\Music\Albums\J to L\Junior M.A.F.I.A. - Conspiracy\01 - Intro.mp3
 S:\Music\Albums\J to L\Junior M.A.F.I.A. - Conspiracy\02 - White Chalk.mp3
 S:\Music\Albums\J to L\Junior M.A.F.I.A. - Conspiracy\03 - Excuse Me....mp3
@@ -1618,22 +1462,6 @@ S:\Music\Albums\J to L\Kenny G - Kenny G\07 - Find a Way.mp3
 S:\Music\Albums\J to L\Kenny G - Kenny G\08 - Crystal Mountain.mp3
 S:\Music\Albums\J to L\Kenny G - Kenny G\09 - Come Close.mp3
 S:\Music\Albums\J to L\Kenny G - Kenny G\folder.jpg
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\01 - Let It Go.mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\02 - Didn't I Tell You.mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\03 - Fallin' Out.mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\04 - Give Me More.mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\05 - I Remember.mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\06 - Shoulda Let You Go.mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\07 - Heaven Sent.mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\08 - Same Thing (Interlude).mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\09 - Got to Get My Heart Back.mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\10 - Was It Worth It.mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\11 - Just Like You.mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\12 - Losing You.mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\13 - Last Night.mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\14 - Work It Out.mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\15 - Let It Go (Remix).mp3
-S:\Music\Albums\J to L\Keyshia Cole - Just Like You\folder.jpg
 S:\Music\Albums\J to L\King Geedorah - Take Me to Your Leader\01 - Fazers.mp3
 S:\Music\Albums\J to L\King Geedorah - Take Me to Your Leader\02 - Fastlane (feat. Biolante).mp3
 S:\Music\Albums\J to L\King Geedorah - Take Me to Your Leader\03 - The Final Hour (feat. MF Doom).mp3
@@ -1837,7 +1665,6 @@ S:\Music\Albums\M to O\Madvillain - Madvillainy
 S:\Music\Albums\M to O\Mariachi Cobre - Este Es Mi Mariachi
 S:\Music\Albums\M to O\Marvin Gaye - I Want You
 S:\Music\Albums\M to O\Marvin Gaye - Vulnerable
-S:\Music\Albums\M to O\Maserati - The Language of Cities
 S:\Music\Albums\M to O\Max Romeo & The Upsetters - War Ina Babylon
 S:\Music\Albums\M to O\Maxi Priest - The Best of Me
 S:\Music\Albums\M to O\Maze - Greatest Hits
@@ -2049,15 +1876,6 @@ S:\Music\Albums\M to O\Marvin Gaye - Vulnerable\08 - Why Did I Choose You (Alter
 S:\Music\Albums\M to O\Marvin Gaye - Vulnerable\09 - I Wish I Didn't Love You So (Alternate).mp3
 S:\Music\Albums\M to O\Marvin Gaye - Vulnerable\10 - I Won't Cry Anymore (Alternate).mp3
 S:\Music\Albums\M to O\Marvin Gaye - Vulnerable\folder.jpg
-S:\Music\Albums\M to O\Maserati - The Language of Cities\01 - Ambassador of Cinema.mp3
-S:\Music\Albums\M to O\Maserati - The Language of Cities\02 - The Language.mp3
-S:\Music\Albums\M to O\Maserati - The Language of Cities\03 - Moving With Heavy Hearts.mp3
-S:\Music\Albums\M to O\Maserati - The Language of Cities\04 - Keep It Gold.mp3
-S:\Music\Albums\M to O\Maserati - The Language of Cities\05 - Being a President is Like Riding a Tiger.mp3
-S:\Music\Albums\M to O\Maserati - The Language of Cities\06 - Cities.mp3
-S:\Music\Albums\M to O\Maserati - The Language of Cities\07 - A Common Interest in Silence.mp3
-S:\Music\Albums\M to O\Maserati - The Language of Cities\08 - There Will Always Be Someone Behind You.mp3
-S:\Music\Albums\M to O\Maserati - The Language of Cities\folder.jpg
 S:\Music\Albums\M to O\Max Romeo & The Upsetters - War Ina Babylon\01 - One Step Forward.mp3
 S:\Music\Albums\M to O\Max Romeo & The Upsetters - War Ina Babylon\02 - Uptown Babies Don't Cry.mp3
 S:\Music\Albums\M to O\Max Romeo & The Upsetters - War Ina Babylon\03 - I Chase the Devil.mp3
@@ -2724,7 +2542,6 @@ S:\Music\Albums\M to O\OutKast - Southernplayalisticadillacmuzik\16 - D.E.E.P..m
 S:\Music\Albums\M to O\OutKast - Southernplayalisticadillacmuzik\17 - Player's Ball (Reprise).mp3
 S:\Music\Albums\M to O\OutKast - Southernplayalisticadillacmuzik\folder.jpg
 S:\Music\Albums\P to S\Paco de Luc¡a - Fuente y Caudal
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual
 S:\Music\Albums\P to S\Paul Hardcastle - The Collection
 S:\Music\Albums\P to S\Pelican - Australasia
 S:\Music\Albums\P to S\Pet Shop Boys - Please
@@ -2756,7 +2573,6 @@ S:\Music\Albums\P to S\Scott Walker - Scott 3
 S:\Music\Albums\P to S\Scott Walker - Scott 4
 S:\Music\Albums\P to S\Sergio Mendes & Brasil '66 - Herb Alpert Presents
 S:\Music\Albums\P to S\Se¤or Coconut - El Baile Alem n
-S:\Music\Albums\P to S\Shankar Jaikishan - Gumnaam
 S:\Music\Albums\P to S\Slowdive - Souvlaki
 S:\Music\Albums\P to S\Souls of Mischief - 93 'til Infinity
 S:\Music\Albums\P to S\Sounds From the Ground - Mosaic
@@ -2787,22 +2603,6 @@ S:\Music\Albums\P to S\Paco de Luc¡a - Fuente y Caudal\06 - Cepa Andaluza (Buler
 S:\Music\Albums\P to S\Paco de Luc¡a - Fuente y Caudal\07 - Los Pinares (Tangos).mp3
 S:\Music\Albums\P to S\Paco de Luc¡a - Fuente y Caudal\08 - Plaza de San Juan (Alegr¡as).mp3
 S:\Music\Albums\P to S\Paco de Luc¡a - Fuente y Caudal\folder.jpg
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\01 - Sunrise (Intro).mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\02 - Greymatter.mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\03 - Spread (The Fly Love Song).mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\04 - Jackitch (Pase Burger).mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\05 - Grand Canion.mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\06 - Bullshit as Usual.mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\07 - Relax For Girls.mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\08 - Interlude.mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\09 - It's About Time.mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\10 - Join the Optimists.mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\11 - Interlude.mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\12 - Fracturedreamadhectic.mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\13 - Move.mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\14 - Post World.mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\15 - The Old Light.mp3
-S:\Music\Albums\P to S\Pase Rock - Bullshit as Usual\folder.jpg
 S:\Music\Albums\P to S\Paul Hardcastle - The Collection\01 - The Circle.mp3
 S:\Music\Albums\P to S\Paul Hardcastle - The Collection\02 - Dancing Lights.mp3
 S:\Music\Albums\P to S\Paul Hardcastle - The Collection\03 - Northern Lights.mp3
@@ -3183,17 +2983,6 @@ S:\Music\Albums\P to S\Se¤or Coconut - El Baile Alem n\08 - Tour De France.mp3
 S:\Music\Albums\P to S\Se¤or Coconut - El Baile Alem n\09 - The Man Machine.mp3
 S:\Music\Albums\P to S\Se¤or Coconut - El Baile Alem n\10 - Music Non Stop.mp3
 S:\Music\Albums\P to S\Se¤or Coconut - El Baile Alem n\folder.jpg
-S:\Music\Albums\P to S\Shankar Jaikishan - Gumnaam\01 - Jaan Pahechan Ho.mp3
-S:\Music\Albums\P to S\Shankar Jaikishan - Gumnaam\02 - Hum Kale Hain To Kya Hua.mp3
-S:\Music\Albums\P to S\Shankar Jaikishan - Gumnaam\03 - Pee Ke Hum Jo Chale.mp3
-S:\Music\Albums\P to S\Shankar Jaikishan - Gumnaam\04 - Aayega Kaun Yahan.mp3
-S:\Music\Albums\P to S\Shankar Jaikishan - Gumnaam\05 - Ek Ladki Hain.mp3
-S:\Music\Albums\P to S\Shankar Jaikishan - Gumnaam\06 - Gham Chhodke Manao.mp3
-S:\Music\Albums\P to S\Shankar Jaikishan - Gumnaam\07 - Gumnaam Hai Koi.mp3
-S:\Music\Albums\P to S\Shankar Jaikishan - Gumnaam\08 - Jane Chaman Shola Badan.mp3
-S:\Music\Albums\P to S\Shankar Jaikishan - Gumnaam\09 - Jane Chaman (Revival).mp3
-S:\Music\Albums\P to S\Shankar Jaikishan - Gumnaam\10 - Khayalon Mein (Revival).mp3
-S:\Music\Albums\P to S\Shankar Jaikishan - Gumnaam\folder.jpg
 S:\Music\Albums\P to S\Slowdive - Souvlaki\01 - Alison.mp3
 S:\Music\Albums\P to S\Slowdive - Souvlaki\02 - Machine Gun.mp3
 S:\Music\Albums\P to S\Slowdive - Souvlaki\03 - 40 Days.mp3
