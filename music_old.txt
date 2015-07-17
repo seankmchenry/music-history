@@ -18,7 +18,6 @@ S:\Music\Albums\A to C\Aphex Twin - Selected Ambient Works 85-92
 S:\Music\Albums\A to C\Ataraxia - The Unexplained
 S:\Music\Albums\A to C\Augustus Pablo - East of the River Nile
 S:\Music\Albums\A to C\Augustus Pablo - King Tubby Meets Rockers Uptown
-S:\Music\Albums\A to C\Ayatollah - Listen
 S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs
 S:\Music\Albums\A to C\Ben Folds Five - The Unauthorized Biography of Reinhold Messner
 S:\Music\Albums\A to C\Bibio - Ambivalence Avenue
@@ -37,7 +36,6 @@ S:\Music\Albums\A to C\Buckethead - Electric Tears
 S:\Music\Albums\A to C\Buckethead - Population Override
 S:\Music\Albums\A to C\Bunny Wailer - Rock 'n' Groove
 S:\Music\Albums\A to C\Bunny Wailer - Rootsman Skanking
-S:\Music\Albums\A to C\Burial - Untrue
 S:\Music\Albums\A to C\Burning Spear - Living Dub, Vol. 2
 S:\Music\Albums\A to C\Cantoma - Cantoma
 S:\Music\Albums\A to C\Charles Lloyd - The Call
@@ -227,18 +225,6 @@ S:\Music\Albums\A to C\Augustus Pablo - King Tubby Meets Rockers Uptown\10 - Ska
 S:\Music\Albums\A to C\Augustus Pablo - King Tubby Meets Rockers Uptown\11 - Frozen Dub.mp3
 S:\Music\Albums\A to C\Augustus Pablo - King Tubby Meets Rockers Uptown\12 - Satta Dub.mp3
 S:\Music\Albums\A to C\Augustus Pablo - King Tubby Meets Rockers Uptown\folder.jpg
-S:\Music\Albums\A to C\Ayatollah - Listen\01 - Tha Intro.mp3
-S:\Music\Albums\A to C\Ayatollah - Listen\02 - Love's Ghetto.mp3
-S:\Music\Albums\A to C\Ayatollah - Listen\03 - Crazy.mp3
-S:\Music\Albums\A to C\Ayatollah - Listen\04 - Heavenly Father.mp3
-S:\Music\Albums\A to C\Ayatollah - Listen\05 - Nowhere to Turn.mp3
-S:\Music\Albums\A to C\Ayatollah - Listen\06 - Let's Git Together.mp3
-S:\Music\Albums\A to C\Ayatollah - Listen\07 - The Preacher.mp3
-S:\Music\Albums\A to C\Ayatollah - Listen\08 - Listen.mp3
-S:\Music\Albums\A to C\Ayatollah - Listen\09 - The Proud.mp3
-S:\Music\Albums\A to C\Ayatollah - Listen\10 - Someone.mp3
-S:\Music\Albums\A to C\Ayatollah - Listen\11 - Purple Moon.mp3
-S:\Music\Albums\A to C\Ayatollah - Listen\folder.jpg
 S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\01 - Annie Waits.mp3
 S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\02 - Zak and Sara.mp3
 S:\Music\Albums\A to C\Ben Folds - Rockin' the Suburbs\03 - Still Fighting It.mp3
@@ -461,20 +447,6 @@ S:\Music\Albums\A to C\Bunny Wailer - Rootsman Skanking\08 - Rock 'n Groove.mp3
 S:\Music\Albums\A to C\Bunny Wailer - Rootsman Skanking\09 - Another Dance.mp3
 S:\Music\Albums\A to C\Bunny Wailer - Rootsman Skanking\10 - Jammins.mp3
 S:\Music\Albums\A to C\Bunny Wailer - Rootsman Skanking\folder.jpg
-S:\Music\Albums\A to C\Burial - Untrue\01 - Untitled.mp3
-S:\Music\Albums\A to C\Burial - Untrue\02 - Archangel.mp3
-S:\Music\Albums\A to C\Burial - Untrue\03 - Near Dark.mp3
-S:\Music\Albums\A to C\Burial - Untrue\04 - Ghost Hardware.mp3
-S:\Music\Albums\A to C\Burial - Untrue\05 - Endorphin.mp3
-S:\Music\Albums\A to C\Burial - Untrue\06 - Etched Headplate.mp3
-S:\Music\Albums\A to C\Burial - Untrue\07 - In McDonald's.mp3
-S:\Music\Albums\A to C\Burial - Untrue\08 - Untrue.mp3
-S:\Music\Albums\A to C\Burial - Untrue\09 - Shell of Light.mp3
-S:\Music\Albums\A to C\Burial - Untrue\10 - Dog Shelter.mp3
-S:\Music\Albums\A to C\Burial - Untrue\11 - Homeless.mp3
-S:\Music\Albums\A to C\Burial - Untrue\12 - UK.mp3
-S:\Music\Albums\A to C\Burial - Untrue\13 - Raver.mp3
-S:\Music\Albums\A to C\Burial - Untrue\folder.jpg
 S:\Music\Albums\A to C\Burning Spear - Living Dub, Vol. 2\01 - Cry Africa (Cry Blood Africans).mp3
 S:\Music\Albums\A to C\Burning Spear - Living Dub, Vol. 2\02 - Telegram In Dub (African Postman).mp3
 S:\Music\Albums\A to C\Burning Spear - Living Dub, Vol. 2\03 - Teacher (African Teacher).mp3
@@ -753,7 +725,6 @@ S:\Music\Albums\D to I\David Russell - Aire Latino
 S:\Music\Albums\D to I\Dennis Brown - If I Follow My Heart
 S:\Music\Albums\D to I\Depeche Mode - The Singles 86-98
 S:\Music\Albums\D to I\Dire Straits - Dire Straits
-S:\Music\Albums\D to I\Distance - My Demons
 S:\Music\Albums\D to I\DJ Shadow - Endtroducing
 S:\Music\Albums\D to I\Donald Fagen - The Nightfly
 S:\Music\Albums\D to I\Dr. Dre - The Chronic
@@ -787,7 +758,6 @@ S:\Music\Albums\D to I\GZA - Liquid Swords
 S:\Music\Albums\D to I\Habib Koit‚ & Bamada - Baro
 S:\Music\Albums\D to I\Habib Koit‚ & Bamada - Muso Ko
 S:\Music\Albums\D to I\Hajime Mizoguchi - Jin-Roh (The Wolf Brigade)
-S:\Music\Albums\D to I\Headhunter - Nomad
 S:\Music\Albums\D to I\Heltah Skeltah - Nocturnal
 S:\Music\Albums\D to I\Herb Alpert's Tijuana Brass - Whipped Cream & Other Delights
 S:\Music\Albums\D to I\Horchata - Basidia
@@ -919,19 +889,6 @@ S:\Music\Albums\D to I\Dire Straits - Dire Straits\07 - In the Gallery.mp3
 S:\Music\Albums\D to I\Dire Straits - Dire Straits\08 - Wild West End.mp3
 S:\Music\Albums\D to I\Dire Straits - Dire Straits\09 - Lions.mp3
 S:\Music\Albums\D to I\Dire Straits - Dire Straits\folder.jpg
-S:\Music\Albums\D to I\Distance - My Demons\01 - Night Vision.mp3
-S:\Music\Albums\D to I\Distance - My Demons\02 - My Demons.mp3
-S:\Music\Albums\D to I\Distance - My Demons\03 - Weigh Down.mp3
-S:\Music\Albums\D to I\Distance - My Demons\04 - Traffic.mp3
-S:\Music\Albums\D to I\Distance - My Demons\05 - Mistral.mp3
-S:\Music\Albums\D to I\Distance - My Demons\06 - Cyclops.mp3
-S:\Music\Albums\D to I\Distance - My Demons\07 - Cella.mp3
-S:\Music\Albums\D to I\Distance - My Demons\08 - Ska.mp3
-S:\Music\Albums\D to I\Distance - My Demons\09 - Fractured.mp3
-S:\Music\Albums\D to I\Distance - My Demons\10 - Tuning.mp3
-S:\Music\Albums\D to I\Distance - My Demons\11 - Confined.mp3
-S:\Music\Albums\D to I\Distance - My Demons\12 - Delight.mp3
-S:\Music\Albums\D to I\Distance - My Demons\folder.jpg
 S:\Music\Albums\D to I\DJ Shadow - Endtroducing\01 - Best Foot Forward.mp3
 S:\Music\Albums\D to I\DJ Shadow - Endtroducing\02 - Building Steam With a Grain of Salt.mp3
 S:\Music\Albums\D to I\DJ Shadow - Endtroducing\03 - The Number Song.mp3
@@ -1365,17 +1322,6 @@ S:\Music\Albums\D to I\Hajime Mizoguchi - Jin-Roh (The Wolf Brigade)\20 - Seal.m
 S:\Music\Albums\D to I\Hajime Mizoguchi - Jin-Roh (The Wolf Brigade)\21 - The Top.mp3
 S:\Music\Albums\D to I\Hajime Mizoguchi - Jin-Roh (The Wolf Brigade)\22 - Grace ~ Main Theme ~ Omega.mp3
 S:\Music\Albums\D to I\Hajime Mizoguchi - Jin-Roh (The Wolf Brigade)\folder.jpg
-S:\Music\Albums\D to I\Headhunter - Nomad\01 - Life Form.mp3
-S:\Music\Albums\D to I\Headhunter - Nomad\02 - Prototype.mp3
-S:\Music\Albums\D to I\Headhunter - Nomad\03 - Technopolis.mp3
-S:\Music\Albums\D to I\Headhunter - Nomad\04 - Grounded.mp3
-S:\Music\Albums\D to I\Headhunter - Nomad\05 - Your Say.mp3
-S:\Music\Albums\D to I\Headhunter - Nomad\06 - Paradigm Shift.mp3
-S:\Music\Albums\D to I\Headhunter - Nomad\07 - Physics Impulse.mp3
-S:\Music\Albums\D to I\Headhunter - Nomad\08 - In Motion.mp3
-S:\Music\Albums\D to I\Headhunter - Nomad\09 - Baseflow.mp3
-S:\Music\Albums\D to I\Headhunter - Nomad\10 - Birk's Range.mp3
-S:\Music\Albums\D to I\Headhunter - Nomad\folder.jpg
 S:\Music\Albums\D to I\Heltah Skeltah - Nocturnal\01 - Intro (Here We Come).mp3
 S:\Music\Albums\D to I\Heltah Skeltah - Nocturnal\02 - Letha Brainz Blo.mp3
 S:\Music\Albums\D to I\Heltah Skeltah - Nocturnal\03 - Undastand.mp3
