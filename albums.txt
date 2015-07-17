@@ -9,10 +9,8 @@ D:\Dropbox\Music\Albums\A to C\A.r.t. Wilson - Overworld
 D:\Dropbox\Music\Albums\A to C\Andras & Oscar - Cafe Romantica
 D:\Dropbox\Music\Albums\A to C\Andras - Embassy Cafe
 D:\Dropbox\Music\Albums\A to C\Ash Ra Tempel - Friendship
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total
 D:\Dropbox\Music\Albums\A to C\Bobby Caldwell - Carry On
 D:\Dropbox\Music\Albums\A to C\Brandt Brauer Frick - You Make Me Real
-D:\Dropbox\Music\Albums\A to C\Brian Eno - Ambient 1 (Music for Airports)
 D:\Dropbox\Music\Albums\A to C\Bryan Ferry - Boys and Girls
 D:\Dropbox\Music\Albums\A to C\Calm - Shadow of the Earth
 D:\Dropbox\Music\Albums\A to C\Cat System Corp. & Stereo Component - Ocean Beach
@@ -69,19 +67,6 @@ D:\Dropbox\Music\Albums\A to C\Ash Ra Tempel - Friendship\01 - Reunion.mp3
 D:\Dropbox\Music\Albums\A to C\Ash Ra Tempel - Friendship\02 - Pikant.mp3
 D:\Dropbox\Music\Albums\A to C\Ash Ra Tempel - Friendship\03 - Friendship.mp3
 D:\Dropbox\Music\Albums\A to C\Ash Ra Tempel - Friendship\folder.jpg
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total\01 Missing.mp3
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total\02 Reality Sparks.mp3
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total\03 Rain Dance.mp3
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total\04 Sun Dance.mp3
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total\05 Ja Rule.mp3
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total\06 Golden Eye.mp3
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total\07 Aches.mp3
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total\08 Drone Zone.mp3
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total\09 Weeeb.mp3
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total\10 Hotel Exile.mp3
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total\11 Quest 1.mp3
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total\12 Discovery - New Dawn.mp3
-D:\Dropbox\Music\Albums\A to C\Baba Stiltz - Total\folder.jpg
 D:\Dropbox\Music\Albums\A to C\Bobby Caldwell - Carry On\01 - All of My Love.mp3
 D:\Dropbox\Music\Albums\A to C\Bobby Caldwell - Carry On\02 - Sunny Hills.mp3
 D:\Dropbox\Music\Albums\A to C\Bobby Caldwell - Carry On\03 - Loving You.mp3
@@ -101,11 +86,6 @@ D:\Dropbox\Music\Albums\A to C\Brandt Brauer Frick - You Make Me Real\07 - R.W. 
 D:\Dropbox\Music\Albums\A to C\Brandt Brauer Frick - You Make Me Real\08 - You Make Me Real.mp3
 D:\Dropbox\Music\Albums\A to C\Brandt Brauer Frick - You Make Me Real\09 - Teufelsleiter.mp3
 D:\Dropbox\Music\Albums\A to C\Brandt Brauer Frick - You Make Me Real\folder.jpg
-D:\Dropbox\Music\Albums\A to C\Brian Eno - Ambient 1 (Music for Airports)\01 - 1-1.mp3
-D:\Dropbox\Music\Albums\A to C\Brian Eno - Ambient 1 (Music for Airports)\02 - 2-1.mp3
-D:\Dropbox\Music\Albums\A to C\Brian Eno - Ambient 1 (Music for Airports)\03 - 1-2.mp3
-D:\Dropbox\Music\Albums\A to C\Brian Eno - Ambient 1 (Music for Airports)\04 - 2-2.mp3
-D:\Dropbox\Music\Albums\A to C\Brian Eno - Ambient 1 (Music for Airports)\folder.jpg
 D:\Dropbox\Music\Albums\A to C\Bryan Ferry - Boys and Girls\01 - Sensation.mp3
 D:\Dropbox\Music\Albums\A to C\Bryan Ferry - Boys and Girls\02 - Slave to Love.mp3
 D:\Dropbox\Music\Albums\A to C\Bryan Ferry - Boys and Girls\03 - Don't Stop the Dance.mp3
@@ -451,7 +431,6 @@ D:\Dropbox\Music\Albums\D to I\The Deele - Eyes of a Stranger\folder.jpg
 D:\Dropbox\Music\Albums\J to L\Jaako Eino Kalevi - Yin Yang Theatre
 D:\Dropbox\Music\Albums\J to L\Jimmy Edgar - Majenta
 D:\Dropbox\Music\Albums\J to L\Jimmy Edgar - XXX
-D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - Born
 D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - El Sur
 D:\Dropbox\Music\Albums\J to L\Johnny Nash - Phantom Actors
 D:\Dropbox\Music\Albums\J to L\Jonny Nash - Exit Strategies
@@ -501,15 +480,6 @@ D:\Dropbox\Music\Albums\J to L\Jimmy Edgar - XXX\10 - Midnite Fone Call.mp3
 D:\Dropbox\Music\Albums\J to L\Jimmy Edgar - XXX\11 - Vibration.mp3
 D:\Dropbox\Music\Albums\J to L\Jimmy Edgar - XXX\12 - Sleep Connexion (Date Rp).mp3
 D:\Dropbox\Music\Albums\J to L\Jimmy Edgar - XXX\folder.jpg
-D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - Born\01 - Born.mp3
-D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - Born\02 - El Sur.mp3
-D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - Born\03 - 1492.mp3
-D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - Born\04 - Una Vida Llarga I Tranquil-La.mp3
-D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - Born\05 - Sa Fosca.mp3
-D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - Born\06 - Nits De La Sultana.mp3
-D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - Born\07 - Water Drops.mp3
-D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - Born\08 - Ballad For an Empty Street.mp3
-D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - Born\folder.jpg
 D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - El Sur\01 - The Boogie.mp3
 D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - El Sur\02 - El Cumplea¤os Se Jaimito.mp3
 D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - El Sur\03 - Valerie.mp3
@@ -694,10 +664,8 @@ D:\Dropbox\Music\Albums\J to L\Los Macuanos - El Origen\folder.jpg
 D:\Dropbox\Music\Albums\M to O\MACROSS 82-99 - SAILORWAVE
 D:\Dropbox\Music\Albums\M to O\Makoto Matsushita - First Light
 D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4
-D:\Dropbox\Music\Albums\M to O\Max Mohr - Trickmixer's Revenge
 D:\Dropbox\Music\Albums\M to O\Michael Jackson - Off the Wall
 D:\Dropbox\Music\Albums\M to O\Moon B - II
-D:\Dropbox\Music\Albums\M to O\Motor City Drum Ensemble - Raw Cuts Vol. 1
 D:\Dropbox\Music\Albums\M to O\My Morning Jacket - At Dawn
 D:\Dropbox\Music\Albums\M to O\My Morning Jacket - It Still Moves
 D:\Dropbox\Music\Albums\M to O\Naoya Matsuoka - Watermelon Dandies
@@ -706,7 +674,6 @@ D:\Dropbox\Music\Albums\M to O\Nick Monaco - Mating Call
 D:\Dropbox\Music\Albums\M to O\Nick Monaco - Naked is My Nature
 D:\Dropbox\Music\Albums\M to O\No Regular Play - Endangered Species
 D:\Dropbox\Music\Albums\M to O\Nuel - Trance Mutation
-D:\Dropbox\Music\Albums\M to O\Omar Souleyman - Wenu Wenu
 D:\Dropbox\Music\Albums\M to O\Orlando Johnson & Trance - Turn the Music On
 D:\Dropbox\Music\Albums\M to O\MACROSS 82-99 - SAILORWAVE\01 - MACROSS 82-99 - NEW DAWN.mp3
 D:\Dropbox\Music\Albums\M to O\MACROSS 82-99 - SAILORWAVE\02 - MACROSS 82-99 - Battlefield.mp3
@@ -740,16 +707,6 @@ D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4\06 - You're Freaky Girl.mp3
 D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4\07 - Freaky Freaky Land of Freakiness.mp3
 D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4\08 - Freaky Feeling.mp3
 D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4\folder.jpg
-D:\Dropbox\Music\Albums\M to O\Max Mohr - Trickmixer's Revenge\01 - Diamanten.mp3
-D:\Dropbox\Music\Albums\M to O\Max Mohr - Trickmixer's Revenge\02 - Assonja Swynja.mp3
-D:\Dropbox\Music\Albums\M to O\Max Mohr - Trickmixer's Revenge\03 - Spellbound.mp3
-D:\Dropbox\Music\Albums\M to O\Max Mohr - Trickmixer's Revenge\04 - Lucky Go Wild.mp3
-D:\Dropbox\Music\Albums\M to O\Max Mohr - Trickmixer's Revenge\05 - Mellowmoon 2.mp3
-D:\Dropbox\Music\Albums\M to O\Max Mohr - Trickmixer's Revenge\06 - Schaben.mp3
-D:\Dropbox\Music\Albums\M to O\Max Mohr - Trickmixer's Revenge\07 - Old Song.mp3
-D:\Dropbox\Music\Albums\M to O\Max Mohr - Trickmixer's Revenge\08 - On the Run.mp3
-D:\Dropbox\Music\Albums\M to O\Max Mohr - Trickmixer's Revenge\09 - In the Woods.mp3
-D:\Dropbox\Music\Albums\M to O\Max Mohr - Trickmixer's Revenge\folder.jpg
 D:\Dropbox\Music\Albums\M to O\Michael Jackson - Off the Wall\01 - Don't Stop 'Til You Get Enough.mp3
 D:\Dropbox\Music\Albums\M to O\Michael Jackson - Off the Wall\02 - Rock With You.mp3
 D:\Dropbox\Music\Albums\M to O\Michael Jackson - Off the Wall\03 - Working Day and Night.mp3
@@ -770,17 +727,6 @@ D:\Dropbox\Music\Albums\M to O\Moon B - II\06 - Puddin'.mp3
 D:\Dropbox\Music\Albums\M to O\Moon B - II\07 - Those Moments.mp3
 D:\Dropbox\Music\Albums\M to O\Moon B - II\08 - Cold G.mp3
 D:\Dropbox\Music\Albums\M to O\Moon B - II\folder.jpg
-D:\Dropbox\Music\Albums\M to O\Motor City Drum Ensemble - Raw Cuts Vol. 1\01 - Raw Cuts #1.mp3
-D:\Dropbox\Music\Albums\M to O\Motor City Drum Ensemble - Raw Cuts Vol. 1\02 - Raw Cuts #2.mp3
-D:\Dropbox\Music\Albums\M to O\Motor City Drum Ensemble - Raw Cuts Vol. 1\03 - Prayer.mp3
-D:\Dropbox\Music\Albums\M to O\Motor City Drum Ensemble - Raw Cuts Vol. 1\04 - Raw Cuts #3.mp3
-D:\Dropbox\Music\Albums\M to O\Motor City Drum Ensemble - Raw Cuts Vol. 1\05 - Raw Cuts #4.mp3
-D:\Dropbox\Music\Albums\M to O\Motor City Drum Ensemble - Raw Cuts Vol. 1\06 - All My Life.mp3
-D:\Dropbox\Music\Albums\M to O\Motor City Drum Ensemble - Raw Cuts Vol. 1\07 - Monster Box.mp3
-D:\Dropbox\Music\Albums\M to O\Motor City Drum Ensemble - Raw Cuts Vol. 1\08 - Raw Cuts #5.mp3
-D:\Dropbox\Music\Albums\M to O\Motor City Drum Ensemble - Raw Cuts Vol. 1\09 - Raw Cuts #6.mp3
-D:\Dropbox\Music\Albums\M to O\Motor City Drum Ensemble - Raw Cuts Vol. 1\10 - There's a Truth.mp3
-D:\Dropbox\Music\Albums\M to O\Motor City Drum Ensemble - Raw Cuts Vol. 1\folder.jpg
 D:\Dropbox\Music\Albums\M to O\My Morning Jacket - At Dawn\01 - At Dawn.mp3
 D:\Dropbox\Music\Albums\M to O\My Morning Jacket - At Dawn\02 - Lowdown.mp3
 D:\Dropbox\Music\Albums\M to O\My Morning Jacket - At Dawn\03 - The Way That He Sings.mp3
@@ -866,14 +812,6 @@ D:\Dropbox\Music\Albums\M to O\Nuel - Trance Mutation\05 - Rhythm.mp3
 D:\Dropbox\Music\Albums\M to O\Nuel - Trance Mutation\06 - Cause and Effect.mp3
 D:\Dropbox\Music\Albums\M to O\Nuel - Trance Mutation\07 - Gender.mp3
 D:\Dropbox\Music\Albums\M to O\Nuel - Trance Mutation\folder.jpg
-D:\Dropbox\Music\Albums\M to O\Omar Souleyman - Wenu Wenu\01 - Wenu Wenu.mp3
-D:\Dropbox\Music\Albums\M to O\Omar Souleyman - Wenu Wenu\02 - Ya Yumma.mp3
-D:\Dropbox\Music\Albums\M to O\Omar Souleyman - Wenu Wenu\03 - Nahy.mp3
-D:\Dropbox\Music\Albums\M to O\Omar Souleyman - Wenu Wenu\04 - Khattaba.mp3
-D:\Dropbox\Music\Albums\M to O\Omar Souleyman - Wenu Wenu\05 - Warni Warni.mp3
-D:\Dropbox\Music\Albums\M to O\Omar Souleyman - Wenu Wenu\06 - Mawal Jamar.mp3
-D:\Dropbox\Music\Albums\M to O\Omar Souleyman - Wenu Wenu\07 - Yagbuni.mp3
-D:\Dropbox\Music\Albums\M to O\Omar Souleyman - Wenu Wenu\folder.jpg
 D:\Dropbox\Music\Albums\M to O\Orlando Johnson & Trance - Turn the Music On\01 - Can't Break Loose.mp3
 D:\Dropbox\Music\Albums\M to O\Orlando Johnson & Trance - Turn the Music On\02 - Having a Party.mp3
 D:\Dropbox\Music\Albums\M to O\Orlando Johnson & Trance - Turn the Music On\03 - Fantasize.mp3
