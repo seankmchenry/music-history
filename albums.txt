@@ -10,6 +10,7 @@ D:\Dropbox\Music\Albums\A to C\Andras & Oscar - Cafe Romantica
 D:\Dropbox\Music\Albums\A to C\Andras - Embassy Cafe
 D:\Dropbox\Music\Albums\A to C\Ash Ra Tempel - Friendship
 D:\Dropbox\Music\Albums\A to C\Bobby Caldwell - Carry On
+D:\Dropbox\Music\Albums\A to C\Bobby Lyle - Bobby Lyle Plays Electone GX707
 D:\Dropbox\Music\Albums\A to C\Brandt Brauer Frick - You Make Me Real
 D:\Dropbox\Music\Albums\A to C\Bryan Ferry - Boys and Girls
 D:\Dropbox\Music\Albums\A to C\Calm - Shadow of the Earth
@@ -76,6 +77,15 @@ D:\Dropbox\Music\Albums\A to C\Bobby Caldwell - Carry On\06 - Jamaica.mp3
 D:\Dropbox\Music\Albums\A to C\Bobby Caldwell - Carry On\07 - You Belong to Me.mp3
 D:\Dropbox\Music\Albums\A to C\Bobby Caldwell - Carry On\08 - Carry On.mp3
 D:\Dropbox\Music\Albums\A to C\Bobby Caldwell - Carry On\folder.jpg
+D:\Dropbox\Music\Albums\A to C\Bobby Lyle - Bobby Lyle Plays Electone GX707\01 - Dance of Love and Peace.mp3
+D:\Dropbox\Music\Albums\A to C\Bobby Lyle - Bobby Lyle Plays Electone GX707\02 - By The Time I Get to Phoenix.mp3
+D:\Dropbox\Music\Albums\A to C\Bobby Lyle - Bobby Lyle Plays Electone GX707\03 - Shaft.mp3
+D:\Dropbox\Music\Albums\A to C\Bobby Lyle - Bobby Lyle Plays Electone GX707\04 - Making Love.mp3
+D:\Dropbox\Music\Albums\A to C\Bobby Lyle - Bobby Lyle Plays Electone GX707\05 - The Temple at Nara.mp3
+D:\Dropbox\Music\Albums\A to C\Bobby Lyle - Bobby Lyle Plays Electone GX707\06 - Touch Me in the Morning.mp3
+D:\Dropbox\Music\Albums\A to C\Bobby Lyle - Bobby Lyle Plays Electone GX707\07 - The Wave.mp3
+D:\Dropbox\Music\Albums\A to C\Bobby Lyle - Bobby Lyle Plays Electone GX707\08 - Shabu-Shabu.mp3
+D:\Dropbox\Music\Albums\A to C\Bobby Lyle - Bobby Lyle Plays Electone GX707\folder.jpg
 D:\Dropbox\Music\Albums\A to C\Brandt Brauer Frick - You Make Me Real\01 - Corky Prelude.mp3
 D:\Dropbox\Music\Albums\A to C\Brandt Brauer Frick - You Make Me Real\02 - Bop.mp3
 D:\Dropbox\Music\Albums\A to C\Brandt Brauer Frick - You Make Me Real\03 - Paparazzi.mp3
@@ -189,6 +199,7 @@ D:\Dropbox\Music\Albums\A to C\The Blue Nile - Hats\06 - Seven A.M..mp3
 D:\Dropbox\Music\Albums\A to C\The Blue Nile - Hats\07 - Saturday Night.mp3
 D:\Dropbox\Music\Albums\A to C\The Blue Nile - Hats\folder.jpg
 D:\Dropbox\Music\Albums\D to I\D.K. - Drop
+D:\Dropbox\Music\Albums\D to I\Deodato - Live Island
 D:\Dropbox\Music\Albums\D to I\Donnie & Joe Emerson - Dreamin' Wild
 D:\Dropbox\Music\Albums\D to I\Dr. Atmo & Deep Space Network - I.F
 D:\Dropbox\Music\Albums\D to I\Fela Kuti & Afrika 70 - Zombie
@@ -201,6 +212,7 @@ D:\Dropbox\Music\Albums\D to I\Gala Drop - Gala Drop
 D:\Dropbox\Music\Albums\D to I\Gaussian Curve - Clouds
 D:\Dropbox\Music\Albums\D to I\Gigi Masin - Wind
 D:\Dropbox\Music\Albums\D to I\Hall & Oates - The Singles
+D:\Dropbox\Music\Albums\D to I\HAPA - HAPA
 D:\Dropbox\Music\Albums\D to I\Harold Budd - The Pavilion of Dreams
 D:\Dropbox\Music\Albums\D to I\Haruomi Hosono - Pacific
 D:\Dropbox\Music\Albums\D to I\Haruomi Hosono - The Aegean Sea
@@ -221,6 +233,15 @@ D:\Dropbox\Music\Albums\D to I\D.K. - Drop\06 - Keep On (Part 1).mp3
 D:\Dropbox\Music\Albums\D to I\D.K. - Drop\07 - Losing Ground.mp3
 D:\Dropbox\Music\Albums\D to I\D.K. - Drop\08 - Keep On (Part 2).mp3
 D:\Dropbox\Music\Albums\D to I\D.K. - Drop\folder.jpg
+D:\Dropbox\Music\Albums\D to I\Deodato - Live Island\01 - Area Code 808.mp3
+D:\Dropbox\Music\Albums\D to I\Deodato - Live Island\02 - Whistle Bump.mp3
+D:\Dropbox\Music\Albums\D to I\Deodato - Live Island\03 - Tahiti Hut.mp3
+D:\Dropbox\Music\Albums\D to I\Deodato - Live Island\04 - San Juan Sunset.mp3
+D:\Dropbox\Music\Albums\D to I\Deodato - Live Island\05 - Love Island.mp3
+D:\Dropbox\Music\Albums\D to I\Deodato - Live Island\06 - Chariot of the Gods.mp3
+D:\Dropbox\Music\Albums\D to I\Deodato - Live Island\07 - Pi¤a Colada.mp3
+D:\Dropbox\Music\Albums\D to I\Deodato - Live Island\08 - Take the A Train.mp3
+D:\Dropbox\Music\Albums\D to I\Deodato - Live Island\folder.jpg
 D:\Dropbox\Music\Albums\D to I\Donnie & Joe Emerson - Dreamin' Wild\01 - Good Time.mp3
 D:\Dropbox\Music\Albums\D to I\Donnie & Joe Emerson - Dreamin' Wild\02 - Give Me the Chance.mp3
 D:\Dropbox\Music\Albums\D to I\Donnie & Joe Emerson - Dreamin' Wild\03 - Baby.mp3
@@ -328,6 +349,17 @@ D:\Dropbox\Music\Albums\D to I\Hall & Oates - The Singles\16 - Some Things Are B
 D:\Dropbox\Music\Albums\D to I\Hall & Oates - The Singles\17 - Everything Your Heart Desires.mp3
 D:\Dropbox\Music\Albums\D to I\Hall & Oates - The Singles\18 - Rich Girl.mp3
 D:\Dropbox\Music\Albums\D to I\Hall & Oates - The Singles\folder.jpg
+D:\Dropbox\Music\Albums\D to I\HAPA - HAPA\01 - Haleakala Ku Hanohano.mp3
+D:\Dropbox\Music\Albums\D to I\HAPA - HAPA\02 - Kaopuiki Aloha.mp3
+D:\Dropbox\Music\Albums\D to I\HAPA - HAPA\03 - Ka Uluwehi O Ke Kai.mp3
+D:\Dropbox\Music\Albums\D to I\HAPA - HAPA\04 - Anjuli.mp3
+D:\Dropbox\Music\Albums\D to I\HAPA - HAPA\05 - Lei Pikake.mp3
+D:\Dropbox\Music\Albums\D to I\HAPA - HAPA\06 - Olinda Road.mp3
+D:\Dropbox\Music\Albums\D to I\HAPA - HAPA\07 - Kuu Lei Kuuipo.mp3
+D:\Dropbox\Music\Albums\D to I\HAPA - HAPA\08 - Justin's Lullaby.mp3
+D:\Dropbox\Music\Albums\D to I\HAPA - HAPA\09 - Kuu Lei Awapuhi.mp3
+D:\Dropbox\Music\Albums\D to I\HAPA - HAPA\10 - Oh My Love.mp3
+D:\Dropbox\Music\Albums\D to I\HAPA - HAPA\folder.jpg
 D:\Dropbox\Music\Albums\D to I\Harold Budd - The Pavilion of Dreams\01 - Bismillahi 'Rrahman 'Rrahim.mp3
 D:\Dropbox\Music\Albums\D to I\Harold Budd - The Pavilion of Dreams\02 - Two Songs.mp3
 D:\Dropbox\Music\Albums\D to I\Harold Budd - The Pavilion of Dreams\03 - Madrigals of the Rose Angel.mp3
@@ -432,6 +464,7 @@ D:\Dropbox\Music\Albums\J to L\Jaako Eino Kalevi - Yin Yang Theatre
 D:\Dropbox\Music\Albums\J to L\Jimmy Edgar - Majenta
 D:\Dropbox\Music\Albums\J to L\Jimmy Edgar - XXX
 D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - El Sur
+D:\Dropbox\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock
 D:\Dropbox\Music\Albums\J to L\Johnny Nash - Phantom Actors
 D:\Dropbox\Music\Albums\J to L\Jonny Nash - Exit Strategies
 D:\Dropbox\Music\Albums\J to L\Jose Padilla - So Many Colours
@@ -491,6 +524,17 @@ D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - El Sur\08 - Migas.mp3
 D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - El Sur\09 - Sa Fosca.mp3
 D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - El Sur\10 - La Espa¤ola.mp3
 D:\Dropbox\Music\Albums\J to L\Joan Bibiloni - El Sur\folder.jpg
+D:\Dropbox\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\01 - Shattered Dreams.mp3
+D:\Dropbox\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\02 - Heart of Gold.mp3
+D:\Dropbox\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\03 - Turn Back the Clock.mp3
+D:\Dropbox\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\04 - Don't Say It's Love.mp3
+D:\Dropbox\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\05 - What Other Reason.mp3
+D:\Dropbox\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\06 - I Don't Want to Be a Hero.mp3
+D:\Dropbox\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\07 - Listen.mp3
+D:\Dropbox\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\08 - Different Reasons.mp3
+D:\Dropbox\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\09 - Don't Let It End This Way.mp3
+D:\Dropbox\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\10 - Foolish Heart.mp3
+D:\Dropbox\Music\Albums\J to L\Johnny Hates Jazz - Turn Back the Clock\folder.jpg
 D:\Dropbox\Music\Albums\J to L\Johnny Nash - Phantom Actors\01 - A Shallow Space.mp3
 D:\Dropbox\Music\Albums\J to L\Johnny Nash - Phantom Actors\02 - Vision Partially Obscured.mp3
 D:\Dropbox\Music\Albums\J to L\Johnny Nash - Phantom Actors\03 - Year of the Wooden Horse.mp3
@@ -825,6 +869,7 @@ D:\Dropbox\Music\Albums\P to S\Prins Thomas - Prins Thomas II
 D:\Dropbox\Music\Albums\P to S\RAH Band - RAH Band
 D:\Dropbox\Music\Albums\P to S\Raul Lovisoni & Francesco Messina - Prati Bagnati Del Monte Analogo
 D:\Dropbox\Music\Albums\P to S\Reverso 68 - Well Heeled Vol. 1
+D:\Dropbox\Music\Albums\P to S\Riechmann - Wunderbar
 D:\Dropbox\Music\Albums\P to S\Rinder & Lewis - Seven Deadly Sins
 D:\Dropbox\Music\Albums\P to S\Robbie M - Let's Groove
 D:\Dropbox\Music\Albums\P to S\Roxy Music - Avalon
@@ -888,6 +933,13 @@ D:\Dropbox\Music\Albums\P to S\Reverso 68 - Well Heeled Vol. 1\09 - Night Shade.
 D:\Dropbox\Music\Albums\P to S\Reverso 68 - Well Heeled Vol. 1\10 - Well Heeled.mp3
 D:\Dropbox\Music\Albums\P to S\Reverso 68 - Well Heeled Vol. 1\11 - Storm in a D Cup.mp3
 D:\Dropbox\Music\Albums\P to S\Reverso 68 - Well Heeled Vol. 1\folder.jpg
+D:\Dropbox\Music\Albums\P to S\Riechmann - Wunderbar\01 - Wunderbar.mp3
+D:\Dropbox\Music\Albums\P to S\Riechmann - Wunderbar\02 - Abendlicht.mp3
+D:\Dropbox\Music\Albums\P to S\Riechmann - Wunderbar\03 - Weltweit.mp3
+D:\Dropbox\Music\Albums\P to S\Riechmann - Wunderbar\04 - Silverland.mp3
+D:\Dropbox\Music\Albums\P to S\Riechmann - Wunderbar\05 - Himmelblau.mp3
+D:\Dropbox\Music\Albums\P to S\Riechmann - Wunderbar\06 - Traumzeit.mp3
+D:\Dropbox\Music\Albums\P to S\Riechmann - Wunderbar\folder.jpg
 D:\Dropbox\Music\Albums\P to S\Rinder & Lewis - Seven Deadly Sins\01 - Lust.mp3
 D:\Dropbox\Music\Albums\P to S\Rinder & Lewis - Seven Deadly Sins\02 - Sloth.mp3
 D:\Dropbox\Music\Albums\P to S\Rinder & Lewis - Seven Deadly Sins\03 - Gluttony.mp3
@@ -1837,6 +1889,8 @@ D:\Dropbox\Music\EPs\Janet Jackson - Nasty (Cool Summer Mix)
 D:\Dropbox\Music\EPs\Kerri Chandler - Atmosphere E.P
 D:\Dropbox\Music\EPs\Mike Kay - Low Altitude
 D:\Dropbox\Music\EPs\N.Y. House'n Authority - APT. EP
+D:\Dropbox\Music\EPs\Noncollective - Non, N§.2
+D:\Dropbox\Music\EPs\Rick Wade - Sweet Life
 D:\Dropbox\Music\EPs\Space Dimension Controller - Correlation EP
 D:\Dropbox\Music\EPs\Tako - My Kind of Woman
 D:\Dropbox\Music\EPs\Telephones - The Ocean Called EP
@@ -1916,6 +1970,16 @@ D:\Dropbox\Music\EPs\N.Y. House'n Authority - APT. EP\04 - APT. 1B.mp3
 D:\Dropbox\Music\EPs\N.Y. House'n Authority - APT. EP\05 - APT. 2B.mp3
 D:\Dropbox\Music\EPs\N.Y. House'n Authority - APT. EP\06 - APT. 3B.mp3
 D:\Dropbox\Music\EPs\N.Y. House'n Authority - APT. EP\folder.jpg
+D:\Dropbox\Music\EPs\Noncollective - Non, N§.2\01 - It's Really You (Jan Schulte Edit).mp3
+D:\Dropbox\Music\EPs\Noncollective - Non, N§.2\02 - Gintonica (Ric Piccolo Rework).mp3
+D:\Dropbox\Music\EPs\Noncollective - Non, N§.2\03 - Magic Feelings (Abel Edit).mp3
+D:\Dropbox\Music\EPs\Noncollective - Non, N§.2\04 - Bay Drive (Raphael Top Secret Edit).mp3
+D:\Dropbox\Music\EPs\Noncollective - Non, N§.2\folder.jpg
+D:\Dropbox\Music\EPs\Rick Wade - Sweet Life\01 - Sweet Life.mp3
+D:\Dropbox\Music\EPs\Rick Wade - Sweet Life\02 - Sweet Life (Mr. Beatnick Remix).mp3
+D:\Dropbox\Music\EPs\Rick Wade - Sweet Life\03 - The Chateau.mp3
+D:\Dropbox\Music\EPs\Rick Wade - Sweet Life\04 - Jazz Militia.mp3
+D:\Dropbox\Music\EPs\Rick Wade - Sweet Life\folder.jpg
 D:\Dropbox\Music\EPs\Space Dimension Controller - Correlation EP\01 - First Glance.mp3
 D:\Dropbox\Music\EPs\Space Dimension Controller - Correlation EP\02 - Familiar Terrain.mp3
 D:\Dropbox\Music\EPs\Space Dimension Controller - Correlation EP\03 - Butterflies of Malaysia.mp3
