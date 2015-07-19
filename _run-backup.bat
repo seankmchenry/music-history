@@ -14,4 +14,4 @@ rem /* Singles (Archived) */
 dir /B /S *.mp3 D:\Dropbox\Archived\Music\Singles > .\singles_archived.txt
 
 rem /* Old Music */
-dir /B /S *.mp3 S:\Music > .\music_old.txt
+IF EXIST S:\ dir /B /S *.mp3 S:\Music > .\music_old.txt
