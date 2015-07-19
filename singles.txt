@@ -9,7 +9,6 @@ D:\Dropbox\Music\Singles\119-120
 D:\Dropbox\Music\Singles\121-123
 D:\Dropbox\Music\Singles\124-160
 D:\Dropbox\Music\Singles\Bootleg
-D:\Dropbox\Music\Singles\BPM
 D:\Dropbox\Music\Singles\070-098\(73.70) Dennis Brown - If I Follow My Heart.mp3
 D:\Dropbox\Music\Singles\070-098\(75.14) Bobby Lyle - Making Love.mp3
 D:\Dropbox\Music\Singles\070-098\(75.34) Jan Hammer - Golden Triangle.mp3
@@ -64,6 +63,7 @@ D:\Dropbox\Music\Singles\070-098\(89.90) The Gap Band - Yearning for Your Love.m
 D:\Dropbox\Music\Singles\070-098\(90.00) Analog Players Society - Coule'Ba.mp3
 D:\Dropbox\Music\Singles\070-098\(90.00) Greg Paulus & John Camp - Remo.mp3
 D:\Dropbox\Music\Singles\070-098\(90.00) Greg Paulus - Daisy Duke.mp3
+D:\Dropbox\Music\Singles\070-098\(90.00) Khidja - Abdul.mp3
 D:\Dropbox\Music\Singles\070-098\(90.20) Barry White - It's Only Love Doing Its Thing.mp3
 D:\Dropbox\Music\Singles\070-098\(91.00) Chateau Marmont - Nibiru (Beautiful Swimmers Late Night Dubbing Mix).mp3
 D:\Dropbox\Music\Singles\070-098\(91.24) Uku Kuut - Cat Dream.mp3
@@ -77,6 +77,7 @@ D:\Dropbox\Music\Singles\070-098\(92.20) Talk Talk - Life's What You Make It (Ex
 D:\Dropbox\Music\Singles\070-098\(92.34) Philip Bailey - I Know (Extended Dance Version).mp3
 D:\Dropbox\Music\Singles\070-098\(92.42) Ultramarine - Honey.mp3
 D:\Dropbox\Music\Singles\070-098\(92.50) Lapti - Day By Day.mp3
+D:\Dropbox\Music\Singles\070-098\(93.00) Blue Night - Turn Me Loose.mp3
 D:\Dropbox\Music\Singles\070-098\(93.00) Brandy - He's Mine (LNTG Rework).mp3
 D:\Dropbox\Music\Singles\070-098\(93.00) Russ Ballard - Voices.mp3
 D:\Dropbox\Music\Singles\070-098\(93.05) Carly Simon - Why (Extended Version).mp3
@@ -111,6 +112,7 @@ D:\Dropbox\Music\Singles\070-098\(96.00) Tad Wily - Childish Fly (Instrumental M
 D:\Dropbox\Music\Singles\070-098\(96.00) Tatsuro Yamashita - Mermaid.mp3
 D:\Dropbox\Music\Singles\070-098\(96.01) Maxi Priest - Close to You.mp3
 D:\Dropbox\Music\Singles\070-098\(96.02) Matt Bianco - Summer Song.mp3
+D:\Dropbox\Music\Singles\070-098\(96.08) Angela - I Gotta Little Love.mp3
 D:\Dropbox\Music\Singles\070-098\(96.24) Whodini - Friends.mp3
 D:\Dropbox\Music\Singles\070-098\(96.40) Yoshino Fujimal - Freeway 5 to South.mp3
 D:\Dropbox\Music\Singles\070-098\(96.85) Viola Willis - Dare to Dream (London Remix).mp3
@@ -211,6 +213,7 @@ D:\Dropbox\Music\Singles\099-104\(103.60) Sister Sledge - Thinking of You.mp3
 D:\Dropbox\Music\Singles\099-104\(103.70) Dam-Funk - Hood Pass Intact (Instrumental).mp3
 D:\Dropbox\Music\Singles\099-104\(103.70) Kwanzaa Posse - Wicked Funk (Hypno Beat).mp3
 D:\Dropbox\Music\Singles\099-104\(103.80) Nel Oliver - You Are My Dream.mp3
+D:\Dropbox\Music\Singles\099-104\(103.87) Ozo - Anambra (Part 2) (Sasha Remix 1).mp3
 D:\Dropbox\Music\Singles\099-104\(103.90) Tullio De Piscopo - Stop Bajon (Primavera) (Club Mix).mp3
 D:\Dropbox\Music\Singles\099-104\(103.92) Cashmere - Inner Feelings.mp3
 D:\Dropbox\Music\Singles\099-104\(104.00) Bruno Be - Out There.mp3
@@ -234,6 +237,7 @@ D:\Dropbox\Music\Singles\099-104\(104.88) Haruomi Hosono - Bride of Mykonos.mp3
 D:\Dropbox\Music\Singles\099-104\(104.94) Mike Francis - Survivor.mp3
 D:\Dropbox\Music\Singles\099-104\(104.98) Joao Donato - O Morro Nao Tem Vez (Onur Engin Edit).mp3
 D:\Dropbox\Music\Singles\099-104\(99.00) Bell Towers - After Party at Jackson's House.mp3
+D:\Dropbox\Music\Singles\099-104\(99.00) Hiroshi Sato - Say Goodbye.mp3
 D:\Dropbox\Music\Singles\099-104\(99.00) Late Nite Tuff Guy - Wishing (LNTG Dream Remix).mp3
 D:\Dropbox\Music\Singles\099-104\(99.00) Womack & Womack - M.P.B (Missin' Persons Bureau) (Paradise Ballroom Mix).mp3
 D:\Dropbox\Music\Singles\099-104\(99.12) Godley & Creme - Cry.mp3
@@ -984,6 +988,7 @@ D:\Dropbox\Music\Singles\119-120\(120.00) Navid Izadi - Feelin' Purple (Soul Cla
 D:\Dropbox\Music\Singles\119-120\(120.00) Nelue - Right Through You (Faze Action Dub).mp3
 D:\Dropbox\Music\Singles\119-120\(120.00) Omar-S - Psychotic Photosynthesis.mp3
 D:\Dropbox\Music\Singles\119-120\(120.00) Paradis - Parfait Tirage.mp3
+D:\Dropbox\Music\Singles\119-120\(120.00) Paul Johnson - White Winds.mp3
 D:\Dropbox\Music\Singles\119-120\(120.00) Permanent Vacation - Zucker Hut.mp3
 D:\Dropbox\Music\Singles\119-120\(120.00) PiGaia - Natural Wurli (Richard Rossa Remix).mp3
 D:\Dropbox\Music\Singles\119-120\(120.00) Rotciv - Old Good Luvin'.mp3
@@ -1000,6 +1005,7 @@ D:\Dropbox\Music\Singles\119-120\(120.00) Walter Jones - I Am Loved.mp3
 D:\Dropbox\Music\Singles\119-120\(120.00) Womack & Womack - Conscious (Soul Clap Edit).mp3
 D:\Dropbox\Music\Singles\119-120\(120.00) Zev - We All (feat. Greg Paulus).mp3
 D:\Dropbox\Music\Singles\119-120\(120.01) Crystal Waters - 100% Pure Love (Club Mix).mp3
+D:\Dropbox\Music\Singles\119-120\(120.01) Melja - Steady Mobbin'.mp3
 D:\Dropbox\Music\Singles\119-120\(120.01) Michael Mayer - Privat (Original Mix).mp3
 D:\Dropbox\Music\Singles\119-120\(120.02) The Jets - Rocket 2 U (Extended Version).mp3
 D:\Dropbox\Music\Singles\119-120\(120.03) JV - Editchannel XXX.mp3
@@ -1037,6 +1043,7 @@ D:\Dropbox\Music\Singles\119-120\(120.42) Zanzibar Chanel - Ass (R&R Edit).mp3
 D:\Dropbox\Music\Singles\119-120\(120.47) Alpha Child - Gammy Ray (Franc Spangler Remix).mp3
 D:\Dropbox\Music\Singles\119-120\(120.48) Logic - I Got Somethin' (Deep Mix).mp3
 D:\Dropbox\Music\Singles\119-120\(120.48) Patrick Cowley - Sea Hunt.mp3
+D:\Dropbox\Music\Singles\119-120\(120.51) Cube - Concert Boy.mp3
 D:\Dropbox\Music\Singles\119-120\(120.53) The Whispers - I Can Make It Better.mp3
 D:\Dropbox\Music\Singles\119-120\(120.55) Fatima & The Mamluks - Hassan (Razormaid Remix).mp3
 D:\Dropbox\Music\Singles\119-120\(120.56) Alexander Robotnick - Problemes D'Amour (Original).mp3
@@ -1059,6 +1066,7 @@ D:\Dropbox\Music\Singles\121-123\(121.00) MAM - Can't Live Without Music.mp3
 D:\Dropbox\Music\Singles\121-123\(121.00) Nick Monaco - The Stalker (Original Mix).mp3
 D:\Dropbox\Music\Singles\121-123\(121.00) Telephones - Lotusland (Discodromo Remix).mp3
 D:\Dropbox\Music\Singles\121-123\(121.01) Social Disco Club - Simple Dreams.mp3
+D:\Dropbox\Music\Singles\121-123\(121.01) The Other People Place - Let Me Be Me.mp3
 D:\Dropbox\Music\Singles\121-123\(121.02) Grace Jones - Feel Up (Danny Tenaglia Remix).mp3
 D:\Dropbox\Music\Singles\121-123\(121.02) Rosie Gaines - Closer Than Close (Mentor Original).mp3
 D:\Dropbox\Music\Singles\121-123\(121.10) Cerrone - Hooked on You (feat. Jocelyn Brown).mp3
@@ -1262,6 +1270,7 @@ D:\Dropbox\Music\Singles\124-160\(125.39) Sirus - An Eye for an Eye (Pete Heller
 D:\Dropbox\Music\Singles\124-160\(125.41) Kano - It's a War.mp3
 D:\Dropbox\Music\Singles\124-160\(125.50) Cybotron - Clear.mp3
 D:\Dropbox\Music\Singles\124-160\(125.50) Guynamukat - Lagos African Disco Bridge (Brass & Rhodes Creaky Re-Edit).mp3
+D:\Dropbox\Music\Singles\124-160\(125.50) Mouzon's Electric Band - Everybody Get Down.mp3
 D:\Dropbox\Music\Singles\124-160\(125.60) Jaakko Eino Kalevi - Speak Out.mp3
 D:\Dropbox\Music\Singles\124-160\(125.68) Azymuth - Jazz Carnival (Global Communication's Space Jazz Mix).mp3
 D:\Dropbox\Music\Singles\124-160\(125.79) Willesden Dodgers - 122 BPM.mp3
@@ -1280,6 +1289,7 @@ D:\Dropbox\Music\Singles\124-160\(126.05) Yazoo - Don't Go (Re-Mix).mp3
 D:\Dropbox\Music\Singles\124-160\(126.06) Depeche Mode - No Disco (Razormaid Mix).mp3
 D:\Dropbox\Music\Singles\124-160\(126.10) Everything But the Girl - Missing (Todd Terry Remix).mp3
 D:\Dropbox\Music\Singles\124-160\(126.13) Fleetwood Mac - Big Love (Extended Version).mp3
+D:\Dropbox\Music\Singles\124-160\(126.16) Pamala Stanley - Coming Out of Hiding (Vocal).mp3
 D:\Dropbox\Music\Singles\124-160\(126.18) Paul Hardcastle - Rain Forest.mp3
 D:\Dropbox\Music\Singles\124-160\(126.22) RuPaul - Supermodel (You Better Work) (Couture Mix).mp3
 D:\Dropbox\Music\Singles\124-160\(126.26) Patrick Cowley - Megatron Man.mp3
@@ -1347,14 +1357,3 @@ D:\Dropbox\Music\Singles\Bootleg\(126.27) Yusuke Takahama - Jolly Joker (Get Rea
 D:\Dropbox\Music\Singles\Bootleg\(76.48) Brenda & Herb - What Goes Around.mp3
 D:\Dropbox\Music\Singles\Bootleg\(90.35) Roy Ayers - Midnight After Dark.mp3
 D:\Dropbox\Music\Singles\Bootleg\(90.38) Loose Ends - Love Controversy (Vocal Dub).mp3
-D:\Dropbox\Music\Singles\BPM\(103.87) Ozo - Anambra (Part 2) (Sasha Remix 1).mp3
-D:\Dropbox\Music\Singles\BPM\(120.00) Paul Johnson - White Winds.mp3
-D:\Dropbox\Music\Singles\BPM\(120.01) Melja - Steady Mobbin'.mp3
-D:\Dropbox\Music\Singles\BPM\(120.51) Cube - Concert Boy.mp3
-D:\Dropbox\Music\Singles\BPM\(121.01) The Other People Place - Let Me Be Me.mp3
-D:\Dropbox\Music\Singles\BPM\(125.50) Mouzon's Electric Band - Everybody Get Down.mp3
-D:\Dropbox\Music\Singles\BPM\(126.16) Pamala Stanley - Coming Out of Hiding (Vocal).mp3
-D:\Dropbox\Music\Singles\BPM\(90.00) Khidja - Abdul.mp3
-D:\Dropbox\Music\Singles\BPM\(93.00) Blue Night - Turn Me Loose.mp3
-D:\Dropbox\Music\Singles\BPM\(96.08) Angela - I Gotta Little Love.mp3
-D:\Dropbox\Music\Singles\BPM\(99.00) Hiroshi Sato - Say Goodbye.mp3

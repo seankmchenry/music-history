@@ -2007,6 +2007,7 @@ S:\Music\Albums\P to S\Se¤or Coconut - El Baile Alem n
 S:\Music\Albums\P to S\Slowdive - Souvlaki
 S:\Music\Albums\P to S\Souls of Mischief - 93 'til Infinity
 S:\Music\Albums\P to S\Sounds From the Ground - Mosaic
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields
 S:\Music\Albums\P to S\Spitz - Recycle (Greatest Hits of Spitz)
 S:\Music\Albums\P to S\Steel Pulse - Earth Crisis
 S:\Music\Albums\P to S\Steely Dan - Aja
@@ -2452,6 +2453,19 @@ S:\Music\Albums\P to S\Sounds From the Ground - Mosaic\07. Rye.mp3
 S:\Music\Albums\P to S\Sounds From the Ground - Mosaic\08. Circle & Star.mp3
 S:\Music\Albums\P to S\Sounds From the Ground - Mosaic\09. Planted.mp3
 S:\Music\Albums\P to S\Sounds From the Ground - Mosaic\folder.jpg
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields\01 - Phase Fever.mp3
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields\02 - Nightmoves.mp3
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields\03 - Herbal Cake (The Revenge Rubdown).mp3
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields\04 - Can Espartaret.mp3
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields\05 - Plastic Romance.mp3
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields\06 - Superstring (Rayko Remix).mp3
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields\07 - Nothing's Wrong.mp3
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields\08 - Shave Me, I'm Famous (Ajello's Vocal Edit).mp3
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields\09 - Music!.mp3
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields\10 - Superstring.mp3
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields\11 - Shave Me, I'm Famous.mp3
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields\12 - Galactic Spice.mp3
+S:\Music\Albums\P to S\Space Ranger - What About the Magnetic Fields\folder.jpg
 S:\Music\Albums\P to S\Spitz - Recycle (Greatest Hits of Spitz)\01 - Kimi Ga Omoide Ni Naru Mae Ni.mp3
 S:\Music\Albums\P to S\Spitz - Recycle (Greatest Hits of Spitz)\02 - Sora Mo Toberu Hazu.mp3
 S:\Music\Albums\P to S\Spitz - Recycle (Greatest Hits of Spitz)\03 - Aoi Kuruma.mp3
