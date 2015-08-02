@@ -485,6 +485,7 @@ D:\Dropbox\Music\Albums\J to L\KZA - Dig and Edit 2
 D:\Dropbox\Music\Albums\J to L\Latul - Latul
 D:\Dropbox\Music\Albums\J to L\Leon Lowman - Liquid Diamonds
 D:\Dropbox\Music\Albums\J to L\Letta Mbulu - Sweet Juju
+D:\Dropbox\Music\Albums\J to L\Level 42 - Level 42
 D:\Dropbox\Music\Albums\J to L\Linkwood - System
 D:\Dropbox\Music\Albums\J to L\Lonnie Liston Smith - Dreams of Tomorrow
 D:\Dropbox\Music\Albums\J to L\Los Indios Tabajaras - Always in My Heart
@@ -675,6 +676,15 @@ D:\Dropbox\Music\Albums\J to L\Letta Mbulu - Sweet Juju\05 - Vumani Makhosi.mp3
 D:\Dropbox\Music\Albums\J to L\Letta Mbulu - Sweet Juju\06 - Down By the River.mp3
 D:\Dropbox\Music\Albums\J to L\Letta Mbulu - Sweet Juju\07 - The Village.mp3
 D:\Dropbox\Music\Albums\J to L\Letta Mbulu - Sweet Juju\folder.jpg
+D:\Dropbox\Music\Albums\J to L\Level 42 - Level 42\01 - Turn It On.mp3
+D:\Dropbox\Music\Albums\J to L\Level 42 - Level 42\02 - '43'.mp3
+D:\Dropbox\Music\Albums\J to L\Level 42 - Level 42\03 - Why Are You Leaving.mp3
+D:\Dropbox\Music\Albums\J to L\Level 42 - Level 42\04 - Almost There.mp3
+D:\Dropbox\Music\Albums\J to L\Level 42 - Level 42\05 - Heathrow.mp3
+D:\Dropbox\Music\Albums\J to L\Level 42 - Level 42\06 - Love Games.mp3
+D:\Dropbox\Music\Albums\J to L\Level 42 - Level 42\07 - Dune Tune.mp3
+D:\Dropbox\Music\Albums\J to L\Level 42 - Level 42\08 - Starchild.mp3
+D:\Dropbox\Music\Albums\J to L\Level 42 - Level 42\folder.jpg
 D:\Dropbox\Music\Albums\J to L\Linkwood - System\01 - Carbon Units.mp3
 D:\Dropbox\Music\Albums\J to L\Linkwood - System\02 - Robot Parade.mp3
 D:\Dropbox\Music\Albums\J to L\Linkwood - System\03 - Tears.mp3
@@ -725,7 +735,7 @@ D:\Dropbox\Music\Albums\J to L\Los Macuanos - El Origen\14 - Bandera (Bonus Trac
 D:\Dropbox\Music\Albums\J to L\Los Macuanos - El Origen\folder.jpg
 D:\Dropbox\Music\Albums\M to O\MACROSS 82-99 - SAILORWAVE
 D:\Dropbox\Music\Albums\M to O\Makoto Matsushita - First Light
-D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4
+D:\Dropbox\Music\Albums\M to O\Mandr‚ - Two
 D:\Dropbox\Music\Albums\M to O\Michael Jackson - Off the Wall
 D:\Dropbox\Music\Albums\M to O\Moon B - II
 D:\Dropbox\Music\Albums\M to O\My Morning Jacket - At Dawn
@@ -760,15 +770,15 @@ D:\Dropbox\Music\Albums\M to O\Makoto Matsushita - First Light\07 - I Know.mp3
 D:\Dropbox\Music\Albums\M to O\Makoto Matsushita - First Light\08 - Love Was Really Gone.mp3
 D:\Dropbox\Music\Albums\M to O\Makoto Matsushita - First Light\09 - Sunset.mp3
 D:\Dropbox\Music\Albums\M to O\Makoto Matsushita - First Light\folder.jpg
-D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4\01 - Rain.mp3
-D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4\02 - Isle de Joie.mp3
-D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4\03 - Fantasy.mp3
-D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4\04 - Magic Woman.mp3
-D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4\05 - I'm on Your Frequency.mp3
-D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4\06 - You're Freaky Girl.mp3
-D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4\07 - Freaky Freaky Land of Freakiness.mp3
-D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4\08 - Freaky Feeling.mp3
-D:\Dropbox\Music\Albums\M to O\Mandr‚ - Mandr‚ 4\folder.jpg
+D:\Dropbox\Music\Albums\M to O\Mandr‚ - Two\01 - Love Comes Rushin' In.mp3
+D:\Dropbox\Music\Albums\M to O\Mandr‚ - Two\02 - I Like Your Freaky Ways.mp3
+D:\Dropbox\Music\Albums\M to O\Mandr‚ - Two\03 - Fair Game.mp3
+D:\Dropbox\Music\Albums\M to O\Mandr‚ - Two\04 - Code Name' MM3.mp3
+D:\Dropbox\Music\Albums\M to O\Mandr‚ - Two\05 - Maxymus Lyte (Opus III).mp3
+D:\Dropbox\Music\Albums\M to O\Mandr‚ - Two\06 - Iles Dans L'Espace.mp3
+D:\Dropbox\Music\Albums\M to O\Mandr‚ - Two\07 - Light Years (Opus IV).mp3
+D:\Dropbox\Music\Albums\M to O\Mandr‚ - Two\08 - Doing Nothing, Nothing Doing.mp3
+D:\Dropbox\Music\Albums\M to O\Mandr‚ - Two\folder.jpg
 D:\Dropbox\Music\Albums\M to O\Michael Jackson - Off the Wall\01 - Don't Stop 'Til You Get Enough.mp3
 D:\Dropbox\Music\Albums\M to O\Michael Jackson - Off the Wall\02 - Rock With You.mp3
 D:\Dropbox\Music\Albums\M to O\Michael Jackson - Off the Wall\03 - Working Day and Night.mp3
@@ -901,7 +911,6 @@ D:\Dropbox\Music\Albums\P to S\Seaside Lovers - Memories in Beach House
 D:\Dropbox\Music\Albums\P to S\Shakatak - Night Birds
 D:\Dropbox\Music\Albums\P to S\shopping world jp - MARKET WORLD
 D:\Dropbox\Music\Albums\P to S\Silver Richards - Volume 128
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits
 D:\Dropbox\Music\Albums\P to S\Software - Digital-Dance
 D:\Dropbox\Music\Albums\P to S\Soul Clap - EFUNK
 D:\Dropbox\Music\Albums\P to S\Soul Clap - The Definition EP
@@ -1110,22 +1119,6 @@ D:\Dropbox\Music\Albums\P to S\Silver Richards - Volume 128\07 - Workout Video.m
 D:\Dropbox\Music\Albums\P to S\Silver Richards - Volume 128\08 - Nervous.mp3
 D:\Dropbox\Music\Albums\P to S\Silver Richards - Volume 128\09 - Ocean Breeze.mp3
 D:\Dropbox\Music\Albums\P to S\Silver Richards - Volume 128\folder.jpg
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\01 - Holding Back the Years.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\02 - Money's Too Tight to Mention.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\03 - The Right Thing.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\04 - It's Only Love.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\05 - A New Flame.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\06 - You've Got It.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\07 - If You Don't Know Me By Now.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\08 - Stars.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\09 - Something Got Me Started.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\10 - Thrill Me.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\11 - Your Mirror.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\12 - For Your Babies.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\13 - So Beautiful.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\14 - Angel.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\15 - Fairground.mp3
-D:\Dropbox\Music\Albums\P to S\Simply Red - Greatest Hits\folder.jpg
 D:\Dropbox\Music\Albums\P to S\Software - Digital-Dance\01 - Oceans-Breath.mp3
 D:\Dropbox\Music\Albums\P to S\Software - Digital-Dance\02 - Magnificent-Shore.mp3
 D:\Dropbox\Music\Albums\P to S\Software - Digital-Dance\03 - Waving-Voices.mp3
@@ -1875,6 +1868,7 @@ D:\Dropbox\Music\Compilations\Wolf + Lamb vs. Soul Clap - DJ-Kicks\25 - Gadi Miz
 D:\Dropbox\Music\Compilations\Wolf + Lamb vs. Soul Clap - DJ-Kicks\26 - Benoit & Sergio - Walk and Talk.mp3
 D:\Dropbox\Music\Compilations\Wolf + Lamb vs. Soul Clap - DJ-Kicks\27 - Voices of Black - Friday With Her.mp3
 D:\Dropbox\Music\Compilations\Wolf + Lamb vs. Soul Clap - DJ-Kicks\folder.jpg
+D:\Dropbox\Music\EPs\A Vision of Panorama - A Vision of Panorama EP
 D:\Dropbox\Music\EPs\Abel - Aegean Sea
 D:\Dropbox\Music\EPs\Andras Fox - Erskine Falls
 D:\Dropbox\Music\EPs\Andras Fox - Vibrate on Silent
@@ -1899,6 +1893,12 @@ D:\Dropbox\Music\EPs\Various - African Shakedown
 D:\Dropbox\Music\EPs\Various - Non, N§.2
 D:\Dropbox\Music\EPs\Wally Badarou - Fisherman
 D:\Dropbox\Music\EPs\Zanzibar Chanel - Funky Junk EP
+D:\Dropbox\Music\EPs\A Vision of Panorama - A Vision of Panorama EP\01 - Reef.mp3
+D:\Dropbox\Music\EPs\A Vision of Panorama - A Vision of Panorama EP\02 - Port De Soller.mp3
+D:\Dropbox\Music\EPs\A Vision of Panorama - A Vision of Panorama EP\03 - Sails Amongst the Clouds.mp3
+D:\Dropbox\Music\EPs\A Vision of Panorama - A Vision of Panorama EP\04 - Patches of Light.mp3
+D:\Dropbox\Music\EPs\A Vision of Panorama - A Vision of Panorama EP\05 - Patches of Light (Jex Opolis Remix).mp3
+D:\Dropbox\Music\EPs\A Vision of Panorama - A Vision of Panorama EP\folder.jpg
 D:\Dropbox\Music\EPs\Abel - Aegean Sea\01 - Unknown Artist - Aegean Sea (Edit).mp3
 D:\Dropbox\Music\EPs\Abel - Aegean Sea\02 - Unknown Artist - Belly Button (Edit).mp3
 D:\Dropbox\Music\EPs\Abel - Aegean Sea\03 - Unknown Artist - 7th of April (Edit).mp3
