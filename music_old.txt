@@ -3193,7 +3193,6 @@ S:\Music\EPs\YSE Saint Laur'ant - Beards EP\04 - Here I Come Again.mp3
 S:\Music\EPs\YSE Saint Laur'ant - Beards EP\folder.jpg
 S:\Music\Mixes\A to C
 S:\Music\Mixes\D to I
-S:\Music\Mixes\folder.jpg
 S:\Music\Mixes\J to L
 S:\Music\Mixes\M to O
 S:\Music\Mixes\P to S
@@ -3217,7 +3216,6 @@ S:\Music\Mixes\A to C\Bell Towers - Boiler Room London.mp3
 S:\Music\Mixes\A to C\Bill Brewster - Boiler Room Island at Unknown Croatia.mp3
 S:\Music\Mixes\A to C\Black Madonna - BIS Radio Show #745 (Pt. 1).mp3
 S:\Music\Mixes\A to C\Bonar Bradberry - RJA025.mp3
-S:\Music\Mixes\A to C\Bradley Zero - Boiler Room London.mp3
 S:\Music\Mixes\A to C\Coyote - Dream House Vol. 1.mp3
 S:\Music\Mixes\A to C\Coyote - NIMH 25-01-14.mp3
 S:\Music\Mixes\A to C\Craig Bratley - Isodisco Mix.mp3
