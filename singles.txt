@@ -1,4 +1,3 @@
-D:\Music\Singles\(93.79) Iam Siam - Talk to Me (I Can Hear You Now).mp3
 D:\Music\Singles\060-095
 D:\Music\Singles\096-102
 D:\Music\Singles\103-107
@@ -34,22 +33,28 @@ D:\Music\Singles\060-095\(79.31) Mina - Pomeriggio Sonnolento.mp3
 D:\Music\Singles\060-095\(79.32) Luciano - Shake It Up Tonight.mp3
 D:\Music\Singles\060-095\(79.59) The S.O.S. Band - Weekend Girl.mp3
 D:\Music\Singles\060-095\(80.00) Land of Light - Strange Attractor (Peaking Lights Remix).mp3
+D:\Music\Singles\060-095\(80.77) Jon Gorr - It's No Lie.mp3
 D:\Music\Singles\060-095\(80.94) Howard Hewett - I Can't Tell You Why.mp3
 D:\Music\Singles\060-095\(81.05) The S.O.S. Band - Tell Me If You Still Care (Vocal).mp3
 D:\Music\Singles\060-095\(81.48) George Benson - Breezin'.mp3
+D:\Music\Singles\060-095\(81.48) Michael Cretu - Mikado.mp3
 D:\Music\Singles\060-095\(81.75) Crowded House - Don't Dream It's Over.mp3
 D:\Music\Singles\060-095\(81.75) Ned Doheny - Get It Up for Love.mp3
 D:\Music\Singles\060-095\(82.00) Femminielli - O Sodoma.mp3
 D:\Music\Singles\060-095\(82.00) Sasac - Talking God.mp3
 D:\Music\Singles\060-095\(82.28) Jon & Vangelis - State of Independence.mp3
 D:\Music\Singles\060-095\(82.37) James Mason - I Want Your Love.mp3
+D:\Music\Singles\060-095\(82.65) Bread & Butter - Summer Blue.mp3
 D:\Music\Singles\060-095\(82.79) Glen Adams - A Beat for You.mp3
 D:\Music\Singles\060-095\(82.93) Byrne & Barnes - Love You Out of Your Mind.mp3
+D:\Music\Singles\060-095\(82.95) Peter Brown - Leadmeon.mp3
 D:\Music\Singles\060-095\(83.25) Pointer Sisters - Don't It Drive You Crazy.mp3
 D:\Music\Singles\060-095\(83.30) Roy Ayers - Programmed for Love.mp3
+D:\Music\Singles\060-095\(83.37) Half Pint - Substitute Lover.mp3
 D:\Music\Singles\060-095\(83.67) Slick Rick - Teenage Love.mp3
 D:\Music\Singles\060-095\(83.68) Beatconductor - Love 2 Boogie.mp3
 D:\Music\Singles\060-095\(83.90) Errol Reid - Dream 2.mp3
+D:\Music\Singles\060-095\(84.00) Germans - Cruel.mp3
 D:\Music\Singles\060-095\(84.03) Grace Jones - The Frog and the Princess (LP Version).mp3
 D:\Music\Singles\060-095\(84.61) Real Life - Catch Me I'm Falling.mp3
 D:\Music\Singles\060-095\(84.92) Barrington Levy - Here I Come (Broader Than Broadway) (Vocal Mix).mp3
@@ -98,6 +103,7 @@ D:\Music\Singles\060-095\(90.00) Greg Paulus & John Camp - Remo.mp3
 D:\Music\Singles\060-095\(90.00) Greg Paulus - Daisy Duke.mp3
 D:\Music\Singles\060-095\(90.00) Khidja - Abdul.mp3
 D:\Music\Singles\060-095\(90.00) Mild Peril - Gamma Zone.mp3
+D:\Music\Singles\060-095\(90.00) Phil Gerus - Don't Kiss Me While I'm Swimming.mp3
 D:\Music\Singles\060-095\(90.14) Roy Ayers - Midnight After Dark.mp3
 D:\Music\Singles\060-095\(90.20) Barry White - It's Only Love Doing Its Thing.mp3
 D:\Music\Singles\060-095\(90.96) Fishmans - Baby Blue.mp3
@@ -108,11 +114,13 @@ D:\Music\Singles\060-095\(91.60) Al B. Sure - Nite and Day.mp3
 D:\Music\Singles\060-095\(91.66) Shock - San Juan.mp3
 D:\Music\Singles\060-095\(91.67) The Unknown Cases - Masimba Bele.mp3
 D:\Music\Singles\060-095\(91.90) Ray Parker Jr. & Raydio - A Woman Needs Love (Just Like You Do).mp3
+D:\Music\Singles\060-095\(91.91) Jorge Reyes - A La Izquierda del Colibri.mp3
 D:\Music\Singles\060-095\(91.95) Peter Green - Funky Chunk.mp3
 D:\Music\Singles\060-095\(92.00) Chalice - Let's Go Forward.mp3
 D:\Music\Singles\060-095\(92.00) Roland Tings - Venus.mp3
 D:\Music\Singles\060-095\(92.01) Yothu Yindi - Gapu (The Tidal Mix).mp3
 D:\Music\Singles\060-095\(92.09) Eddie C - Gimme Your Dub.mp3
+D:\Music\Singles\060-095\(92.20) Little River Band - Light of Day.mp3
 D:\Music\Singles\060-095\(92.20) Talk Talk - Life's What You Make It (Extended Version).mp3
 D:\Music\Singles\060-095\(92.34) Philip Bailey - I Know (Extended Dance Version).mp3
 D:\Music\Singles\060-095\(92.42) Ultramarine - Honey.mp3
@@ -121,13 +129,16 @@ D:\Music\Singles\060-095\(92.60) Tetsuji Hayashi - Silly Girl.mp3
 D:\Music\Singles\060-095\(93.00) Boys From Patagonia - It's So Exciting (High Jingo Love Love Rework).mp3
 D:\Music\Singles\060-095\(93.00) Brandy - He's Mine (LNTG Rework).mp3
 D:\Music\Singles\060-095\(93.00) Russ Ballard - Voices.mp3
+D:\Music\Singles\060-095\(93.10) Larry Heard - Romantic Sway.mp3
 D:\Music\Singles\060-095\(93.14) Michael Jackson - Human Nature.mp3
 D:\Music\Singles\060-095\(93.18) Vangelis - Dervish D.mp3
 D:\Music\Singles\060-095\(93.55) Tatsuro Yamashita - Windy Lady.mp3
 D:\Music\Singles\060-095\(93.60) Debarge - All This Love.mp3
 D:\Music\Singles\060-095\(93.76) Iam Siam - Talk to Me (I Can Hear You Now) (Dub).mp3
 D:\Music\Singles\060-095\(93.77) Kartell - Pantera.mp3
+D:\Music\Singles\060-095\(93.79) Iam Siam - Talk to Me (I Can Hear You Now).mp3
 D:\Music\Singles\060-095\(93.84) The Cure - Lullaby (Extended Remix).mp3
+D:\Music\Singles\060-095\(93.88) Pieces of a Dream - What Can I Do.mp3
 D:\Music\Singles\060-095\(93.90) Keni Burke - Risin' to the Top.mp3
 D:\Music\Singles\060-095\(93.94) Shanice - I Love Your Smile.mp3
 D:\Music\Singles\060-095\(93.95) Herb Alpert - I Need You.mp3
@@ -138,6 +149,7 @@ D:\Music\Singles\060-095\(94.21) Paul Hardcastle - Lost Summer.mp3
 D:\Music\Singles\060-095\(94.33) Jerry Champion - It's Summertime.mp3
 D:\Music\Singles\060-095\(94.37) Burning Spear - Chanting Home.mp3
 D:\Music\Singles\060-095\(94.41) Will Powers - Adventures in Success.mp3
+D:\Music\Singles\060-095\(94.44) Sade - Super Bien Total.mp3
 D:\Music\Singles\060-095\(94.55) Bee Gees - Love You Inside Out (The Pinches Mix).mp3
 D:\Music\Singles\060-095\(94.61) Nick Straker Band - Airwaves.mp3
 D:\Music\Singles\060-095\(94.73) Joyce Sims - Come Into My Life (Club Version).mp3
@@ -147,6 +159,7 @@ D:\Music\Singles\060-095\(95.00) A Vision of Panorama - Time Capsule (Andras Fox
 D:\Music\Singles\060-095\(95.00) Enigma - Principles of Lust.mp3
 D:\Music\Singles\060-095\(95.00) Inc. - Millionairess.mp3
 D:\Music\Singles\060-095\(95.00) Michael McDonald - I Keep Forgettin' (Every Time You're Near).mp3
+D:\Music\Singles\060-095\(95.00) Nile Rodgers - Stay Out of the Light (Slow Version).mp3
 D:\Music\Singles\060-095\(95.00) Ptaki - Krystyna.mp3
 D:\Music\Singles\060-095\(95.01) Moby - Porcelain.mp3
 D:\Music\Singles\060-095\(95.06) Jerry Harrison - Rev It Up (Bad Bruce's Wisconsin Dub).mp3
@@ -161,7 +174,6 @@ D:\Music\Singles\060-095\(95.93) Megabyte - My Father Was a Teacher.mp3
 D:\Music\Singles\096-102\(100.00) Anane - Love to Love You Baby (feat. Roberto Cavalli).mp3
 D:\Music\Singles\096-102\(100.00) Bogdan IrkÅk a.k.a. Bulgari - Foreign Tongues.mp3
 D:\Music\Singles\096-102\(100.00) Booshank - Rock the Box.mp3
-D:\Music\Singles\096-102\(100.00) Craig Bratley - Birdshell (6th Borough Project Shell Toe Mix).mp3
 D:\Music\Singles\096-102\(100.00) Double Knots - Double Vision (Toby Tobias Remix).mp3
 D:\Music\Singles\096-102\(100.00) Gorillaz - Stylo (Instrumental).mp3
 D:\Music\Singles\096-102\(100.00) Mudd & Ahmed Fakroun - Drago (Ahmed Fakroun Mix).mp3
@@ -176,10 +188,13 @@ D:\Music\Singles\096-102\(100.22) Cat Stevens - Was Dog a Doughnut.mp3
 D:\Music\Singles\096-102\(100.27) Nebraska - The Other Side.mp3
 D:\Music\Singles\096-102\(100.27) Pieces of a Dream - Warm Weather.mp3
 D:\Music\Singles\096-102\(100.30) Raul Orellana - Entre Dos Aguas (The Night Time Mix).mp3
+D:\Music\Singles\096-102\(100.36) Renee - Lay Me Down.mp3
 D:\Music\Singles\096-102\(100.40) Joe Geia - Fighting for Our Rights.mp3
 D:\Music\Singles\096-102\(100.50) Richard Schneider Jr. - Regina's Dance.mp3
+D:\Music\Singles\096-102\(100.54) Cool Notes - You're Never Too Young.mp3
 D:\Music\Singles\096-102\(100.60) Coati Mundi - Como Esta Usted.mp3
 D:\Music\Singles\096-102\(100.61) Bobby Nunn - Do You Look That Good in the Morning.mp3
+D:\Music\Singles\096-102\(100.66) Wham! - Blue (Armed With Love).mp3
 D:\Music\Singles\096-102\(100.72) Midnight Star - Curious (Vocal - Remix Version).mp3
 D:\Music\Singles\096-102\(100.75) UB40 - Don't Break My Heart.mp3
 D:\Music\Singles\096-102\(100.83) B.B. & Q. Band - Genie.mp3
@@ -187,6 +202,7 @@ D:\Music\Singles\096-102\(100.85) Yarbrough & Peoples - Everything.mp3
 D:\Music\Singles\096-102\(100.92) Nona Hendryx - Transformation.mp3
 D:\Music\Singles\096-102\(100.93) Mike Francis - Features of Love (Apiento Edit).mp3
 D:\Music\Singles\096-102\(100.97) Ahmed Fakroun - Nisyan.mp3
+D:\Music\Singles\096-102\(101.00) Beverley Skeete - Warm.mp3
 D:\Music\Singles\096-102\(101.00) Escape From New York - Slow Beat.mp3
 D:\Music\Singles\096-102\(101.00) Saint Pepsi - Private Caller.mp3
 D:\Music\Singles\096-102\(101.00) Tevo Howard - Summer Romance.mp3
@@ -227,6 +243,7 @@ D:\Music\Singles\096-102\(102.80) Dr. Hook - Sexy Eyes.mp3
 D:\Music\Singles\096-102\(102.80) Orange Juice - Rip It Up.mp3
 D:\Music\Singles\096-102\(102.84) Tom Tom Club - Genius of Love (Hot Tracks Mix).mp3
 D:\Music\Singles\096-102\(102.89) Jocelyn Brown - Somebody Else's Guy (Vocal).mp3
+D:\Music\Singles\096-102\(102.91) Jobby Lynn - Dreaming of You.mp3
 D:\Music\Singles\096-102\(102.98) Loose Ends - Hangin' on a String (Contemplating) (Extended Dance Mix).mp3
 D:\Music\Singles\096-102\(96.00) Tad Wily - Childish Fly (Instrumental Mix).mp3
 D:\Music\Singles\096-102\(96.00) Tatsuro Yamashita - Mermaid.mp3
@@ -237,6 +254,7 @@ D:\Music\Singles\096-102\(96.16) Tony Esposito - Balafon (Craxi Disco Rework).mp
 D:\Music\Singles\096-102\(96.24) Whodini - Friends.mp3
 D:\Music\Singles\096-102\(96.25) Society of Seven - Between Hello and Goodbye.mp3
 D:\Music\Singles\096-102\(96.40) Yoshino Fujimal - Freeway 5 to South.mp3
+D:\Music\Singles\096-102\(96.80) Logic System - Automatic Collect, Automatic Correct.mp3
 D:\Music\Singles\096-102\(96.85) Viola Willis - Dare to Dream (London Remix).mp3
 D:\Music\Singles\096-102\(97.00) 6th Borough Project - McLovin'.mp3
 D:\Music\Singles\096-102\(97.00) Slow Porn - Gate 13.mp3
@@ -270,14 +288,15 @@ D:\Music\Singles\096-102\(98.54) Robyn - Searching.mp3
 D:\Music\Singles\096-102\(98.60) Hiroshi & Claudia - Beats in the Depth (Edit).mp3
 D:\Music\Singles\096-102\(98.60) Wham! - Nothing Looks the Same in the Light (Instrumental Remix).mp3
 D:\Music\Singles\096-102\(98.84) Dam-Funk - Rollin'.mp3
+D:\Music\Singles\096-102\(98.85) Hong Kong Syndikat - Too Much.mp3
 D:\Music\Singles\096-102\(98.95) Henry Mancini - Slow Hot Wind (Lujon).mp3
 D:\Music\Singles\096-102\(99.00) Bell Towers - After Party at Jackson's House.mp3
-D:\Music\Singles\096-102\(99.00) Hiroshi Sato - Say Goodbye.mp3
 D:\Music\Singles\096-102\(99.00) K-Maxx - Wanna Play Hooky.mp3
 D:\Music\Singles\096-102\(99.00) Late Nite Tuff Guy - Wishing (LNTG Dream Remix).mp3
 D:\Music\Singles\096-102\(99.00) Vanilla - Midnight.mp3
 D:\Music\Singles\096-102\(99.00) Womack & Womack - M.P.B (Missin' Persons Bureau) (Paradise Ballroom Mix).mp3
 D:\Music\Singles\096-102\(99.12) Godley & Creme - Cry.mp3
+D:\Music\Singles\096-102\(99.13) Tatsuro Yamashita - Melody, For You.mp3
 D:\Music\Singles\096-102\(99.17) The Gap Band - Outstanding (Vocal) (Long Version).mp3
 D:\Music\Singles\096-102\(99.19) Try to Find Me - Needs Ending.mp3
 D:\Music\Singles\096-102\(99.26) Tredje Mannen - BlÜ Drîmmar.mp3
@@ -286,6 +305,7 @@ D:\Music\Singles\096-102\(99.36) Uku Kuut - Secret Dream.mp3
 D:\Music\Singles\096-102\(99.42) Gene Chandler - Make the Living Worthwhile (Disco Version).mp3
 D:\Music\Singles\096-102\(99.68) Blue Night - Turn Me Loose.mp3
 D:\Music\Singles\096-102\(99.69) Holy Ghost! - It Must Be the Weather.mp3
+D:\Music\Singles\096-102\(99.75) P.M. Dawn - Set Adrift on Memory Bliss (Extended Mix).mp3
 D:\Music\Singles\096-102\(99.81) Bobby Brown - Every Little Step.mp3
 D:\Music\Singles\096-102\(99.81) Pink Rhythm - Melodies of Love.mp3
 D:\Music\Singles\096-102\(99.85) Lee Ryda - Electro Eyes.mp3
@@ -306,11 +326,12 @@ D:\Music\Singles\103-107\(103.07) Swing Out Sister - Communion (Instrumental).mp
 D:\Music\Singles\103-107\(103.09) Wax - Bridge to Your Heart.mp3
 D:\Music\Singles\103-107\(103.10) Orlando Johnson & Trance - Can't Break Loose (Touchsoul Regroove).mp3
 D:\Music\Singles\103-107\(103.15) Robbie Nevil - C'est La Vie (Extended Remix).mp3
-D:\Music\Singles\103-107\(103.29) UB40  - Nkomo A Go-Go.mp3
+D:\Music\Singles\103-107\(103.29) UB40  - Nkomo a Go-Go.mp3
 D:\Music\Singles\103-107\(103.30) Le Pamplemousse - Le Spank (Musica Hermosa Edit).mp3
 D:\Music\Singles\103-107\(103.36) Loose Ends - Hangin' on a String (Contemplating) (Frankie Knuckles Remix).mp3
 D:\Music\Singles\103-107\(103.37) Swimmers & Gang - Sexy.mp3
 D:\Music\Singles\103-107\(103.38) Junior Byron - Trying to Hold On.mp3
+D:\Music\Singles\103-107\(103.42) Newcleus - Destination Earth (1999).mp3
 D:\Music\Singles\103-107\(103.54) Pete Herbert - Wally Dub.mp3
 D:\Music\Singles\103-107\(103.57) Change - Mutual Attraction.mp3
 D:\Music\Singles\103-107\(103.59) The Alan Parsons Project - Mammagamma.mp3
@@ -330,6 +351,7 @@ D:\Music\Singles\103-107\(104.00) The KDMS - High Wire (D-Pulse Dub).mp3
 D:\Music\Singles\103-107\(104.20) Modern Folk Uclusu - Donme Dolap (feat. Aysegul Aldinc) (Baris K Edit).mp3
 D:\Music\Singles\103-107\(104.20) Rufus & Chaka Khan - Ain't Nobody.mp3
 D:\Music\Singles\103-107\(104.33) Nu Shooz - I Can't Wait (Original Maxi Version).mp3
+D:\Music\Singles\103-107\(104.33) The Family - The Screams of Passion.mp3
 D:\Music\Singles\103-107\(104.40) Michal Turtle - Astral Decoy.mp3
 D:\Music\Singles\103-107\(104.41) New Edition - Once in a Lifetime Groove (Extended Version).mp3
 D:\Music\Singles\103-107\(104.46) Johnny Hates Jazz - Listen.mp3
@@ -346,13 +368,16 @@ D:\Music\Singles\103-107\(104.83) Herb Alpert - Rotation.mp3
 D:\Music\Singles\103-107\(104.85) Sylvester - I Need Somebody to Love Tonight.mp3
 D:\Music\Singles\103-107\(104.85) The Orb - Little Fluffy Clouds (Cumulonimbus Mix).mp3
 D:\Music\Singles\103-107\(104.88) Haruomi Hosono - Bride of Mykonos.mp3
+D:\Music\Singles\103-107\(104.94) Cabaret Voltaire - Here to Go (Little Dub).mp3
 D:\Music\Singles\103-107\(104.94) Mike Francis - Survivor.mp3
 D:\Music\Singles\103-107\(104.98) Joao Donato - O Morro Nao Tem Vez (Onur Engin Edit).mp3
 D:\Music\Singles\103-107\(105.00) 40 Thieves - Crystal Mountain Thunderfuck.mp3
 D:\Music\Singles\103-107\(105.00) Andrew Grant & Lomez - Be Free (Original Mix).mp3
+D:\Music\Singles\103-107\(105.00) David Marston & Life on Planets - Treegossip.mp3
 D:\Music\Singles\103-107\(105.00) Eddie C - Every Life Under the Invisible Hands.mp3
 D:\Music\Singles\103-107\(105.00) George Benson - Shiver (Extended Remix).mp3
 D:\Music\Singles\103-107\(105.00) Heion - Silk (Trujillo & Bernardo Risquez Remix).mp3
+D:\Music\Singles\103-107\(105.00) Hiroshi Sato - Say Goodbye.mp3
 D:\Music\Singles\103-107\(105.00) Howard Johnson - Keepin' Love New (80s Child Johnson Groove).mp3
 D:\Music\Singles\103-107\(105.00) Jeremy Glenn - New Life (Perseus 'Summer of 83' Remix).mp3
 D:\Music\Singles\103-107\(105.00) Kaito - Inside River.mp3
@@ -367,14 +392,18 @@ D:\Music\Singles\103-107\(105.00) Roberto Rodriguez - Has Been.mp3
 D:\Music\Singles\103-107\(105.00) Satin Jackets - Night Keys (Original Mix).mp3
 D:\Music\Singles\103-107\(105.00) Sphynx - Azul.mp3
 D:\Music\Singles\103-107\(105.00) We Are Destino - Mind Force (Instrumental).mp3
+D:\Music\Singles\103-107\(105.01) Retiree - Together.mp3
+D:\Music\Singles\103-107\(105.03) Ethereal Beat - Underboard (Remix).mp3
 D:\Music\Singles\103-107\(105.03) Roberto Rodriguez - Venus.mp3
 D:\Music\Singles\103-107\(105.10) Daz Nazziz - Daz Nazziz.mp3
 D:\Music\Singles\103-107\(105.12) Imagination - Just an Illusion.mp3
 D:\Music\Singles\103-107\(105.14) Cashflow - Mine All Mine.mp3
+D:\Music\Singles\103-107\(105.21) Tashan - Thank You Father.mp3
 D:\Music\Singles\103-107\(105.23) Real to Reel - Love Me Like This.mp3
 D:\Music\Singles\103-107\(105.25) Issei Noro - Transparency.mp3
 D:\Music\Singles\103-107\(105.27) Rene & Angela - I Love You More.mp3
 D:\Music\Singles\103-107\(105.30) The Jones Girls - You Gonna Make Me Love Somebody Else (LW Edit).mp3
+D:\Music\Singles\103-107\(105.37) I-Level - In the River (Dub Instrumental).mp3
 D:\Music\Singles\103-107\(105.40) Floating Points - Love Me Like This (Radio).mp3
 D:\Music\Singles\103-107\(105.45) Fatback Band - I Found Lovin'.mp3
 D:\Music\Singles\103-107\(105.46) Bobby Caldwell - You Belong To Me.mp3
@@ -384,9 +413,11 @@ D:\Music\Singles\103-107\(105.63) Skipworth & Turner - Thinking About Your Love 
 D:\Music\Singles\103-107\(105.64) Mantronix - Got to Have Your Love.mp3
 D:\Music\Singles\103-107\(105.64) Michael Wycoff - Tell Me Love.mp3
 D:\Music\Singles\103-107\(105.68) William Onyeabor - Body and Soul (Whatever-Whatever Remix).mp3
+D:\Music\Singles\103-107\(105.70) Strîer Duo & Howard Fine - Nomad Song.mp3
 D:\Music\Singles\103-107\(105.72) 52nd Street - Tell Me (How It Feels).mp3
 D:\Music\Singles\103-107\(105.73) Inner City - Whatcha Gonna Do With My Lovin' (Def Mix).mp3
 D:\Music\Singles\103-107\(105.74) Lillo Thomas - (You're A) Good Girl (Special Mix).mp3
+D:\Music\Singles\103-107\(105.83) Golden Sails - Saturn Return.mp3
 D:\Music\Singles\103-107\(105.87) Mac Attack - The Art of Drums (Original Version).mp3
 D:\Music\Singles\103-107\(105.87) Marvin Gaye - 'T' Plays It Cool.mp3
 D:\Music\Singles\103-107\(105.90) Dennis Parker - Like an Eagle (Todd Terje Mix).mp3
@@ -407,6 +438,7 @@ D:\Music\Singles\103-107\(106.04) Fashion - Love Shadow.mp3
 D:\Music\Singles\103-107\(106.04) Kajagoogoo - The Lion's Mouth (The Beast Mix).mp3
 D:\Music\Singles\103-107\(106.04) New York Edits - Untitled.mp3
 D:\Music\Singles\103-107\(106.07) Daniel Solar - Into My Life.mp3
+D:\Music\Singles\103-107\(106.07) Mercy Mercy - What Are We Gonna Do About It.mp3
 D:\Music\Singles\103-107\(106.13) MANIK - Need Your Lovin'.mp3
 D:\Music\Singles\103-107\(106.33) Whadya Want - Involved With You.mp3
 D:\Music\Singles\103-107\(106.48) Krystol - After the Dance is Through (Vocal).mp3
@@ -423,6 +455,7 @@ D:\Music\Singles\103-107\(106.97) Laura Branigan - Self Control (Extended Versio
 D:\Music\Singles\103-107\(106.97) The S.O.S. Band - High Hopes.mp3
 D:\Music\Singles\103-107\(106.98) Kano - Can't Hold Back (Your Loving).mp3
 D:\Music\Singles\103-107\(107.00) Grace Jones - Party Girl (Nightplane Remix).mp3
+D:\Music\Singles\103-107\(107.00) Mugwump - Boutade (Original Mix).mp3
 D:\Music\Singles\103-107\(107.00) Nicolas Jaar - Can't See What is Burning There.mp3
 D:\Music\Singles\103-107\(107.00) Odyssey - Going Back to My Roots (LeSale Edit).mp3
 D:\Music\Singles\103-107\(107.00) Tornado Wallace - Time of Nectar.mp3
@@ -433,6 +466,7 @@ D:\Music\Singles\103-107\(107.11) Deadline - Makossa Rock.mp3
 D:\Music\Singles\103-107\(107.11) Pieces of a Dream - Mt. Airy Groove (Instrumental Version).mp3
 D:\Music\Singles\103-107\(107.22) Collage - Romeo Where's Juliet (Special Dance Mix).mp3
 D:\Music\Singles\103-107\(107.25) Talk Talk - Happiness is Easy (12' Mix).mp3
+D:\Music\Singles\103-107\(107.25) Tramaine - In the Morning Time (Dub Shout).mp3
 D:\Music\Singles\103-107\(107.26) Bailey & Bridges - Come and Get It.mp3
 D:\Music\Singles\103-107\(107.33) Gwen Guthrie - Ain't Nothin' Goin' on But the Rent (12' Club Mix).mp3
 D:\Music\Singles\103-107\(107.34) David Christie - Back Fire.mp3
@@ -449,6 +483,7 @@ D:\Music\Singles\103-107\(107.73) The S.O.S. Band - Groovin' (That's What We're 
 D:\Music\Singles\103-107\(107.85) Wham! - Last Christmas (Pudding Mix).mp3
 D:\Music\Singles\103-107\(107.90) Grace Jones - Pull Up to the Bumper (Larry Levan Garage Remix).mp3
 D:\Music\Singles\103-107\(107.90) Kajagoogoo - Too Shy.mp3
+D:\Music\Singles\103-107\(107.90) Keith Ellis - Love Between the Stars.mp3
 D:\Music\Singles\103-107\(107.90) Saada Bonaire - The Facts.mp3
 D:\Music\Singles\103-107\(107.96) Sun Palace - Rude Movements.mp3
 D:\Music\Singles\103-107\(107.98) Michael Jackson - Remember the Time.mp3
@@ -469,9 +504,11 @@ D:\Music\Singles\108-110\(108.05) Gaz Nevada - I.C. Love Affair (Italian Version
 D:\Music\Singles\108-110\(108.10) Dante - Freak in Me.mp3
 D:\Music\Singles\108-110\(108.10) International Music System - Mojave.mp3
 D:\Music\Singles\108-110\(108.20) Starbuck - I Got to Know.mp3
+D:\Music\Singles\108-110\(108.23) Gilberto Gil - Palco.mp3
 D:\Music\Singles\108-110\(108.24) Sun Electric - O'Locco (Space Therapy).mp3
 D:\Music\Singles\108-110\(108.32) Mac Band - Roses are Red (Radio Edit).mp3
 D:\Music\Singles\108-110\(108.36) Bananarama - Cruel Summer.mp3
+D:\Music\Singles\108-110\(108.37) Antena - Life is Too Short.mp3
 D:\Music\Singles\108-110\(108.37) World Premiere - Share the Night (Club Mix).mp3
 D:\Music\Singles\108-110\(108.38) Jeff Lorber - Facts of Love (Actuality Mix).mp3
 D:\Music\Singles\108-110\(108.40) Gayle Adams - Love Fever.mp3
@@ -493,6 +530,7 @@ D:\Music\Singles\108-110\(108.77) Aurra - You and Me Tonight (Midnight Mix).mp3
 D:\Music\Singles\108-110\(108.77) Fleetwood Mac - Everywhere (12' Version).mp3
 D:\Music\Singles\108-110\(108.82) Lionel Richie - All Night Long (All Night) (Vocal).mp3
 D:\Music\Singles\108-110\(108.90) Tatsuro Yamashita - Merry-Go-Round.mp3
+D:\Music\Singles\108-110\(108.92) Dhuo - Walkin' (Dub Mix).mp3
 D:\Music\Singles\108-110\(108.94) B.B. & Q. Band - (I'm A) Dreamer (Vocal ' Long Version).mp3
 D:\Music\Singles\108-110\(109.00) Al Dobson Jr. - Santiago Black (Ptaki Version).mp3
 D:\Music\Singles\108-110\(109.00) Beautiful Swimmers - Swimmers Groove.mp3
@@ -504,6 +542,7 @@ D:\Music\Singles\108-110\(109.03) Suzanne Kraft - Jus U.mp3
 D:\Music\Singles\108-110\(109.04) The Nobodys - No Guarantees.mp3
 D:\Music\Singles\108-110\(109.08) Bola Johnson - Lagos Sisi.mp3
 D:\Music\Singles\108-110\(109.10) John Martyn - Lonely Love.mp3
+D:\Music\Singles\108-110\(109.10) Slave - Just a Touch of Love.mp3
 D:\Music\Singles\108-110\(109.12) Nu Shooz - Point of No Return (Vocal - Long Version).mp3
 D:\Music\Singles\108-110\(109.14) Roy Ayers - Poo Poo La La.mp3
 D:\Music\Singles\108-110\(109.15) Shalamar - A Night to Remember.mp3
@@ -522,9 +561,11 @@ D:\Music\Singles\108-110\(109.39) Luke Million - Arnold.mp3
 D:\Music\Singles\108-110\(109.40) Arian - Your Love Makes Me a Winner.mp3
 D:\Music\Singles\108-110\(109.40) Johnnie Taylor - (Ooh-Wee) She's Killing Me.mp3
 D:\Music\Singles\108-110\(109.40) Prince - Hot Thing (Extended Remix).mp3
+D:\Music\Singles\108-110\(109.41) Dynasty - Love in the Fast Lane.mp3
 D:\Music\Singles\108-110\(109.45) Herb Alpert - Red Hot (Specially Remixed Version).mp3
 D:\Music\Singles\108-110\(109.50) Boytronic - Bryllyant (33 1'3 Plus 8 Remix).mp3
 D:\Music\Singles\108-110\(109.50) Phil Fearon & Galaxy - I Can Prove It (Full Version).mp3
+D:\Music\Singles\108-110\(109.50) Second Image - Starting Again.mp3
 D:\Music\Singles\108-110\(109.54) Baiser - Summer Breeze (Vocal).mp3
 D:\Music\Singles\108-110\(109.57) Richard Grayson - Hot Fun (Touchsoul Regroove).mp3
 D:\Music\Singles\108-110\(109.60) Preface - Palace Hotel.mp3
@@ -536,11 +577,12 @@ D:\Music\Singles\108-110\(109.77) Joyce Sims - (You Are My) All and All.mp3
 D:\Music\Singles\108-110\(109.82) I-Cube - Hnt.mp3
 D:\Music\Singles\108-110\(109.82) Pacific Blue - You Gotta Dance.mp3
 D:\Music\Singles\108-110\(109.86) Todd Terje - Leisure Suit Preben.mp3
+D:\Music\Singles\108-110\(109.90) Raoul Denis Jr. - Ti Gason (Fe Respe'w).mp3
 D:\Music\Singles\108-110\(109.91) Pet Shop Boys - I Want a Dog.mp3
 D:\Music\Singles\108-110\(109.98) N.Y.C. Peech Boys - Life is Something Special (Special Edition).mp3
 D:\Music\Singles\108-110\(109.98) Todd Terje - Swing Star (Pt. 2).mp3
 D:\Music\Singles\108-110\(109.99) Cut Copy - Sun God (Andrew Weatherall Remix).mp3
-D:\Music\Singles\108-110\(110.00) Apiento & Co. - E.S.P.mp3
+D:\Music\Singles\108-110\(110.00) Apiento & Co. - E.S.P..mp3
 D:\Music\Singles\108-110\(110.00) Bogdan IrkÅk a.k.a. Bulgari - Caprice.mp3
 D:\Music\Singles\108-110\(110.00) Craig Bratley - The Sound.mp3
 D:\Music\Singles\108-110\(110.00) Double Hill - Wanna Get....mp3
@@ -565,6 +607,7 @@ D:\Music\Singles\108-110\(110.00) Soul Clap - Safe Word (feat. Navid Izadi).mp3
 D:\Music\Singles\108-110\(110.00) Tempelhof & Gigi Masin - Red Venus (Reverso 68 Remix).mp3
 D:\Music\Singles\108-110\(110.00) Tensnake - Holding Back (My Love).mp3
 D:\Music\Singles\108-110\(110.00) Tensnake - Keep Believin'.mp3
+D:\Music\Singles\108-110\(110.00) Tom Noble - Tanked.mp3
 D:\Music\Singles\108-110\(110.00) Tornado Wallace - Circadia.mp3
 D:\Music\Singles\108-110\(110.00) Touch Sensitive - Body Stop (Original Mix).mp3
 D:\Music\Singles\108-110\(110.00) Voices of Black - Have U 2 Myself (Worst Friends Remix).mp3
@@ -572,6 +615,8 @@ D:\Music\Singles\108-110\(110.01) Chase Smith - Alright.mp3
 D:\Music\Singles\108-110\(110.01) Men at Work - Down Under (Hot Tracks Mix).mp3
 D:\Music\Singles\108-110\(110.02) Pet Shop Boys - Domino Dancing (Disco Mix).mp3
 D:\Music\Singles\108-110\(110.03) Kraftwerk - Musique Non Stop.mp3
+D:\Music\Singles\108-110\(110.05) Public Relation - Wakhif.mp3
+D:\Music\Singles\108-110\(110.09) Yuji Toriyama - Maze.mp3
 D:\Music\Singles\108-110\(110.10) France Joli - Gonna Get Over You.mp3
 D:\Music\Singles\108-110\(110.10) Kasso - One More Round.mp3
 D:\Music\Singles\108-110\(110.11) Shakatak - Bitch to the Boys.mp3
@@ -585,6 +630,7 @@ D:\Music\Singles\108-110\(110.21) Mr. Fingers - On a Corner Called Jazz (Undergr
 D:\Music\Singles\108-110\(110.22) Junior - Mama Used to Say.mp3
 D:\Music\Singles\108-110\(110.25) Ocie III - What's My Return on Love.mp3
 D:\Music\Singles\108-110\(110.29) Leroy Burgess - Heartbreaker (12' Version).mp3
+D:\Music\Singles\108-110\(110.31) Electric Mind - Summing Up (Instrumental).mp3
 D:\Music\Singles\108-110\(110.32) Hiroshima - One Wish.mp3
 D:\Music\Singles\108-110\(110.32) Maze - Twilight (Remix).mp3
 D:\Music\Singles\108-110\(110.37) Wally Badarou - Endless Race.mp3
@@ -595,6 +641,7 @@ D:\Music\Singles\108-110\(110.41) Change - You Are My Melody.mp3
 D:\Music\Singles\108-110\(110.46) Hipnosis - Astrodance.mp3
 D:\Music\Singles\108-110\(110.47) Coati Mundi - Que Pasa-Me No Pop I.mp3
 D:\Music\Singles\108-110\(110.58) Total Contrast - Takes a Little Time (Vocal).mp3
+D:\Music\Singles\108-110\(110.60) Lonzine Wright - Stop the Taxi.mp3
 D:\Music\Singles\108-110\(110.65) Steve Harvey - Tonight (Edit Mix).mp3
 D:\Music\Singles\108-110\(110.67) Donna Allen - Serious (Long Version).mp3
 D:\Music\Singles\108-110\(110.70) Marta Acuna - Dance, Dance, Dance (Disco Version).mp3
@@ -607,7 +654,6 @@ D:\Music\Singles\108-110\(110.91) Steve Harvey - Tonight (Dub-Mix).mp3
 D:\Music\Singles\108-110\(110.98) Alexander O'Neal - What's Missing (Remix).mp3
 D:\Music\Singles\108-110\(110.99) Circle City Band - Magic (Greg Wilson Edit).mp3
 D:\Music\Singles\108-110\(110.99) The Earons - Land of Hunger (Extended Version).mp3
-D:\Music\Singles\111-113\(111.00) Dynasty - Love in the Fast Lane (Munga's Nasty Bits Reordering).mp3
 D:\Music\Singles\111-113\(111.00) Eddie C - Tell Me (Tornado Wallace Remix).mp3
 D:\Music\Singles\111-113\(111.00) Gadi Mizrahi - You Know It's True.mp3
 D:\Music\Singles\111-113\(111.00) House of Spirits - Holding On.mp3
@@ -648,6 +694,7 @@ D:\Music\Singles\111-113\(111.52) Kongas - Why Can't We Live Together.mp3
 D:\Music\Singles\111-113\(111.54) Big Ben Tribe - Tarzan Loves the Summer Nights.mp3
 D:\Music\Singles\111-113\(111.57) Leroy Burgess - Stranger.mp3
 D:\Music\Singles\111-113\(111.60) Alicia Myers - I Want to Thank You.mp3
+D:\Music\Singles\111-113\(111.60) Betty Wright - Tropical Island.mp3
 D:\Music\Singles\111-113\(111.60) Leaf - Guillermo.mp3
 D:\Music\Singles\111-113\(111.60) Level 42 - Starchild.mp3
 D:\Music\Singles\111-113\(111.69) Strafe - Set It Off.mp3
@@ -655,6 +702,7 @@ D:\Music\Singles\111-113\(111.70) Tambi - You Don't Know (Horse Meat Disco Remix
 D:\Music\Singles\111-113\(111.78) Asso - Don't Stop.mp3
 D:\Music\Singles\111-113\(111.81) Get Down - Make Your Body Move (Get Down Edit).mp3
 D:\Music\Singles\111-113\(111.81) Third World - Try Jah Love (Long Version).mp3
+D:\Music\Singles\111-113\(111.90) Idiater Edwards - Loving Sweet Devotion (Sweeter Mix).mp3
 D:\Music\Singles\111-113\(111.93) Theo Parrish - Serengeti Echoes.mp3
 D:\Music\Singles\111-113\(111.95) Deee-Lite - What is Love (Holographic Goatee Mix).mp3
 D:\Music\Singles\111-113\(111.97) Bornn - Visible Love.mp3
@@ -674,6 +722,7 @@ D:\Music\Singles\111-113\(112.00) Runaway - Indoor Pool (Slow Hands Half Full Re
 D:\Music\Singles\111-113\(112.00) Slow Hands - Fast Tongue.mp3
 D:\Music\Singles\111-113\(112.00) Slow Hands - Rough Patch.mp3
 D:\Music\Singles\111-113\(112.00) Soul Clap - Islands Pt. 2 (Slow Hands & Tanner Ross Remix).mp3
+D:\Music\Singles\111-113\(112.00) Todd Terje - Glittertind.mp3
 D:\Music\Singles\111-113\(112.00) Voices of Black - Take Back Soho (Tanner Ross Remix).mp3
 D:\Music\Singles\111-113\(112.00) Volta Cab - Ice.mp3
 D:\Music\Singles\111-113\(112.00) Young & Company - Checking You Out.mp3
@@ -695,8 +744,8 @@ D:\Music\Singles\111-113\(112.34) Rolling Stones - Miss You (Special Disco Versi
 D:\Music\Singles\111-113\(112.36) Bell Towers - My Love.mp3
 D:\Music\Singles\111-113\(112.37) Bon Rock - Ooh Baby, Please Come Back.mp3
 D:\Music\Singles\111-113\(112.38) Blind Date - Your Heart Keeps Burning (Extended Version).mp3
+D:\Music\Singles\111-113\(112.40) I-Level - Teacher (Extended Dance Mix).mp3
 D:\Music\Singles\111-113\(112.44) Simply Red - Money's Too Tight (To Mention) (The Cutback Mix).mp3
-D:\Music\Singles\111-113\(112.47) Electric Mind - Summing Up.mp3
 D:\Music\Singles\111-113\(112.47) Roxy Music - The Main Thing.mp3
 D:\Music\Singles\111-113\(112.48) First Choice - Love Thang (Genius of Time Rework).mp3
 D:\Music\Singles\111-113\(112.51) Earth Wind & Fire - Brazilian Rhyme (Re-Edited by Danny Krivit).mp3
@@ -735,11 +784,14 @@ D:\Music\Singles\111-113\(113.24) Kano - Dance School.mp3
 D:\Music\Singles\111-113\(113.24) Koto - Japanese War Game (Dub Mix).mp3
 D:\Music\Singles\111-113\(113.25) Dennis Brown - Out of the Funk.mp3
 D:\Music\Singles\111-113\(113.28) Mark Fisher - Love Situation.mp3
+D:\Music\Singles\111-113\(113.29) Gaznevada - Ticket to Los Angeles (Olympic Version).mp3
 D:\Music\Singles\111-113\(113.29) Stevie Wonder - Do I Do.mp3
 D:\Music\Singles\111-113\(113.32) Jellybean - The Real Thing (West 26th Street Mix).mp3
 D:\Music\Singles\111-113\(113.37) Kaoru Inoue - The Secret Field (Todd Terje Remix).mp3
+D:\Music\Singles\111-113\(113.38) Alphonse Mouzon & Larry Coryell - Old Friends.mp3
 D:\Music\Singles\111-113\(113.39) Edgar Winter - Above and Beyond.mp3
 D:\Music\Singles\111-113\(113.41) Black Ivory - I've Got My Eye on You.mp3
+D:\Music\Singles\111-113\(113.45) Tatsuro Yamashita - Bomber.mp3
 D:\Music\Singles\111-113\(113.49) Jesse Johnson - Love Struck (Dance Mix).mp3
 D:\Music\Singles\111-113\(113.50) T.C. Curtis - You Should Have Known Better (Dub Mix).mp3
 D:\Music\Singles\111-113\(113.52) Cutty - Naughty Tmes.mp3
@@ -753,6 +805,7 @@ D:\Music\Singles\111-113\(113.69) De La Soul - A Roller Skating Jam Named Saturd
 D:\Music\Singles\111-113\(113.69) Steve Arrington - Feel So Real (Vocal - Extended Version).mp3
 D:\Music\Singles\111-113\(113.70) Sharon Brown - I Specialize in Love.mp3
 D:\Music\Singles\111-113\(113.70) Tiger & Woods - Golden Bear.mp3
+D:\Music\Singles\111-113\(113.76) I-Level - Give Me.mp3
 D:\Music\Singles\111-113\(113.77) Kwanzaa Posse - African Vibrations (Massive Attack Full Vocal Mix).mp3
 D:\Music\Singles\111-113\(113.77) Sheila E. - A Love Bizarre.mp3
 D:\Music\Singles\111-113\(113.78) 11.11 - Tourist Trap (Soul Clap & The Family Remix).mp3
@@ -807,9 +860,11 @@ D:\Music\Singles\114-115\(114.63) Skatt Bros. - Walk the Night.mp3
 D:\Music\Singles\114-115\(114.68) Hypnosis - Droid.mp3
 D:\Music\Singles\114-115\(114.68) Kano - Come to Me (Dicky Trisco Edit).mp3
 D:\Music\Singles\114-115\(114.70) Rockers Revenge - Dubbing in Sunshine.mp3
+D:\Music\Singles\114-115\(114.73) The Whispers - Tonight.mp3
 D:\Music\Singles\114-115\(114.74) Change - Paradise.mp3
 D:\Music\Singles\114-115\(114.74) Voyage - I Love You Dancer.mp3
 D:\Music\Singles\114-115\(114.75) Chemise - She Can't Love You (Vocal).mp3
+D:\Music\Singles\114-115\(114.78) Paul Laurence - Strung Out.mp3
 D:\Music\Singles\114-115\(114.80) Fonda Rae - Tuch Me (Touch Me).mp3
 D:\Music\Singles\114-115\(114.80) Pino D'Angio - Ma Quale Idea.mp3
 D:\Music\Singles\114-115\(114.80) Raven - So in Love (Long Version).mp3
@@ -822,6 +877,7 @@ D:\Music\Singles\114-115\(114.85) Carl & Carol Jacobs - Robot Jam (Part 2).mp3
 D:\Music\Singles\114-115\(114.86) Change - This is Your Time.mp3
 D:\Music\Singles\114-115\(114.88) Ahmed Fakroun - Love Words.mp3
 D:\Music\Singles\114-115\(114.88) Wham! - Everything She Wants.mp3
+D:\Music\Singles\114-115\(114.98) Max Graef - In the Disse.mp3
 D:\Music\Singles\114-115\(114.99) Beard in Dust - Revolution in Mordor.mp3
 D:\Music\Singles\114-115\(114.99) Inkswel - Good Times (Tom Noble Remix).mp3
 D:\Music\Singles\114-115\(114.99) Mark E - R+B Drunkie.mp3
@@ -857,6 +913,7 @@ D:\Music\Singles\114-115\(115.00) Walter Jones - Living Without Your Love.mp3
 D:\Music\Singles\114-115\(115.00) William DeVaughn - Be Thankful for What You Got (Onur Engin Edit).mp3
 D:\Music\Singles\114-115\(115.03) Carl & Carol - Yonge Street Jam (Excerpt).mp3
 D:\Music\Singles\114-115\(115.03) Leisure Connection - Jungle Dancing.mp3
+D:\Music\Singles\114-115\(115.05) Oby Onyioha - Enjoy Your Life.mp3
 D:\Music\Singles\114-115\(115.06) Marcus Miller - I Could Give You More.mp3
 D:\Music\Singles\114-115\(115.08) Mr. Fingers - On My Way (Larry Heard Sublevel 1 Mix).mp3
 D:\Music\Singles\114-115\(115.09) Incognito - Always There (12' Mix).mp3
@@ -886,6 +943,7 @@ D:\Music\Singles\114-115\(115.45) Regina - Baby Love (Extended Dance Mix).mp3
 D:\Music\Singles\114-115\(115.46) Doctor's Cat - Feel the Drive.mp3
 D:\Music\Singles\114-115\(115.46) Unique - What I Got is What You Need.mp3
 D:\Music\Singles\114-115\(115.47) Billy Ocean - Nights (Feel Like Getting Down).mp3
+D:\Music\Singles\114-115\(115.49) Gwen Guthrie - Padlock.mp3
 D:\Music\Singles\114-115\(115.53) Hall & Oates - Possession Obsession (Special Mix).mp3
 D:\Music\Singles\114-115\(115.54) Firefly - Stay (No Time) (Dance Version).mp3
 D:\Music\Singles\114-115\(115.55) Evelyn King - Love Come Down (Vocal).mp3
@@ -902,10 +960,12 @@ D:\Music\Singles\114-115\(115.90) The Cool Notes - In Your Car.mp3
 D:\Music\Singles\114-115\(115.93) Sonny Jenkins & The New York Potpourri Strings - That Friday Pay (Eagle Flying Day) Part I.mp3
 D:\Music\Singles\114-115\(115.96) The Limit - She's So Divine.mp3
 D:\Music\Singles\114-115\(115.98) AndrÇs - Jack City (Original Mix).mp3
+D:\Music\Singles\114-115\(115.99) Larry Heard - Missing You (Instrumental).mp3
 D:\Music\Singles\116-117\(116.00) Bosq & Soul Clap - Higher.mp3
 D:\Music\Singles\116-117\(116.00) Egyptian Nipples - Back But Half (Lauer Remix).mp3
 D:\Music\Singles\116-117\(116.00) Francis Inferno Orchestra - Astral Breeze.mp3
 D:\Music\Singles\116-117\(116.00) Greg Paulus - Yellow Sky.mp3
+D:\Music\Singles\116-117\(116.00) Ilija Rudman - Time and Time (Dub Mix).mp3
 D:\Music\Singles\116-117\(116.00) Janet Jackson - Say U Love Me (LNTG Rework).mp3
 D:\Music\Singles\116-117\(116.00) KZA - Gothenergy (The Revenge Remix).mp3
 D:\Music\Singles\116-117\(116.00) Los Amigos Invisibles & Dimitri From Paris - Glad to Know You.mp3
@@ -931,6 +991,7 @@ D:\Music\Singles\116-117\(116.22) Janet Jackson - When I Think of You (Dance Rem
 D:\Music\Singles\116-117\(116.28) Sleeque - One for the Money (Dance Remix).mp3
 D:\Music\Singles\116-117\(116.29) Madonna - Holiday (Extended Remix).mp3
 D:\Music\Singles\116-117\(116.30) Brooklyn Express - Love is the Message.mp3
+D:\Music\Singles\116-117\(116.30) Lauren Wood - Work on It.mp3
 D:\Music\Singles\116-117\(116.33) Logic System - Clash (Chinjyu of Sun).mp3
 D:\Music\Singles\116-117\(116.33) Michael Zager Band - Love Express.mp3
 D:\Music\Singles\116-117\(116.34) DeBarge - Rhythm of the Night (Extended Version).mp3
@@ -938,6 +999,7 @@ D:\Music\Singles\116-117\(116.34) Marvin Gaye - Sanctified Lady.mp3
 D:\Music\Singles\116-117\(116.37) Newcleus - Jam on It.mp3
 D:\Music\Singles\116-117\(116.39) The Whispers - Rock Steady.mp3
 D:\Music\Singles\116-117\(116.41) Fingers Inc. - So Glad (Dub Version).mp3
+D:\Music\Singles\116-117\(116.44) Greg Henderson - Dreamin' (Instrumental).mp3
 D:\Music\Singles\116-117\(116.44) Jesse Johnson - She Won't Let Go.mp3
 D:\Music\Singles\116-117\(116.47) Suzanne Kraft - Femme Cosmic.mp3
 D:\Music\Singles\116-117\(116.51) Donald Byrd & 125th Street NYC - Sexy Dancer.mp3
@@ -948,6 +1010,7 @@ D:\Music\Singles\116-117\(116.65) Koto - Jabdah (Long Version).mp3
 D:\Music\Singles\116-117\(116.65) Mary Jane Girls - In My House (12' Version).mp3
 D:\Music\Singles\116-117\(116.66) Neddy Smith - Liberated Woman.mp3
 D:\Music\Singles\116-117\(116.69) Falco - No Answer (Hello Deutschland).mp3
+D:\Music\Singles\116-117\(116.70) Fela and Afrika 70 - O.P. (Opposite People).mp3
 D:\Music\Singles\116-117\(116.73) Cultural Vibe - Ma Foom Bey (Love Chant Version).mp3
 D:\Music\Singles\116-117\(116.73) Loui$ - Pink Footpath.mp3
 D:\Music\Singles\116-117\(116.80) Tornaado - Finn.mp3
@@ -960,6 +1023,7 @@ D:\Music\Singles\116-117\(116.90) Twennynine With Lenny White - Fancy Dancer.mp3
 D:\Music\Singles\116-117\(116.92) Nick Kamen - Each Time You Break My Heart (Extended Version).mp3
 D:\Music\Singles\116-117\(116.93) Midnight Express Show Band - Danger Zone (Remix).mp3
 D:\Music\Singles\116-117\(116.94) Colonel Abrams - I'm Not Gonna Let You (Extended Version).mp3
+D:\Music\Singles\116-117\(116.94) Fingers Inc. - So Glad.mp3
 D:\Music\Singles\116-117\(116.95) Nese Karabocek - Yali Yali (Todd Terje Remix).mp3
 D:\Music\Singles\116-117\(116.96) Sue§o Latino - Sue§o Latino (Cutmaster-G Mix).mp3
 D:\Music\Singles\116-117\(116.97) Wham! - Club Tropicana.mp3
@@ -970,6 +1034,7 @@ D:\Music\Singles\116-117\(117.00) DJ Hell - The Angst (Deniz Kurtel & Wolf + Lam
 D:\Music\Singles\116-117\(117.00) George Duke - I Want You for Myself (Keep Schtum Rework).mp3
 D:\Music\Singles\116-117\(117.00) Greg Paulus - What's Mine is Yours (Slow Hands Remix).mp3
 D:\Music\Singles\116-117\(117.00) Luke & Jimmy - Yellow Magic.mp3
+D:\Music\Singles\116-117\(117.00) Man Power - Le Clerc (The Backwoods Remix).mp3
 D:\Music\Singles\116-117\(117.00) Midnight Magic - Beam Me Up (Jacques Renault Remix).mp3
 D:\Music\Singles\116-117\(117.00) Motor City Drum Ensemble - Raw Cuts #3.mp3
 D:\Music\Singles\116-117\(117.00) Nicholas - I Know (feat. Nick Anthony).mp3
@@ -985,6 +1050,7 @@ D:\Music\Singles\116-117\(117.02) Secession - The Magician (Razormaid Mix).mp3
 D:\Music\Singles\116-117\(117.05) Larry Heard - Feathers Floating.mp3
 D:\Music\Singles\116-117\(117.07) Shakatak - Night Birds.mp3
 D:\Music\Singles\116-117\(117.07) Whitney Houston - Love Will Save the Day (The Underground Mix).mp3
+D:\Music\Singles\116-117\(117.15) Linda Di Franco - T.V. Scene (Sensurround Mix).mp3
 D:\Music\Singles\116-117\(117.20) Reverso 68 - Earthy Powers.mp3
 D:\Music\Singles\116-117\(117.24) B.B. & Q. Band - Ricochet.mp3
 D:\Music\Singles\116-117\(117.25) New York Edits - Untitled.mp3
@@ -1022,6 +1088,7 @@ D:\Music\Singles\116-117\(117.88) Paul Hardcastle - 19 (Extended Version).mp3
 D:\Music\Singles\116-117\(117.90) Gino Soccio - It's Alright (Long Version).mp3
 D:\Music\Singles\116-117\(117.90) Shalamar - Take That to the Bank.mp3
 D:\Music\Singles\116-117\(117.90) Stephanie Mills - Put Your Body in It.mp3
+D:\Music\Singles\116-117\(117.94) Blue Feather - Let It Out (Instrumental).mp3
 D:\Music\Singles\116-117\(117.94) Brioski - Show Biz (Rio Lobotomy Abducted Version).mp3
 D:\Music\Singles\116-117\(117.97) Tatsuro Yamashita - Ride on Time.mp3
 D:\Music\Singles\116-117\(117.98) Pet Shop Boys - What Have I Done to Deserve This (Disco Mix).mp3
@@ -1035,6 +1102,7 @@ D:\Music\Singles\118-119\(118.00) Lazercat - Heartbeat.mp3
 D:\Music\Singles\118-119\(118.00) Lindstrom - RÖ-Ako-St (Todd Terje Extended Edit).mp3
 D:\Music\Singles\118-119\(118.00) Lovebirds - This Feeling.mp3
 D:\Music\Singles\118-119\(118.00) Marathon Edits - Looking So Good.mp3
+D:\Music\Singles\118-119\(118.00) Melchior Sultana - Paradise.mp3
 D:\Music\Singles\118-119\(118.00) Miami Sound Machine - Dr. Beat (Long Version).mp3
 D:\Music\Singles\118-119\(118.00) Midnight Star - Midas Touch (Cut Slack Rework).mp3
 D:\Music\Singles\118-119\(118.00) Mousse T - Horny (Daniel Solar & Andi De Luxe Remix).mp3
@@ -1054,9 +1122,11 @@ D:\Music\Singles\118-119\(118.00) The Sheffield Boys - The Best Coast.mp3
 D:\Music\Singles\118-119\(118.00) Todd Terje - Snooze 4 Love.mp3
 D:\Music\Singles\118-119\(118.00) Tony Watson - Passages.mp3
 D:\Music\Singles\118-119\(118.00) Wham! - Wham Rap (Enjoy What You Do).mp3
+D:\Music\Singles\118-119\(118.01) Tatsuro Yamashita - Christmas Eve.mp3
 D:\Music\Singles\118-119\(118.04) Schatrax - Champagne Dancer (Original).mp3
 D:\Music\Singles\118-119\(118.05) Fingers Inc. - It's Over.mp3
 D:\Music\Singles\118-119\(118.05) Lil' Louis & The World - I Called U (But You Weren't There).mp3
+D:\Music\Singles\118-119\(118.08) Paul Hardcastle - 19 (Destruction Mix).mp3
 D:\Music\Singles\118-119\(118.10) Greg Paulus - Suchashame (Soul Clap Remix).mp3
 D:\Music\Singles\118-119\(118.11) Culture Beat - Der Erdbeermund (Get Into Magic Vocal Mix).mp3
 D:\Music\Singles\118-119\(118.20) Jimmy Ross - First True Love Affair (Larry Levan Mix).mp3
@@ -1066,6 +1136,7 @@ D:\Music\Singles\118-119\(118.31) Blue Feather - Let's Funk Tonight.mp3
 D:\Music\Singles\118-119\(118.31) Ronnie Laws - Good Feelings.mp3
 D:\Music\Singles\118-119\(118.32) Pat Metheny Group - Slip Away.mp3
 D:\Music\Singles\118-119\(118.37) Future World Orchestra - Tenderness.mp3
+D:\Music\Singles\118-119\(118.40) Konk - Your Life.mp3
 D:\Music\Singles\118-119\(118.40) New Order - Bizarre Love Triangle.mp3
 D:\Music\Singles\118-119\(118.51) Time Bandits - I'm Only Shooting Love (Extended Version).mp3
 D:\Music\Singles\118-119\(118.61) Kym - Give Me the Dance (Dance Mix).mp3
@@ -1076,6 +1147,7 @@ D:\Music\Singles\118-119\(118.70) Siedah Garrett - Do You Want It Right Now.mp3
 D:\Music\Singles\118-119\(118.71) Whitney Houston - How Will I Know (Dance Re-Mix).mp3
 D:\Music\Singles\118-119\(118.73) Jack J - Something (On My Mind).mp3
 D:\Music\Singles\118-119\(118.78) K.I.D. - Hupendi Muziki Wangu' ! (You Don't Like My Music).mp3
+D:\Music\Singles\118-119\(118.78) Telephones - Rytmenarkotisk.mp3
 D:\Music\Singles\118-119\(118.80) Barbara Norris - Heavy Hitter (Dub).mp3
 D:\Music\Singles\118-119\(118.82) Con Funk Shun - California 1.mp3
 D:\Music\Singles\118-119\(118.87) Dirty Jesus - Don't Fuck With My Shit (Late Night Cruisin Mix).mp3
@@ -1123,11 +1195,11 @@ D:\Music\Singles\118-119\(119.40) Michael Jackson - Don't Stop 'Til You Get Enou
 D:\Music\Singles\118-119\(119.42) Inner City - Ain't Nobody Better (Groove Corporation Remix).mp3
 D:\Music\Singles\118-119\(119.45) Frankie Knuckles - Workout (1992 Vocal Mix).mp3
 D:\Music\Singles\118-119\(119.53) Ron's Edits - Heads Together.mp3
+D:\Music\Singles\118-119\(119.57) Groove - Submit to the Beat (Original Jazzy House Mix).mp3
 D:\Music\Singles\118-119\(119.58) Kano - Queen of Witches.mp3
 D:\Music\Singles\118-119\(119.58) Private Joy - Coolin Out (Vocal).mp3
 D:\Music\Singles\118-119\(119.67) Risse - House Train (New York Mix).mp3
 D:\Music\Singles\118-119\(119.68) Maxine Singleton - You Can't Run From Love (Club Mix).mp3
-D:\Music\Singles\118-119\(119.68) Rayko - Die for You.mp3
 D:\Music\Singles\118-119\(119.70) Doobie Brothers - Long Train Runnin'.mp3
 D:\Music\Singles\118-119\(119.73) M.F.S.B. - Mysteries of the World.mp3
 D:\Music\Singles\118-119\(119.79) Con Funk Shun - Don't Let Your Love Grow Cold.mp3
@@ -1274,6 +1346,7 @@ D:\Music\Singles\120-121\(121.01) Social Disco Club - Simple Dreams.mp3
 D:\Music\Singles\120-121\(121.01) The Other People Place - Let Me Be Me.mp3
 D:\Music\Singles\120-121\(121.02) Grace Jones - Feel Up (Danny Tenaglia Remix).mp3
 D:\Music\Singles\120-121\(121.02) Rosie Gaines - Closer Than Close (Mentor Original).mp3
+D:\Music\Singles\120-121\(121.07) Yothu Yindi - Treaty (Leftside Wobble Edit).mp3
 D:\Music\Singles\120-121\(121.10) Cerrone - Hooked on You (feat. Jocelyn Brown).mp3
 D:\Music\Singles\120-121\(121.15) Dan Hartman - Vertigo - Relight My Fire.mp3
 D:\Music\Singles\120-121\(121.15) Omar-S - Set It Out.mp3
@@ -1346,7 +1419,8 @@ D:\Music\Singles\122-124\(122.10) The Doobie Brothers - What a Fool Believes (Sp
 D:\Music\Singles\122-124\(122.16) Boytronic - Bryllyant.mp3
 D:\Music\Singles\122-124\(122.17) Lama - Love on the Rocks (Disconet Remix).mp3
 D:\Music\Singles\122-124\(122.21) Cuebism - Disco Credit.mp3
-D:\Music\Singles\122-124\(122.31) Yothu Yindi - Treaty.mp3
+D:\Music\Singles\122-124\(122.31) David Keaton - Gloria.mp3
+D:\Music\Singles\122-124\(122.36) Thompson Twins - (Long) Beach Culture.mp3
 D:\Music\Singles\122-124\(122.38) John Rocca - I Want It to Be Real (Farley's Hothouse Piano Mix).mp3
 D:\Music\Singles\122-124\(122.38) Phyllis Nelson - I Like You (Extended Version).mp3
 D:\Music\Singles\122-124\(122.40) Dusty Little Kid - Jerry Cala.mp3
@@ -1388,6 +1462,7 @@ D:\Music\Singles\122-124\(123.67) Michoacan - Don't Walk Away.mp3
 D:\Music\Singles\122-124\(123.73) Prince - Erotic City (Dance Mix).mp3
 D:\Music\Singles\122-124\(123.79) Vincent Floyd - I Dream You.mp3
 D:\Music\Singles\122-124\(123.80) Don Carlos - Re-Mida (Hunee Edit).mp3
+D:\Music\Singles\122-124\(123.83) Fela Kuti - Shakara (Ossie's Bump Edit).mp3
 D:\Music\Singles\122-124\(123.84) Don Ray - Standing in the Rain.mp3
 D:\Music\Singles\122-124\(123.86) Cajmere - Brighter Days (Original Mix).mp3
 D:\Music\Singles\122-124\(123.89) DeBarge - You Wear It Well (Club Mix).mp3
@@ -1414,7 +1489,6 @@ D:\Music\Singles\122-124\(124.00) Soul Clap - Need Your Lovin' (Nitetime Remix).
 D:\Music\Singles\122-124\(124.00) Souls of Mischief - 93 'til Infinity (Hannes Fischer Remix).mp3
 D:\Music\Singles\122-124\(124.00) Todd Terje - Delorean Dynamite.mp3
 D:\Music\Singles\122-124\(124.01) Bizarre Inc. - Took My Love (Original Flavour Mix).mp3
-D:\Music\Singles\122-124\(124.01) Fela Kuti - Shakara (Ossie's Bump Edit).mp3
 D:\Music\Singles\122-124\(124.04) Letta Mbulu - Kilimanjaro.mp3
 D:\Music\Singles\122-124\(124.08) Dajae - U Got Me Up (Danny Tenaglia's Club Version).mp3
 D:\Music\Singles\122-124\(124.14) Blaze - Lovelee Dae (Original).mp3
@@ -1480,6 +1554,7 @@ D:\Music\Singles\125-160\(125.50) Mouzon's Electric Band - Everybody Get Down.mp
 D:\Music\Singles\125-160\(125.60) Jaakko Eino Kalevi - Speak Out.mp3
 D:\Music\Singles\125-160\(125.68) Azymuth - Jazz Carnival (Global Communication's Space Jazz Mix).mp3
 D:\Music\Singles\125-160\(125.71) Scott Grooves - Detroit 808.mp3
+D:\Music\Singles\125-160\(125.75) Willie Bobo - Always There.mp3
 D:\Music\Singles\125-160\(125.79) Willesden Dodgers - 122 BPM.mp3
 D:\Music\Singles\125-160\(125.95) Ata Kak - Daa Nyinaa (Noema's Tribute Edit).mp3
 D:\Music\Singles\125-160\(125.95) Nora - Questa Notte (Vocal).mp3
@@ -1504,11 +1579,13 @@ D:\Music\Singles\125-160\(126.26) Patrick Cowley - Megatron Man.mp3
 D:\Music\Singles\125-160\(126.27) Yusuke Takahama - Jolly Joker (Get Ready!).mp3
 D:\Music\Singles\125-160\(126.32) Gloria Estefan & Miami Sound Machine - 1-2-3.mp3
 D:\Music\Singles\125-160\(126.38) The Other People Place - It's Your Love.mp3
+D:\Music\Singles\125-160\(126.45) Rinder & Lewis - Blue Steel.mp3
 D:\Music\Singles\125-160\(126.48) Prince - When Doves Cry.mp3
 D:\Music\Singles\125-160\(126.59) Alliance - The Dawn.mp3
 D:\Music\Singles\125-160\(126.62) Kano - I'm Ready.mp3
 D:\Music\Singles\125-160\(126.64) Rockmelons - Hypnotheque.mp3
 D:\Music\Singles\125-160\(126.68) Matt Bianco - Sneaking Out the Back Door.mp3
+D:\Music\Singles\125-160\(126.75) Herb Alpert - Beyond.mp3
 D:\Music\Singles\125-160\(126.78) Gary's Gang - Keep on Dancin' (Todd Terje Remix).mp3
 D:\Music\Singles\125-160\(126.90) Cerrone - Love in C Minor.mp3
 D:\Music\Singles\125-160\(126.91) Witch Queen - Witch Queen.mp3
@@ -1547,11 +1624,13 @@ D:\Music\Singles\125-160\(131.00) Real Thing - Can You Feel the Force.mp3
 D:\Music\Singles\125-160\(131.33) Joachim Witt - Tri Tra Trullala (Herbergsvater).mp3
 D:\Music\Singles\125-160\(131.84) Amant - Hazy Shades of Love.mp3
 D:\Music\Singles\125-160\(132.90) Grace Jones - Private Life.mp3
+D:\Music\Singles\125-160\(133.20) Mackey Feary Band - Island Smile.mp3
 D:\Music\Singles\125-160\(133.25) Womack & Womack - Teardrops (Extended Version).mp3
 D:\Music\Singles\125-160\(134.21) Flash & The Pan - Waiting for a Train.mp3
 D:\Music\Singles\125-160\(134.70) Chris & Cosey - Exotika.mp3
 D:\Music\Singles\125-160\(134.75) Y.M.O. - Tong Poo.mp3
 D:\Music\Singles\125-160\(134.81) Y.M.O. - La Femme Chinoise.mp3
+D:\Music\Singles\125-160\(134.94) Prince - I Would Die 4 U.mp3
 D:\Music\Singles\125-160\(135.45) Icehouse - Hey Little Girl (Disco Edit Mix).mp3
 D:\Music\Singles\125-160\(139.99) 2000f & J Kamata - You Don't Know What Love Is.mp3
 D:\Music\Singles\125-160\(142.46) Y.M.O. - Kimi ni Mune Kyun.mp3
