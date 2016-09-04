@@ -4,6 +4,7 @@ D:\Music\Albums\I to L
 D:\Music\Albums\M to Q
 D:\Music\Albums\R to S
 D:\Music\Albums\T to Z
+D:\Music\Albums\A to C\'A' Train - 'A' Train
 D:\Music\Albums\A to C\45 ACP - Change of Tone
 D:\Music\Albums\A to C\A Vision of Panorama - A Vision of Panorama EP
 D:\Music\Albums\A to C\A.r.t. Wilson - Overworld
@@ -23,11 +24,13 @@ D:\Music\Albums\A to C\Arsenii - Allegria
 D:\Music\Albums\A to C\Ash Ra Tempel - Friendship
 D:\Music\Albums\A to C\Ata - Live at Robert Johnson Volume 7
 D:\Music\Albums\A to C\Autonomous Africa II - Various
+D:\Music\Albums\A to C\Baba Stiltz - A Slice of 'Heaven' EP
 D:\Music\Albums\A to C\Baba Stiltz - Total
 D:\Music\Albums\A to C\Babadu - Babadu!
 D:\Music\Albums\A to C\Basa Basa - High Life Music
 D:\Music\Albums\A to C\Ben 'Cozmo D' Cenac - Cozmic House EP
 D:\Music\Albums\A to C\Benedek & Noble - Ocean Side & Airwayz
+D:\Music\Albums\A to C\Benedek - Coolin'
 D:\Music\Albums\A to C\Benedek - Test Pressing
 D:\Music\Albums\A to C\Bobby Lyle - Bobby Lyle Plays Electone GX707
 D:\Music\Albums\A to C\Body-san - Shining the Money Ball
@@ -49,6 +52,16 @@ D:\Music\Albums\A to C\Cut Copy Presents - Oceans Apart
 D:\Music\Albums\A to C\The Art of Noise - In Visible Silence
 D:\Music\Albums\A to C\The Blue Nile - Hats
 D:\Music\Albums\A to C\The Breeze - Cocktails By the Pool
+D:\Music\Albums\A to C\'A' Train - 'A' Train\01 - Time Stops.mp3
+D:\Music\Albums\A to C\'A' Train - 'A' Train\02 - Bend Over Baby.mp3
+D:\Music\Albums\A to C\'A' Train - 'A' Train\03 - Trip on Your Lip.mp3
+D:\Music\Albums\A to C\'A' Train - 'A' Train\04 - Baby Please.mp3
+D:\Music\Albums\A to C\'A' Train - 'A' Train\05 - When I Call Your Name.mp3
+D:\Music\Albums\A to C\'A' Train - 'A' Train\06 - I Don't Want to Loose You.mp3
+D:\Music\Albums\A to C\'A' Train - 'A' Train\07 - When Did You Lose Your Love for Me.mp3
+D:\Music\Albums\A to C\'A' Train - 'A' Train\08 - Color of Your Hair.mp3
+D:\Music\Albums\A to C\'A' Train - 'A' Train\09 - Puerto Rican Hotel.mp3
+D:\Music\Albums\A to C\'A' Train - 'A' Train\folder.jpg
 D:\Music\Albums\A to C\45 ACP - Change of Tone\01 - The Bridge.mp3
 D:\Music\Albums\A to C\45 ACP - Change of Tone\02 - Seventh Circle.mp3
 D:\Music\Albums\A to C\45 ACP - Change of Tone\03 - Ground to Ground.mp3
@@ -206,6 +219,11 @@ D:\Music\Albums\A to C\Autonomous Africa II - Various\02 - JD Twitch - Olaiya.mp
 D:\Music\Albums\A to C\Autonomous Africa II - Various\03 - Auntie Flo - Water of Life.mp3
 D:\Music\Albums\A to C\Autonomous Africa II - Various\04 - JD Twitch - Juju.mp3
 D:\Music\Albums\A to C\Autonomous Africa II - Various\folder.jpg
+D:\Music\Albums\A to C\Baba Stiltz - A Slice of 'Heaven' EP\01 - Samo DJ - Triad Board Meeting.mp3
+D:\Music\Albums\A to C\Baba Stiltz - A Slice of 'Heaven' EP\02 - Baba Stiltz - Pacific Times.mp3
+D:\Music\Albums\A to C\Baba Stiltz - A Slice of 'Heaven' EP\03 - Baba Stiltz - Beirut.mp3
+D:\Music\Albums\A to C\Baba Stiltz - A Slice of 'Heaven' EP\04 - Samo DJ & Tzusing - Hollabackboi.mp3
+D:\Music\Albums\A to C\Baba Stiltz - A Slice of 'Heaven' EP\folder.jpg
 D:\Music\Albums\A to C\Baba Stiltz - Total\01 Missing.mp3
 D:\Music\Albums\A to C\Baba Stiltz - Total\02 Reality Sparks.mp3
 D:\Music\Albums\A to C\Baba Stiltz - Total\03 Rain Dance.mp3
@@ -245,6 +263,11 @@ D:\Music\Albums\A to C\Ben 'Cozmo D' Cenac - Cozmic House EP\folder.jpg
 D:\Music\Albums\A to C\Benedek & Noble - Ocean Side & Airwayz\01 - Ocean Side.mp3
 D:\Music\Albums\A to C\Benedek & Noble - Ocean Side & Airwayz\02 - Airwayz (Garage Mix).mp3
 D:\Music\Albums\A to C\Benedek & Noble - Ocean Side & Airwayz\folder.jpg
+D:\Music\Albums\A to C\Benedek - Coolin'\01 - Coolin'.mp3
+D:\Music\Albums\A to C\Benedek - Coolin'\02 - Ryukyu.mp3
+D:\Music\Albums\A to C\Benedek - Coolin'\03 - Voices.mp3
+D:\Music\Albums\A to C\Benedek - Coolin'\04 - Angeles Vista.mp3
+D:\Music\Albums\A to C\Benedek - Coolin'\folder.jpg
 D:\Music\Albums\A to C\Benedek - Test Pressing\01 - Phase.mp3
 D:\Music\Albums\A to C\Benedek - Test Pressing\02 - Wavrunner.mp3
 D:\Music\Albums\A to C\Benedek - Test Pressing\03 - 99 Ranch.mp3
@@ -470,13 +493,14 @@ D:\Music\Albums\D to H\Fela Kuti - Teacher Don't Teach Me Nonsense
 D:\Music\Albums\D to H\Fleetwood Mac - Rumours
 D:\Music\Albums\D to H\Flights of Fancy - Love's a Dancer
 D:\Music\Albums\D to H\Fort Romeau - Her Dream
+D:\Music\Albums\D to H\Fort Romeau - Secrets & Lies
 D:\Music\Albums\D to H\Francis Bebey - Remixed
 D:\Music\Albums\D to H\Fresh Approach - Various
 D:\Music\Albums\D to H\Gala Drop - Gala Drop
 D:\Music\Albums\D to H\Gaussian Curve - Clouds
 D:\Music\Albums\D to H\Gigi Masin - Wind
 D:\Music\Albums\D to H\Golden Ivy - To Elvira From Ivy With Love
-D:\Music\Albums\D to H\Greeen Linez - Things That Fade
+D:\Music\Albums\D to H\Hailu Mergia - Hailu Mergia Remixes
 D:\Music\Albums\D to H\haircuts for men - Marble of Fantasy
 D:\Music\Albums\D to H\Hall & Oates - The Singles
 D:\Music\Albums\D to H\Harald Grosskopf - Synthesist
@@ -490,6 +514,7 @@ D:\Music\Albums\D to H\Haywoode - Arrival
 D:\Music\Albums\D to H\Hedzoleh - Hedzoleh
 D:\Music\Albums\D to H\Herb Alpert - Rise
 D:\Music\Albums\D to H\Herbie Hancock - Sunlight
+D:\Music\Albums\D to H\Hidden Spheres - Waiting
 D:\Music\Albums\D to H\Hiroshi Sato - Orient
 D:\Music\Albums\D to H\Hiroshi Sato - This Boy
 D:\Music\Albums\D to H\Hiroyuki Namba - Party Tonight
@@ -653,6 +678,10 @@ D:\Music\Albums\D to H\Fort Romeau - Her Dream\01 - I Knew.mp3
 D:\Music\Albums\D to H\Fort Romeau - Her Dream\02 - Pirouette.mp3
 D:\Music\Albums\D to H\Fort Romeau - Her Dream\03 - Her Dream.mp3
 D:\Music\Albums\D to H\Fort Romeau - Her Dream\folder.jpg
+D:\Music\Albums\D to H\Fort Romeau - Secrets & Lies\01 - Facing the Sea.mp3
+D:\Music\Albums\D to H\Fort Romeau - Secrets & Lies\02 - Seventyfour.mp3
+D:\Music\Albums\D to H\Fort Romeau - Secrets & Lies\03 - Secrets & Lies.mp3
+D:\Music\Albums\D to H\Fort Romeau - Secrets & Lies\folder.jpg
 D:\Music\Albums\D to H\Francis Bebey - Remixed\01 - Bissao (Pilooski Edit).mp3
 D:\Music\Albums\D to H\Francis Bebey - Remixed\02 - Forrest Whistle (Daphni Edit).mp3
 D:\Music\Albums\D to H\Francis Bebey - Remixed\03 - Le Domaine Reserve Du Colonel (It's a Fine Line Mix ).mp3
@@ -714,10 +743,11 @@ D:\Music\Albums\D to H\Golden Ivy - To Elvira From Ivy With Love\04 - Vernissage
 D:\Music\Albums\D to H\Golden Ivy - To Elvira From Ivy With Love\05 - Time Out.mp3
 D:\Music\Albums\D to H\Golden Ivy - To Elvira From Ivy With Love\06 - GT Salong.mp3
 D:\Music\Albums\D to H\Golden Ivy - To Elvira From Ivy With Love\folder.jpg
-D:\Music\Albums\D to H\Greeen Linez - Things That Fade\01 - March 12th Street.mp3
-D:\Music\Albums\D to H\Greeen Linez - Things That Fade\02 - Palm Coast Freeway.mp3
-D:\Music\Albums\D to H\Greeen Linez - Things That Fade\03 - Courtside Daydreams.mp3
-D:\Music\Albums\D to H\Greeen Linez - Things That Fade\folder.jpg
+D:\Music\Albums\D to H\Hailu Mergia - Hailu Mergia Remixes\01 - Wegene.mp3
+D:\Music\Albums\D to H\Hailu Mergia - Hailu Mergia Remixes\02 - Prins Thomas Diskomiks.mp3
+D:\Music\Albums\D to H\Hailu Mergia - Hailu Mergia Remixes\03 - Wegene (Protect-U Remix).mp3
+D:\Music\Albums\D to H\Hailu Mergia - Hailu Mergia Remixes\04 - Ambasel (El Guincho Club Aliz‚ Edit).mp3
+D:\Music\Albums\D to H\Hailu Mergia - Hailu Mergia Remixes\folder.jpg
 D:\Music\Albums\D to H\haircuts for men - Marble of Fantasy\folder.jpg
 D:\Music\Albums\D to H\haircuts for men - Marble of Fantasy\Track 01.mp3
 D:\Music\Albums\D to H\haircuts for men - Marble of Fantasy\Track 02.mp3
@@ -835,6 +865,11 @@ D:\Music\Albums\D to H\Herbie Hancock - Sunlight\03 - Sunlight.mp3
 D:\Music\Albums\D to H\Herbie Hancock - Sunlight\04 - No Means Yes.mp3
 D:\Music\Albums\D to H\Herbie Hancock - Sunlight\05 - Good Question.mp3
 D:\Music\Albums\D to H\Herbie Hancock - Sunlight\folder.jpg
+D:\Music\Albums\D to H\Hidden Spheres - Waiting\01 - Waiting.mp3
+D:\Music\Albums\D to H\Hidden Spheres - Waiting\02 - Upsn Downs.mp3
+D:\Music\Albums\D to H\Hidden Spheres - Waiting\03 - Be a Man.mp3
+D:\Music\Albums\D to H\Hidden Spheres - Waiting\04 - Bill Loves You.mp3
+D:\Music\Albums\D to H\Hidden Spheres - Waiting\folder.jpg
 D:\Music\Albums\D to H\Hiroshi Sato - Orient\01 - Kalimba Night.mp3
 D:\Music\Albums\D to H\Hiroshi Sato - Orient\02 - Monkey King.mp3
 D:\Music\Albums\D to H\Hiroshi Sato - Orient\03 - Child of the Moon Named Leo.mp3
@@ -917,6 +952,7 @@ D:\Music\Albums\I to L\Kay Gardner - Mooncircles
 D:\Music\Albums\I to L\Kebekelektrik - Kebekelektrik
 D:\Music\Albums\I to L\Keiko Project - Compositions
 D:\Music\Albums\I to L\Kerri Chandler - Atmosphere E.P
+D:\Music\Albums\I to L\Khidja - El Fadaa
 D:\Music\Albums\I to L\Kraftwerk - The Mix
 D:\Music\Albums\I to L\KZA - Dig and Edit 2
 D:\Music\Albums\I to L\KZA - I'm Starting to Feel Okay, Vol. 3
@@ -931,6 +967,7 @@ D:\Music\Albums\I to L\Leon Lowman - Liquid Diamonds
 D:\Music\Albums\I to L\Letta Mbulu - Sweet Juju
 D:\Music\Albums\I to L\Level 42 - Level 42
 D:\Music\Albums\I to L\Linkwood - System
+D:\Music\Albums\I to L\Lonely C & Tom Trago - The Compass Joint
 D:\Music\Albums\I to L\Lonnie Liston Smith - Dreams of Tomorrow
 D:\Music\Albums\I to L\Los Indios Tabajaras - Always in My Heart
 D:\Music\Albums\I to L\Los Indios Tabajaras - Maria Elena
@@ -1162,6 +1199,11 @@ D:\Music\Albums\I to L\Kerri Chandler - Atmosphere E.P\02 - Climax 2.mp3
 D:\Music\Albums\I to L\Kerri Chandler - Atmosphere E.P\03 - Track 1.mp3
 D:\Music\Albums\I to L\Kerri Chandler - Atmosphere E.P\04 - Track 2.mp3
 D:\Music\Albums\I to L\Kerri Chandler - Atmosphere E.P\folder.jpg
+D:\Music\Albums\I to L\Khidja - El Fadaa\01 - Racheta El Fadaa.mp3
+D:\Music\Albums\I to L\Khidja - El Fadaa\02 - Drums of Taksim (Original Mix).mp3
+D:\Music\Albums\I to L\Khidja - El Fadaa\03 - Monkey Tiger.mp3
+D:\Music\Albums\I to L\Khidja - El Fadaa\04 - Drums of Taksim (Baris K & Mehmet Aslan Remix).mp3
+D:\Music\Albums\I to L\Khidja - El Fadaa\folder.jpg
 D:\Music\Albums\I to L\Kraftwerk - The Mix\01 - The Robots.mp3
 D:\Music\Albums\I to L\Kraftwerk - The Mix\02 - Computerlove.mp3
 D:\Music\Albums\I to L\Kraftwerk - The Mix\03 - Pocket Calculator.mp3
@@ -1331,6 +1373,9 @@ D:\Music\Albums\I to L\Linkwood - System\08 - Electricity.mp3
 D:\Music\Albums\I to L\Linkwood - System\09 - System.mp3
 D:\Music\Albums\I to L\Linkwood - System\10 - Nectarine.mp3
 D:\Music\Albums\I to L\Linkwood - System\folder.jpg
+D:\Music\Albums\I to L\Lonely C & Tom Trago - The Compass Joint\01 - Side A.mp3
+D:\Music\Albums\I to L\Lonely C & Tom Trago - The Compass Joint\02 - Side B.mp3
+D:\Music\Albums\I to L\Lonely C & Tom Trago - The Compass Joint\folder.jpg
 D:\Music\Albums\I to L\Lonnie Liston Smith - Dreams of Tomorrow\01 - A Lonely Way to Be.mp3
 D:\Music\Albums\I to L\Lonnie Liston Smith - Dreams of Tomorrow\02 - Mystic Woman.mp3
 D:\Music\Albums\I to L\Lonnie Liston Smith - Dreams of Tomorrow\03 - The Love I See in Your Eyes.mp3
@@ -1391,6 +1436,7 @@ D:\Music\Albums\I to L\Luminodisco - Understory\07 - Zenigata.mp3
 D:\Music\Albums\I to L\Luminodisco - Understory\08 - Lavori Forzati.mp3
 D:\Music\Albums\I to L\Luminodisco - Understory\09 - Oh Mary.mp3
 D:\Music\Albums\I to L\Luminodisco - Understory\folder.jpg
+D:\Music\Albums\M to Q\Mackey Feary Band - From the Heart
 D:\Music\Albums\M to Q\MACROSS 82-99 - SAILORWAVE
 D:\Music\Albums\M to Q\Makoto Matsushita - First Light
 D:\Music\Albums\M to Q\Mamman Sani - Taaritt
@@ -1398,7 +1444,10 @@ D:\Music\Albums\M to Q\Man Jumping - Jumpcut
 D:\Music\Albums\M to Q\Mandre - Mandre
 D:\Music\Albums\M to Q\Mandr‚ - M3000
 D:\Music\Albums\M to Q\Mandr‚ - Two
+D:\Music\Albums\M to Q\Mark Barrott - Bush Society
+D:\Music\Albums\M to Q\Mark Barrott - Cascades
 D:\Music\Albums\M to Q\Max Mohr - Trickmixer's Revenge
+D:\Music\Albums\M to Q\Michael Boothman - Touch
 D:\Music\Albums\M to Q\Michael Jackson - Off the Wall
 D:\Music\Albums\M to Q\Mickey - Eye Witness
 D:\Music\Albums\M to Q\Mike Francis - Let's Not Talk About It
@@ -1431,6 +1480,7 @@ D:\Music\Albums\M to Q\Odd Numbers - Break Even
 D:\Music\Albums\M to Q\Original Soundtrack from Countryman
 D:\Music\Albums\M to Q\Orlando Johnson & Trance - Turn the Music On
 D:\Music\Albums\M to Q\Owiny Sigoma Band - Power Punch!!!
+D:\Music\Albums\M to Q\Paradise 100 - Northern Seoul
 D:\Music\Albums\M to Q\Paul Hardcastle & 1st Light - Daybreak
 D:\Music\Albums\M to Q\Paul Hardcastle - Rain Forest
 D:\Music\Albums\M to Q\Peoples Potential Family Album
@@ -1438,13 +1488,27 @@ D:\Music\Albums\M to Q\Peter Green - In the Skies
 D:\Music\Albums\M to Q\Phil Mison - Originals Volume Six
 D:\Music\Albums\M to Q\Prins Thomas - Prins Thomas II
 D:\Music\Albums\M to Q\Private Function - Various
+D:\Music\Albums\M to Q\Project Pablo - Beaubien Dream
 D:\Music\Albums\M to Q\Project Pablo - I Want to Believe
+D:\Music\Albums\M to Q\Project Pablo - Priorities
 D:\Music\Albums\M to Q\Psychemagik - Magik Sunrise
 D:\Music\Albums\M to Q\Psychemagik - Magik Sunset Part 1
 D:\Music\Albums\M to Q\Psychemagik - Magik Sunset Part 2
 D:\Music\Albums\M to Q\Psychic Mirrors - Charlene
 D:\Music\Albums\M to Q\Psychic Mirrors - I Come for Your Love
 D:\Music\Albums\M to Q\Ptaki - Kalina
+D:\Music\Albums\M to Q\Mackey Feary Band - From the Heart\01 - It's Okay.mp3
+D:\Music\Albums\M to Q\Mackey Feary Band - From the Heart\02 - I'm Calling You.mp3
+D:\Music\Albums\M to Q\Mackey Feary Band - From the Heart\03 - Sunday Evenings.mp3
+D:\Music\Albums\M to Q\Mackey Feary Band - From the Heart\04 - Island Smile.mp3
+D:\Music\Albums\M to Q\Mackey Feary Band - From the Heart\05 - Still There With You.mp3
+D:\Music\Albums\M to Q\Mackey Feary Band - From the Heart\06 - Play the Game.mp3
+D:\Music\Albums\M to Q\Mackey Feary Band - From the Heart\07 - Summer's End.mp3
+D:\Music\Albums\M to Q\Mackey Feary Band - From the Heart\08 - I Don't Believe.mp3
+D:\Music\Albums\M to Q\Mackey Feary Band - From the Heart\09 - You Just Won't Write.mp3
+D:\Music\Albums\M to Q\Mackey Feary Band - From the Heart\10 - Goodbye Friends.mp3
+D:\Music\Albums\M to Q\Mackey Feary Band - From the Heart\11 - Jello.mp3
+D:\Music\Albums\M to Q\Mackey Feary Band - From the Heart\folder.jpg
 D:\Music\Albums\M to Q\MACROSS 82-99 - SAILORWAVE\01 - MACROSS 82-99 - NEW DAWN.mp3
 D:\Music\Albums\M to Q\MACROSS 82-99 - SAILORWAVE\02 - MACROSS 82-99 - Battlefield.mp3
 D:\Music\Albums\M to Q\MACROSS 82-99 - SAILORWAVE\03 - MACROSS 82-99 - Sailor Jupiter.mp3
@@ -1512,6 +1576,12 @@ D:\Music\Albums\M to Q\Mandr‚ - Two\06 - Iles Dans L'Espace.mp3
 D:\Music\Albums\M to Q\Mandr‚ - Two\07 - Light Years (Opus IV).mp3
 D:\Music\Albums\M to Q\Mandr‚ - Two\08 - Doing Nothing, Nothing Doing.mp3
 D:\Music\Albums\M to Q\Mandr‚ - Two\folder.jpg
+D:\Music\Albums\M to Q\Mark Barrott - Bush Society\01 - Bush Society.mp3
+D:\Music\Albums\M to Q\Mark Barrott - Bush Society\02 - Saviours or Savages'.mp3
+D:\Music\Albums\M to Q\Mark Barrott - Bush Society\folder.jpg
+D:\Music\Albums\M to Q\Mark Barrott - Cascades\01 - Cascades.mp3
+D:\Music\Albums\M to Q\Mark Barrott - Cascades\02 - Tagomago.mp3
+D:\Music\Albums\M to Q\Mark Barrott - Cascades\folder.jpg
 D:\Music\Albums\M to Q\Max Mohr - Trickmixer's Revenge\01 - Diamanten.mp3
 D:\Music\Albums\M to Q\Max Mohr - Trickmixer's Revenge\02 - Assonja Swynja.mp3
 D:\Music\Albums\M to Q\Max Mohr - Trickmixer's Revenge\03 - Spellbound.mp3
@@ -1522,6 +1592,9 @@ D:\Music\Albums\M to Q\Max Mohr - Trickmixer's Revenge\07 - Old Song.mp3
 D:\Music\Albums\M to Q\Max Mohr - Trickmixer's Revenge\08 - On the Run.mp3
 D:\Music\Albums\M to Q\Max Mohr - Trickmixer's Revenge\09 - In the Woods.mp3
 D:\Music\Albums\M to Q\Max Mohr - Trickmixer's Revenge\folder.jpg
+D:\Music\Albums\M to Q\Michael Boothman - Touch\01 - Waiting for Your Love.mp3
+D:\Music\Albums\M to Q\Michael Boothman - Touch\02 - What You Won't Do for Love.mp3
+D:\Music\Albums\M to Q\Michael Boothman - Touch\folder.jpg
 D:\Music\Albums\M to Q\Michael Jackson - Off the Wall\01 - Don't Stop 'Til You Get Enough.mp3
 D:\Music\Albums\M to Q\Michael Jackson - Off the Wall\02 - Rock With You.mp3
 D:\Music\Albums\M to Q\Michael Jackson - Off the Wall\03 - Working Day and Night.mp3
@@ -1848,6 +1921,11 @@ D:\Music\Albums\M to Q\Owiny Sigoma Band - Power Punch!!!\10 - All Together.mp3
 D:\Music\Albums\M to Q\Owiny Sigoma Band - Power Punch!!!\11 - Jonny Ra Ha.mp3
 D:\Music\Albums\M to Q\Owiny Sigoma Band - Power Punch!!!\12 - Nyiduonge Drums.mp3
 D:\Music\Albums\M to Q\Owiny Sigoma Band - Power Punch!!!\folder.jpg
+D:\Music\Albums\M to Q\Paradise 100 - Northern Seoul\01 - Heat.wav.mp3
+D:\Music\Albums\M to Q\Paradise 100 - Northern Seoul\02 - Northern Seoul.mp3
+D:\Music\Albums\M to Q\Paradise 100 - Northern Seoul\03 - Ostende.mp3
+D:\Music\Albums\M to Q\Paradise 100 - Northern Seoul\04 - Brutal Tops.mp3
+D:\Music\Albums\M to Q\Paradise 100 - Northern Seoul\folder.jpg
 D:\Music\Albums\M to Q\Paul Hardcastle & 1st Light - Daybreak\01 - Daybreak.mp3
 D:\Music\Albums\M to Q\Paul Hardcastle & 1st Light - Daybreak\02 - I Don't Care.mp3
 D:\Music\Albums\M to Q\Paul Hardcastle & 1st Light - Daybreak\03 - Don't Be Mistaken.mp3
@@ -1923,6 +2001,10 @@ D:\Music\Albums\M to Q\Private Function - Various\02 - K-Maxx - Da Blast.mp3
 D:\Music\Albums\M to Q\Private Function - Various\03 - Night School - Speak Softly.mp3
 D:\Music\Albums\M to Q\Private Function - Various\04 - Loose Shus - Loose Coupling.mp3
 D:\Music\Albums\M to Q\Private Function - Various\folder.jpg
+D:\Music\Albums\M to Q\Project Pablo - Beaubien Dream\01 - Closer.mp3
+D:\Music\Albums\M to Q\Project Pablo - Beaubien Dream\02 - Royal Plus.mp3
+D:\Music\Albums\M to Q\Project Pablo - Beaubien Dream\03 - Beaubien Dream.mp3
+D:\Music\Albums\M to Q\Project Pablo - Beaubien Dream\folder.jpg
 D:\Music\Albums\M to Q\Project Pablo - I Want to Believe\01 - Sky Lounge.mp3
 D:\Music\Albums\M to Q\Project Pablo - I Want to Believe\02 - Follow It Up.mp3
 D:\Music\Albums\M to Q\Project Pablo - I Want to Believe\03 - Movin' Out.mp3
@@ -1933,6 +2015,11 @@ D:\Music\Albums\M to Q\Project Pablo - I Want to Believe\07 - Always.mp3
 D:\Music\Albums\M to Q\Project Pablo - I Want to Believe\08 - The Feeling.mp3
 D:\Music\Albums\M to Q\Project Pablo - I Want to Believe\09 - It's Out There.mp3
 D:\Music\Albums\M to Q\Project Pablo - I Want to Believe\folder.jpg
+D:\Music\Albums\M to Q\Project Pablo - Priorities\01 - Evening Call.mp3
+D:\Music\Albums\M to Q\Project Pablo - Priorities\02 - Warm Priority.mp3
+D:\Music\Albums\M to Q\Project Pablo - Priorities\03 - Lalime (Dandana Mix).mp3
+D:\Music\Albums\M to Q\Project Pablo - Priorities\04 - About to Leave.mp3
+D:\Music\Albums\M to Q\Project Pablo - Priorities\folder.jpg
 D:\Music\Albums\M to Q\Psychemagik - Magik Sunrise\01 - Iasos - Formentera Sunset Clouds.mp3
 D:\Music\Albums\M to Q\Psychemagik - Magik Sunrise\02 - Daniel Mathieu - C'Etait Un Beau Dimanche.mp3
 D:\Music\Albums\M to Q\Psychemagik - Magik Sunrise\03 - Fox - The Juggler.mp3
@@ -2029,6 +2116,8 @@ D:\Music\Albums\R to S\Spike - Orange Cloud Nine
 D:\Music\Albums\R to S\Stephen Encinas - Disco Illusion
 D:\Music\Albums\R to S\Stroer - Stroer
 D:\Music\Albums\R to S\Surfing - Deep Fantasy
+D:\Music\Albums\R to S\Suzanne Kraft - DJ-Safety
+D:\Music\Albums\R to S\Suzanne Kraft - Green Flash EP
 D:\Music\Albums\R to S\Suzanne Kraft - Talk From Home
 D:\Music\Albums\R to S\Sven Atterton - The Cove
 D:\Music\Albums\R to S\Sven Atterton - Vapor EP
@@ -2427,6 +2516,15 @@ D:\Music\Albums\R to S\Surfing - Deep Fantasy\08 - Lifetime.mp3
 D:\Music\Albums\R to S\Surfing - Deep Fantasy\09 - Dubai.mp3
 D:\Music\Albums\R to S\Surfing - Deep Fantasy\10 - Killed a Man.mp3
 D:\Music\Albums\R to S\Surfing - Deep Fantasy\folder.jpg
+D:\Music\Albums\R to S\Suzanne Kraft - DJ-Safety\01 - DJ Safety.mp3
+D:\Music\Albums\R to S\Suzanne Kraft - DJ-Safety\02 - Burn Me Down.mp3
+D:\Music\Albums\R to S\Suzanne Kraft - DJ-Safety\03 - Skype.mp3
+D:\Music\Albums\R to S\Suzanne Kraft - DJ-Safety\folder.jpg
+D:\Music\Albums\R to S\Suzanne Kraft - Green Flash EP\01 - Morning Come.mp3
+D:\Music\Albums\R to S\Suzanne Kraft - Green Flash EP\02 - Turning.mp3
+D:\Music\Albums\R to S\Suzanne Kraft - Green Flash EP\03 - Green Flash.mp3
+D:\Music\Albums\R to S\Suzanne Kraft - Green Flash EP\04 - Femme Cosmic.mp3
+D:\Music\Albums\R to S\Suzanne Kraft - Green Flash EP\folder.jpg
 D:\Music\Albums\R to S\Suzanne Kraft - Talk From Home\01 - Two Chord Wake.mp3
 D:\Music\Albums\R to S\Suzanne Kraft - Talk From Home\02 - Never Heated.mp3
 D:\Music\Albums\R to S\Suzanne Kraft - Talk From Home\03 - Flatiron.mp3
@@ -2482,13 +2580,13 @@ D:\Music\Albums\T to Z\Tiger & Woods - Through the Green
 D:\Music\Albums\T to Z\Tiger & Woods - Wiki & Leaks
 D:\Music\Albums\T to Z\Todd Terje - It's Album Time
 D:\Music\Albums\T to Z\Tony Allen - Black Voices
+D:\Music\Albums\T to Z\Tornado Wallace - Circadia
 D:\Music\Albums\T to Z\Tornado Wallace - Desperate Pleasures
 D:\Music\Albums\T to Z\Tornado Wallace - Kangaroo Ground
 D:\Music\Albums\T to Z\Try to Find Me - Vol. 2
 D:\Music\Albums\T to Z\Uku Kuut - Grand Hotel
 D:\Music\Albums\T to Z\Uku Kuut - Santa Monica
 D:\Music\Albums\T to Z\Uku Kuut - Vision of Estonia
-D:\Music\Albums\T to Z\Unknown Artist - The Compass Joint
 D:\Music\Albums\T to Z\Vakula - You've Never Been to Konotop
 D:\Music\Albums\T to Z\Various Artists Compilation
 D:\Music\Albums\T to Z\Vis-a-Vis - Obi Agye Me Dofo
@@ -2502,6 +2600,7 @@ D:\Music\Albums\T to Z\Wolf + Lamb - Versus
 D:\Music\Albums\T to Z\Wolf + Lamb vs. Soul Clap - Crew Love (The Story So Far, And...)
 D:\Music\Albums\T to Z\Wolf + Lamb vs. Soul Clap - DJ-Kicks
 D:\Music\Albums\T to Z\Womack & Womack - Conscience
+D:\Music\Albums\T to Z\Workdub - Workdub
 D:\Music\Albums\T to Z\Y.M.O. - Naughty Boys
 D:\Music\Albums\T to Z\Yan Tregger - Ducks & Drakes
 D:\Music\Albums\T to Z\Yoshio Suzuki - Touch of Rain
@@ -2658,6 +2757,11 @@ D:\Music\Albums\T to Z\Tony Allen - Black Voices\05 - Asiko (In a Silent Mix).mp
 D:\Music\Albums\T to Z\Tony Allen - Black Voices\06 - Black Voices.mp3
 D:\Music\Albums\T to Z\Tony Allen - Black Voices\07 - Ariya (PsychejujuMix).mp3
 D:\Music\Albums\T to Z\Tony Allen - Black Voices\folder.jpg
+D:\Music\Albums\T to Z\Tornado Wallace - Circadia\01 - Circadia.mp3
+D:\Music\Albums\T to Z\Tornado Wallace - Circadia\02 - Time of Nectar.mp3
+D:\Music\Albums\T to Z\Tornado Wallace - Circadia\03 - Soft Light.mp3
+D:\Music\Albums\T to Z\Tornado Wallace - Circadia\cover.jpg
+D:\Music\Albums\T to Z\Tornado Wallace - Circadia\folder.jpg
 D:\Music\Albums\T to Z\Tornado Wallace - Desperate Pleasures\01 - Desperate Pleasures.mp3
 D:\Music\Albums\T to Z\Tornado Wallace - Desperate Pleasures\02 - Space Tropics.mp3
 D:\Music\Albums\T to Z\Tornado Wallace - Desperate Pleasures\03 - Okavango Delta.mp3
@@ -2723,9 +2827,6 @@ D:\Music\Albums\T to Z\Uku Kuut - Vision of Estonia\10 - Right or Wrong.mp3
 D:\Music\Albums\T to Z\Uku Kuut - Vision of Estonia\11 - Cool M.mp3
 D:\Music\Albums\T to Z\Uku Kuut - Vision of Estonia\12 - That's Right.mp3
 D:\Music\Albums\T to Z\Uku Kuut - Vision of Estonia\folder.jpg
-D:\Music\Albums\T to Z\Unknown Artist - The Compass Joint\01 - Side A.mp3
-D:\Music\Albums\T to Z\Unknown Artist - The Compass Joint\02 - Side B.mp3
-D:\Music\Albums\T to Z\Unknown Artist - The Compass Joint\folder.jpg
 D:\Music\Albums\T to Z\Vakula - You've Never Been to Konotop\01 - Jazz Mutants.mp3
 D:\Music\Albums\T to Z\Vakula - You've Never Been to Konotop\02 - New Romantic.mp3
 D:\Music\Albums\T to Z\Vakula - You've Never Been to Konotop\03 - We Have Soul.mp3
@@ -2875,6 +2976,11 @@ D:\Music\Albums\T to Z\Womack & Womack - Conscience\07 - Life's Just a Ballgame.
 D:\Music\Albums\T to Z\Womack & Womack - Conscience\08 - I Am Love.mp3
 D:\Music\Albums\T to Z\Womack & Womack - Conscience\09 - Celebrate the World.mp3
 D:\Music\Albums\T to Z\Womack & Womack - Conscience\folder.jpg
+D:\Music\Albums\T to Z\Workdub - Workdub\01 - Island Breeze.mp3
+D:\Music\Albums\T to Z\Workdub - Workdub\02 - Caravan.mp3
+D:\Music\Albums\T to Z\Workdub - Workdub\03 - The Odyssey.mp3
+D:\Music\Albums\T to Z\Workdub - Workdub\04 - Caravan Revisited.mp3
+D:\Music\Albums\T to Z\Workdub - Workdub\folder.jpg
 D:\Music\Albums\T to Z\Y.M.O. - Naughty Boys\01 - Kimi Ni Mune Kyun.mp3
 D:\Music\Albums\T to Z\Y.M.O. - Naughty Boys\02 - Expected Way.mp3
 D:\Music\Albums\T to Z\Y.M.O. - Naughty Boys\03 - Focus.mp3
