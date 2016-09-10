@@ -45,6 +45,8 @@ D:\Music\Albums\A to C\Chalice 001 - Various
 D:\Music\Albums\A to C\Collage - Shine the Light
 D:\Music\Albums\A to C\Colored Music - Colored Music
 D:\Music\Albums\A to C\Complete Walkthru - S-T
+D:\Music\Albums\A to C\Conga Radio - Naturalmente
+D:\Music\Albums\A to C\Conga Radio - Right Beside You
 D:\Music\Albums\A to C\Congarilla - Calling the Gods
 D:\Music\Albums\A to C\Cottam - EP 2
 D:\Music\Albums\A to C\Culver City (A Dam-Funk Tribute)
@@ -297,7 +299,6 @@ D:\Music\Albums\A to C\Body-san - Shining the Money Ball\07 - Dream Support.mp3
 D:\Music\Albums\A to C\Body-san - Shining the Money Ball\08 - Picking Up Strange.mp3
 D:\Music\Albums\A to C\Body-san - Shining the Money Ball\09 - Voices 3.mp3
 D:\Music\Albums\A to C\Body-san - Shining the Money Ball\10 - Koko Chats Online.mp3
-D:\Music\Albums\A to C\Body-san - Shining the Money Ball\cover.jpg
 D:\Music\Albums\A to C\Body-san - Shining the Money Ball\folder.jpg
 D:\Music\Albums\A to C\Bosq - Tumbala\01 - Tumbala.mp3
 D:\Music\Albums\A to C\Bosq - Tumbala\02 - Because You.mp3
@@ -392,8 +393,17 @@ D:\Music\Albums\A to C\Complete Walkthru - S-T\06 - Rn Atm.mp3
 D:\Music\Albums\A to C\Complete Walkthru - S-T\07 - Performative Grief.mp3
 D:\Music\Albums\A to C\Complete Walkthru - S-T\08 - Currently Playin.mp3
 D:\Music\Albums\A to C\Complete Walkthru - S-T\09 - Move Studio Make New Trak.mp3
-D:\Music\Albums\A to C\Complete Walkthru - S-T\cover.jpg
+D:\Music\Albums\A to C\Complete Walkthru - S-T\artwork.jpg
 D:\Music\Albums\A to C\Complete Walkthru - S-T\folder.jpg
+D:\Music\Albums\A to C\Conga Radio - Naturalmente\01 - Naturalmente.mp3
+D:\Music\Albums\A to C\Conga Radio - Naturalmente\02 - Timekeeper.mp3
+D:\Music\Albums\A to C\Conga Radio - Naturalmente\03 - Slumber Dance.mp3
+D:\Music\Albums\A to C\Conga Radio - Naturalmente\04 - Slumber Dub.mp3
+D:\Music\Albums\A to C\Conga Radio - Naturalmente\folder.jpg
+D:\Music\Albums\A to C\Conga Radio - Right Beside You\01 - Right Beside You.mp3
+D:\Music\Albums\A to C\Conga Radio - Right Beside You\02 - Party Smokes.mp3
+D:\Music\Albums\A to C\Conga Radio - Right Beside You\artwork.jpg
+D:\Music\Albums\A to C\Conga Radio - Right Beside You\folder.jpg
 D:\Music\Albums\A to C\Congarilla - Calling the Gods\01 - Lu Banche.mp3
 D:\Music\Albums\A to C\Congarilla - Calling the Gods\02 - He's Alive.mp3
 D:\Music\Albums\A to C\Congarilla - Calling the Gods\03 - Sacred Tree.mp3
@@ -497,6 +507,7 @@ D:\Music\Albums\D to H\Fort Romeau - Secrets & Lies
 D:\Music\Albums\D to H\Francis Bebey - Remixed
 D:\Music\Albums\D to H\Fresh Approach - Various
 D:\Music\Albums\D to H\Gala Drop - Gala Drop
+D:\Music\Albums\D to H\Garrett David - Octagon Blues
 D:\Music\Albums\D to H\Gaussian Curve - Clouds
 D:\Music\Albums\D to H\Gigi Masin - Wind
 D:\Music\Albums\D to H\Golden Ivy - To Elvira From Ivy With Love
@@ -561,7 +572,6 @@ D:\Music\Albums\D to H\Dawn Again - Yugo Edits\01 - Dvornik.mp3
 D:\Music\Albums\D to H\Dawn Again - Yugo Edits\02 - Mandic.mp3
 D:\Music\Albums\D to H\Dawn Again - Yugo Edits\03 - Milan.mp3
 D:\Music\Albums\D to H\Dawn Again - Yugo Edits\04 - Arian.mp3
-D:\Music\Albums\D to H\Dawn Again - Yugo Edits\cover.jpg
 D:\Music\Albums\D to H\Dawn Again - Yugo Edits\folder.jpg
 D:\Music\Albums\D to H\Deniz Kurtel & The Marcy All-Stars - The Way We Live\01 - I Knew This Would Happen (feat. PillowTalk).mp3
 D:\Music\Albums\D to H\Deniz Kurtel & The Marcy All-Stars - The Way We Live\02 - You Know It's True.mp3
@@ -716,6 +726,11 @@ D:\Music\Albums\D to H\Gala Drop - Gala Drop\05 - Holy Heads.mp3
 D:\Music\Albums\D to H\Gala Drop - Gala Drop\06 - Parson.mp3
 D:\Music\Albums\D to H\Gala Drop - Gala Drop\07 - Crystals.mp3
 D:\Music\Albums\D to H\Gala Drop - Gala Drop\folder.jpg
+D:\Music\Albums\D to H\Garrett David - Octagon Blues\01 - Octagon Blues.mp3
+D:\Music\Albums\D to H\Garrett David - Octagon Blues\02 - Power Up.mp3
+D:\Music\Albums\D to H\Garrett David - Octagon Blues\03 - Remedy.mp3
+D:\Music\Albums\D to H\Garrett David - Octagon Blues\04 - Healing Channel.mp3
+D:\Music\Albums\D to H\Garrett David - Octagon Blues\folder.jpg
 D:\Music\Albums\D to H\Gaussian Curve - Clouds\01 - Talk to the Church.mp3
 D:\Music\Albums\D to H\Gaussian Curve - Clouds\02 - Impossible Island.mp3
 D:\Music\Albums\D to H\Gaussian Curve - Clouds\03 - Dewdrops.mp3
@@ -936,6 +951,7 @@ D:\Music\Albums\I to L\James Taylor - No Way Out
 D:\Music\Albums\I to L\Janet Jackson - Nasty (Cool Summer Mix)
 D:\Music\Albums\I to L\Jeff Phelps - Magnetic Eyes
 D:\Music\Albums\I to L\Jesse Rae - The Thistle
+D:\Music\Albums\I to L\Jex Opolis - Circle of Drums
 D:\Music\Albums\I to L\Jex Opolis - DZE
 D:\Music\Albums\I to L\Jex Opolis - Zither
 D:\Music\Albums\I to L\Jimmy Edgar - Majenta
@@ -948,7 +964,6 @@ D:\Music\Albums\I to L\Johnny Nash - Phantom Actors
 D:\Music\Albums\I to L\Joni Haastrup - Wake Up Your Mind
 D:\Music\Albums\I to L\Jonny Nash - Exit Strategies
 D:\Music\Albums\I to L\Jose Padilla - So Many Colours
-D:\Music\Albums\I to L\Kay Gardner - Mooncircles
 D:\Music\Albums\I to L\Kebekelektrik - Kebekelektrik
 D:\Music\Albums\I to L\Keiko Project - Compositions
 D:\Music\Albums\I to L\Kerri Chandler - Atmosphere E.P
@@ -1065,6 +1080,11 @@ D:\Music\Albums\I to L\Jesse Rae - The Thistle\08 - Rusha.mp3
 D:\Music\Albums\I to L\Jesse Rae - The Thistle\09 - Over the Sea.mp3
 D:\Music\Albums\I to L\Jesse Rae - The Thistle\10 - Scotland the Brave ' Idio-Syn-Crazy.mp3
 D:\Music\Albums\I to L\Jesse Rae - The Thistle\folder.jpg
+D:\Music\Albums\I to L\Jex Opolis - Circle of Drums\01 - Circle of Drums.mp3
+D:\Music\Albums\I to L\Jex Opolis - Circle of Drums\02 - Stay Cold.mp3
+D:\Music\Albums\I to L\Jex Opolis - Circle of Drums\03 - Echo Harp.mp3
+D:\Music\Albums\I to L\Jex Opolis - Circle of Drums\04 - That's My Beach.mp3
+D:\Music\Albums\I to L\Jex Opolis - Circle of Drums\folder.jpg
 D:\Music\Albums\I to L\Jex Opolis - DZE\01 - DZE.mp3
 D:\Music\Albums\I to L\Jex Opolis - DZE\02 - Please Be Good to Me.mp3
 D:\Music\Albums\I to L\Jex Opolis - DZE\03 - Please Be Bad to Me.mp3
@@ -1174,16 +1194,6 @@ D:\Music\Albums\I to L\Jose Padilla - So Many Colours\09 - Whistle Dance.mp3
 D:\Music\Albums\I to L\Jose Padilla - So Many Colours\10 - Blitz Magic.mp3
 D:\Music\Albums\I to L\Jose Padilla - So Many Colours\11 - Remember Me.mp3
 D:\Music\Albums\I to L\Jose Padilla - So Many Colours\folder.jpg
-D:\Music\Albums\I to L\Kay Gardner - Mooncircles\01 - Prayer to Aphrodite.mp3
-D:\Music\Albums\I to L\Kay Gardner - Mooncircles\02 - Changing.mp3
-D:\Music\Albums\I to L\Kay Gardner - Mooncircles\03 - Beautiful Friend.mp3
-D:\Music\Albums\I to L\Kay Gardner - Mooncircles\04 - Moon Flow.mp3
-D:\Music\Albums\I to L\Kay Gardner - Mooncircles\05 - Wise Woman.mp3
-D:\Music\Albums\I to L\Kay Gardner - Mooncircles\06 - Inner Mood I.mp3
-D:\Music\Albums\I to L\Kay Gardner - Mooncircles\07 - Touching Souls.mp3
-D:\Music\Albums\I to L\Kay Gardner - Mooncircles\08 - Inner Mood II.mp3
-D:\Music\Albums\I to L\Kay Gardner - Mooncircles\09 - Lunamuse.mp3
-D:\Music\Albums\I to L\Kay Gardner - Mooncircles\folder.jpg
 D:\Music\Albums\I to L\Kebekelektrik - Kebekelektrik\01 - Magic Fly.mp3
 D:\Music\Albums\I to L\Kebekelektrik - Kebekelektrik\02 - Mirage.mp3
 D:\Music\Albums\I to L\Kebekelektrik - Kebekelektrik\03 - War Dance.mp3
@@ -1225,6 +1235,7 @@ D:\Music\Albums\I to L\KZA - Dig and Edit 2\06 - Want No Other.mp3
 D:\Music\Albums\I to L\KZA - Dig and Edit 2\07 - The Beginning.mp3
 D:\Music\Albums\I to L\KZA - Dig and Edit 2\08 - Two More.mp3
 D:\Music\Albums\I to L\KZA - Dig and Edit 2\09 - Fallin'.mp3
+D:\Music\Albums\I to L\KZA - Dig and Edit 2\10 - Le Troublant Acid.mp3
 D:\Music\Albums\I to L\KZA - Dig and Edit 2\folder.jpg
 D:\Music\Albums\I to L\KZA - I'm Starting to Feel Okay, Vol. 3\01 - Kuniyuki Takahashi - All These Things (Theo Parrish Dub Remix).mp3
 D:\Music\Albums\I to L\KZA - I'm Starting to Feel Okay, Vol. 3\02 - Mark E - Codsall Juniors.mp3
@@ -1473,7 +1484,7 @@ D:\Music\Albums\M to Q\Nicola Cruz - Invocacion
 D:\Music\Albums\M to Q\Night Swimming in Waikiki
 D:\Music\Albums\M to Q\Night Swimming in Waikiki 2
 D:\Music\Albums\M to Q\No Regular Play - Endangered Species
-D:\Music\Albums\M to Q\Non, N§.2
+D:\Music\Albums\M to Q\Non, N§.2 - Various
 D:\Music\Albums\M to Q\Noriki - Dream Cruise
 D:\Music\Albums\M to Q\Nuel - Trance Mutation
 D:\Music\Albums\M to Q\Odd Numbers - Break Even
@@ -1849,11 +1860,11 @@ D:\Music\Albums\M to Q\No Regular Play - Endangered Species\09 - Card Game.mp3
 D:\Music\Albums\M to Q\No Regular Play - Endangered Species\10 - Keep It Right.mp3
 D:\Music\Albums\M to Q\No Regular Play - Endangered Species\11 - Where They Lay.mp3
 D:\Music\Albums\M to Q\No Regular Play - Endangered Species\folder.jpg
-D:\Music\Albums\M to Q\Non, N§.2\01 - It's Really You (Jan Schulte Edit).mp3
-D:\Music\Albums\M to Q\Non, N§.2\02 - Gintonica (Ric Piccolo Rework).mp3
-D:\Music\Albums\M to Q\Non, N§.2\03 - Magic Feelings (Abel Edit).mp3
-D:\Music\Albums\M to Q\Non, N§.2\04 - Bay Drive (Raphael Top Secret Edit).mp3
-D:\Music\Albums\M to Q\Non, N§.2\folder.jpg
+D:\Music\Albums\M to Q\Non, N§.2 - Various\01 - It's Really You (Jan Schulte Edit).mp3
+D:\Music\Albums\M to Q\Non, N§.2 - Various\02 - Gintonica (Ric Piccolo Rework).mp3
+D:\Music\Albums\M to Q\Non, N§.2 - Various\03 - Magic Feelings (Abel Edit).mp3
+D:\Music\Albums\M to Q\Non, N§.2 - Various\04 - Bay Drive (Raphael Top Secret Edit).mp3
+D:\Music\Albums\M to Q\Non, N§.2 - Various\folder.jpg
 D:\Music\Albums\M to Q\Noriki - Dream Cruise\01 - You Can Make It.mp3
 D:\Music\Albums\M to Q\Noriki - Dream Cruise\02 - On the Street.mp3
 D:\Music\Albums\M to Q\Noriki - Dream Cruise\03 - When Rains Stop.mp3
@@ -2086,6 +2097,7 @@ D:\Music\Albums\R to S\Riechmann - Wunderbar
 D:\Music\Albums\R to S\Rinder & Lewis - Seven Deadly Sins
 D:\Music\Albums\R to S\Robbie M - Friend
 D:\Music\Albums\R to S\Robbie M - Let's Groove
+D:\Music\Albums\R to S\Roberto - Junk Rudder
 D:\Music\Albums\R to S\Rock the Box Vol. 1 - Various
 D:\Music\Albums\R to S\Roxy Music - Avalon
 D:\Music\Albums\R to S\Roy Ayers - Wake Up
@@ -2120,7 +2132,7 @@ D:\Music\Albums\R to S\Suzanne Kraft - DJ-Safety
 D:\Music\Albums\R to S\Suzanne Kraft - Green Flash EP
 D:\Music\Albums\R to S\Suzanne Kraft - Talk From Home
 D:\Music\Albums\R to S\Sven Atterton - The Cove
-D:\Music\Albums\R to S\Sven Atterton - Vapor EP
+D:\Music\Albums\R to S\Sven Atterton - Vapor
 D:\Music\Albums\R to S\Sven Libaek - Inner Space
 D:\Music\Albums\R to S\RAH Band - Going Up\01 - Messages From the Stars.mp3
 D:\Music\Albums\R to S\RAH Band - Going Up\02 - Roll Me Down to Rio.mp3
@@ -2145,6 +2157,7 @@ D:\Music\Albums\R to S\Raul Lovisoni & Francesco Messina - Prati Bagnati Del Mon
 D:\Music\Albums\R to S\Raul Lovisoni & Francesco Messina - Prati Bagnati Del Monte Analogo\02 - Hula Om.mp3
 D:\Music\Albums\R to S\Raul Lovisoni & Francesco Messina - Prati Bagnati Del Monte Analogo\03 - Amon Ra.mp3
 D:\Music\Albums\R to S\Raul Lovisoni & Francesco Messina - Prati Bagnati Del Monte Analogo\folder.jpg
+D:\Music\Albums\R to S\Retiree - This Place\0005193780_10.jpg
 D:\Music\Albums\R to S\Retiree - This Place\01 - This Place.mp3
 D:\Music\Albums\R to S\Retiree - This Place\02 - Heard You're Doing Well.mp3
 D:\Music\Albums\R to S\Retiree - This Place\03 - Gundagai.mp3
@@ -2201,6 +2214,11 @@ D:\Music\Albums\R to S\Robbie M - Let's Groove\08 - It's Tearin Me Up.mp3
 D:\Music\Albums\R to S\Robbie M - Let's Groove\09 - You've Been Acting Strange Lately.mp3
 D:\Music\Albums\R to S\Robbie M - Let's Groove\10 - Drifting in a State of Love.mp3
 D:\Music\Albums\R to S\Robbie M - Let's Groove\folder.jpg
+D:\Music\Albums\R to S\Roberto - Junk Rudder\01 - Junk Rudder.mp3
+D:\Music\Albums\R to S\Roberto - Junk Rudder\02 - Oceanic.mp3
+D:\Music\Albums\R to S\Roberto - Junk Rudder\03 - Atomic Haze.mp3
+D:\Music\Albums\R to S\Roberto - Junk Rudder\04 - Twilight.mp3
+D:\Music\Albums\R to S\Roberto - Junk Rudder\folder.jpg
 D:\Music\Albums\R to S\Rock the Box Vol. 1 - Various\01 - First Touch - Sure Feels Good to Me.mp3
 D:\Music\Albums\R to S\Rock the Box Vol. 1 - Various\02 - Jupiter Gang - America.mp3
 D:\Music\Albums\R to S\Rock the Box Vol. 1 - Various\03 - The DL - Dusty Disco Balls.mp3
@@ -2329,7 +2347,6 @@ D:\Music\Albums\R to S\Sasac - Future Disc\04 - Sunburst.mp3
 D:\Music\Albums\R to S\Sasac - Future Disc\05 - Beyond the Piano.mp3
 D:\Music\Albums\R to S\Sasac - Future Disc\06 - Universal Outreach.mp3
 D:\Music\Albums\R to S\Sasac - Future Disc\07 - Future Disc.mp3
-D:\Music\Albums\R to S\Sasac - Future Disc\cover.jpg
 D:\Music\Albums\R to S\Sasac - Future Disc\folder.jpg
 D:\Music\Albums\R to S\Sasac - Hyperion\01 - Boot Man.mp3
 D:\Music\Albums\R to S\Sasac - Hyperion\02 - Jaco Kelly.mp3
@@ -2542,11 +2559,11 @@ D:\Music\Albums\R to S\Sven Atterton - The Cove\06 - Seventh Heaven.mp3
 D:\Music\Albums\R to S\Sven Atterton - The Cove\07 - Accidental.mp3
 D:\Music\Albums\R to S\Sven Atterton - The Cove\08 - Closer.mp3
 D:\Music\Albums\R to S\Sven Atterton - The Cove\folder.jpg
-D:\Music\Albums\R to S\Sven Atterton - Vapor EP\01 - Vapor.mp3
-D:\Music\Albums\R to S\Sven Atterton - Vapor EP\02 - Angel & Arp.mp3
-D:\Music\Albums\R to S\Sven Atterton - Vapor EP\03 - Last of the Mullets.mp3
-D:\Music\Albums\R to S\Sven Atterton - Vapor EP\04 - March Into the Sun.mp3
-D:\Music\Albums\R to S\Sven Atterton - Vapor EP\folder.jpg
+D:\Music\Albums\R to S\Sven Atterton - Vapor\01 - Vapor.mp3
+D:\Music\Albums\R to S\Sven Atterton - Vapor\02 - Angel & Arp.mp3
+D:\Music\Albums\R to S\Sven Atterton - Vapor\03 - Last of the Mullets.mp3
+D:\Music\Albums\R to S\Sven Atterton - Vapor\04 - March Into the Sun.mp3
+D:\Music\Albums\R to S\Sven Atterton - Vapor\folder.jpg
 D:\Music\Albums\R to S\Sven Libaek - Inner Space\01 - Main Title Theme.mp3
 D:\Music\Albums\R to S\Sven Libaek - Inner Space\02 - Inner Space.mp3
 D:\Music\Albums\R to S\Sven Libaek - Inner Space\03 - Music for Eels.mp3
@@ -2760,12 +2777,10 @@ D:\Music\Albums\T to Z\Tony Allen - Black Voices\folder.jpg
 D:\Music\Albums\T to Z\Tornado Wallace - Circadia\01 - Circadia.mp3
 D:\Music\Albums\T to Z\Tornado Wallace - Circadia\02 - Time of Nectar.mp3
 D:\Music\Albums\T to Z\Tornado Wallace - Circadia\03 - Soft Light.mp3
-D:\Music\Albums\T to Z\Tornado Wallace - Circadia\cover.jpg
 D:\Music\Albums\T to Z\Tornado Wallace - Circadia\folder.jpg
 D:\Music\Albums\T to Z\Tornado Wallace - Desperate Pleasures\01 - Desperate Pleasures.mp3
 D:\Music\Albums\T to Z\Tornado Wallace - Desperate Pleasures\02 - Space Tropics.mp3
 D:\Music\Albums\T to Z\Tornado Wallace - Desperate Pleasures\03 - Okavango Delta.mp3
-D:\Music\Albums\T to Z\Tornado Wallace - Desperate Pleasures\cover.jpg
 D:\Music\Albums\T to Z\Tornado Wallace - Desperate Pleasures\folder.jpg
 D:\Music\Albums\T to Z\Tornado Wallace - Kangaroo Ground\01 - Kangaroo Ground.mp3
 D:\Music\Albums\T to Z\Tornado Wallace - Kangaroo Ground\02 - Ferntree Gully.mp3
@@ -2796,7 +2811,7 @@ D:\Music\Albums\T to Z\Uku Kuut - Grand Hotel\10 - Secret Dream.mp3
 D:\Music\Albums\T to Z\Uku Kuut - Grand Hotel\folder.jpg
 D:\Music\Albums\T to Z\Uku Kuut - Santa Monica\01 - Affinity.mp3
 D:\Music\Albums\T to Z\Uku Kuut - Santa Monica\02 - Cat Dream.mp3
-D:\Music\Albums\T to Z\Uku Kuut - Santa Monica\03 - AO.mp3
+D:\Music\Albums\T to Z\Uku Kuut - Santa Monica\03 - Ao.mp3
 D:\Music\Albums\T to Z\Uku Kuut - Santa Monica\04 - That's Right!.mp3
 D:\Music\Albums\T to Z\Uku Kuut - Santa Monica\05 - Jazzin' for Montreaux.mp3
 D:\Music\Albums\T to Z\Uku Kuut - Santa Monica\06 - Secret Sauce.mp3
