@@ -345,7 +345,7 @@ C:\Users\Sean\Music\Singles\103-107\(103.67) Stefano Breda - Electric Fling.mp3
 C:\Users\Sean\Music\Singles\103-107\(103.70) Dam-Funk - Hood Pass Intact (Instrumental).mp3
 C:\Users\Sean\Music\Singles\103-107\(103.70) Kwanzaa Posse - Wicked Funk (Hypno Beat).mp3
 C:\Users\Sean\Music\Singles\103-107\(103.72) Benedek - Saturday Jam.mp3
-C:\Users\Sean\Music\Singles\103-107\(103.80) Nel Oliver - You Are My Dream.mp3
+C:\Users\Sean\Music\Singles\103-107\(103.80) Nel Oliver - You are My Dream.mp3
 C:\Users\Sean\Music\Singles\103-107\(103.87) Ozo - Anambra (Part 2) (Sasha Remix 1).mp3
 C:\Users\Sean\Music\Singles\103-107\(103.90) Tullio De Piscopo - Stop Bajon (Primavera) (Club Mix).mp3
 C:\Users\Sean\Music\Singles\103-107\(103.92) Cashmere - Inner Feelings.mp3
@@ -395,7 +395,7 @@ C:\Users\Sean\Music\Singles\103-107\(105.00) Retiree - Gundagai.mp3
 C:\Users\Sean\Music\Singles\103-107\(105.00) Roberto Rodriguez - Has Been.mp3
 C:\Users\Sean\Music\Singles\103-107\(105.00) Satin Jackets - Night Keys (Original Mix).mp3
 C:\Users\Sean\Music\Singles\103-107\(105.00) Sphynx - Azul.mp3
-C:\Users\Sean\Music\Singles\103-107\(105.00) We Are Destino - Mind Force (Instrumental).mp3
+C:\Users\Sean\Music\Singles\103-107\(105.00) We are Destino - Mind Force (Instrumental).mp3
 C:\Users\Sean\Music\Singles\103-107\(105.01) Retiree - Together.mp3
 C:\Users\Sean\Music\Singles\103-107\(105.03) Ethereal Beat - Underboard (Remix).mp3
 C:\Users\Sean\Music\Singles\103-107\(105.03) Roberto Rodriguez - Venus.mp3
@@ -556,7 +556,7 @@ C:\Users\Sean\Music\Singles\108-110\(109.19) Jody Watley - Looking for a New Lov
 C:\Users\Sean\Music\Singles\108-110\(109.20) The JBs - Georgia Peach Disco.mp3
 C:\Users\Sean\Music\Singles\108-110\(109.21) Oran 'Juice' Jones - The Rain.mp3
 C:\Users\Sean\Music\Singles\108-110\(109.22) Jimmy Briscoe & The Beavers - Into the Milky Way (Bobby Guttadaro Mix).mp3
-C:\Users\Sean\Music\Singles\108-110\(109.23) The Valentine Brothers - Money's Too Tight (To Mention).mp3
+C:\Users\Sean\Music\Singles\108-110\(109.23) The Valentine Brothers - Money's Too Tight (To Mention) (Vocal).mp3
 C:\Users\Sean\Music\Singles\108-110\(109.26) Stacy Lattisaw - Jump Into My Life.mp3
 C:\Users\Sean\Music\Singles\108-110\(109.30) Loredana Berte - In Alto Mare.mp3
 C:\Users\Sean\Music\Singles\108-110\(109.30) Sharon Redd - Can You Handle It.mp3
@@ -595,7 +595,7 @@ C:\Users\Sean\Music\Singles\108-110\(110.00) Double Hill - Wanna Get....mp3
 C:\Users\Sean\Music\Singles\108-110\(110.00) Faze Action - Floating World.mp3
 C:\Users\Sean\Music\Singles\108-110\(110.00) First Touch - Sure Feels Good to Me.mp3
 C:\Users\Sean\Music\Singles\108-110\(110.00) Freekwency - Flip the Coin.mp3
-C:\Users\Sean\Music\Singles\108-110\(110.00) Gazeebo - Bailando En Azul (Deep Reggaeton Groove).mp3
+C:\Users\Sean\Music\Singles\108-110\(110.00) Gazeebo - Bailando en Azul (Deep Reggaeton Groove).mp3
 C:\Users\Sean\Music\Singles\108-110\(110.00) Hot Toddy - Down to Love (D-Pulse Remix).mp3
 C:\Users\Sean\Music\Singles\108-110\(110.00) Jimi Tenor - House of Beloved.mp3
 C:\Users\Sean\Music\Singles\108-110\(110.00) Massimiliano Pagliara - I'll Never Be (Nicholas Remix).mp3
@@ -642,7 +642,7 @@ C:\Users\Sean\Music\Singles\108-110\(110.37) Wally Badarou - Endless Race.mp3
 C:\Users\Sean\Music\Singles\108-110\(110.40) Lonnie Liston Smith - Dreams of Tomorrow.mp3
 C:\Users\Sean\Music\Singles\108-110\(110.40) Moon B - Freshness.mp3
 C:\Users\Sean\Music\Singles\108-110\(110.40) Sea Level - Sneakers (Fifty-Four).mp3
-C:\Users\Sean\Music\Singles\108-110\(110.41) Change - You Are My Melody.mp3
+C:\Users\Sean\Music\Singles\108-110\(110.41) Change - You are My Melody.mp3
 C:\Users\Sean\Music\Singles\108-110\(110.46) Hipnosis - Astrodance.mp3
 C:\Users\Sean\Music\Singles\108-110\(110.47) Coati Mundi - Que Pasa-Me No Pop I.mp3
 C:\Users\Sean\Music\Singles\108-110\(110.58) Total Contrast - Takes a Little Time (Vocal).mp3
@@ -1138,7 +1138,7 @@ C:\Users\Sean\Music\Singles\118-119\(118.10) Greg Paulus - Suchashame (Soul Clap
 C:\Users\Sean\Music\Singles\118-119\(118.11) Culture Beat - Der Erdbeermund (Get Into Magic Vocal Mix).mp3
 C:\Users\Sean\Music\Singles\118-119\(118.20) Jimmy Ross - First True Love Affair (Larry Levan Mix).mp3
 C:\Users\Sean\Music\Singles\118-119\(118.23) Information Society - What's on Your Mind (Pure Energy) (Pure Energy Mix).mp3
-C:\Users\Sean\Music\Singles\118-119\(118.26) Telex - Raised By Snakes (Razormaid Mix).mp3
+C:\Users\Sean\Music\Singles\118-119\(118.26) Telex - Raised by Snakes (Razormaid Mix).mp3
 C:\Users\Sean\Music\Singles\118-119\(118.31) Blue Feather - Let's Funk Tonight.mp3
 C:\Users\Sean\Music\Singles\118-119\(118.31) Ronnie Laws - Good Feelings.mp3
 C:\Users\Sean\Music\Singles\118-119\(118.32) Pat Metheny Group - Slip Away.mp3
