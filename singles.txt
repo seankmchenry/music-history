@@ -32,6 +32,7 @@ C:\Users\Sean\Music\Singles\060-095\(78.88) The System - Don't Disturb This Groo
 C:\Users\Sean\Music\Singles\060-095\(79.31) Mina - Pomeriggio Sonnolento.mp3
 C:\Users\Sean\Music\Singles\060-095\(79.32) Luciano - Shake It Up Tonight.mp3
 C:\Users\Sean\Music\Singles\060-095\(79.59) The S.O.S. Band - Weekend Girl.mp3
+C:\Users\Sean\Music\Singles\060-095\(80.00) Khidja - Abdul.mp3
 C:\Users\Sean\Music\Singles\060-095\(80.00) Land of Light - Strange Attractor (Peaking Lights Remix).mp3
 C:\Users\Sean\Music\Singles\060-095\(80.77) Jon Gorr - It's No Lie.mp3
 C:\Users\Sean\Music\Singles\060-095\(80.94) Howard Hewett - I Can't Tell You Why.mp3
@@ -58,6 +59,7 @@ C:\Users\Sean\Music\Singles\060-095\(84.00) Germans - Cruel.mp3
 C:\Users\Sean\Music\Singles\060-095\(84.03) Grace Jones - The Frog and the Princess (LP Version).mp3
 C:\Users\Sean\Music\Singles\060-095\(84.61) Real Life - Catch Me I'm Falling.mp3
 C:\Users\Sean\Music\Singles\060-095\(84.92) Barrington Levy - Here I Come (Broader Than Broadway) (Vocal Mix).mp3
+C:\Users\Sean\Music\Singles\060-095\(84.93) Georgie Red - Help the Man (Save Ya Mix).mp3
 C:\Users\Sean\Music\Singles\060-095\(85.00) Cale Parks - N1 (Original).mp3
 C:\Users\Sean\Music\Singles\060-095\(85.05) Georgie Red - Help the Man (Save Ya' Mix).mp3
 C:\Users\Sean\Music\Singles\060-095\(85.34) The Art of Noise - Camilla.mp3
@@ -97,17 +99,20 @@ C:\Users\Sean\Music\Singles\060-095\(89.21) Seaside Lovers - Evening Shadows.mp3
 C:\Users\Sean\Music\Singles\060-095\(89.28) Loose Ends - Love Controversy Pt. 1.mp3
 C:\Users\Sean\Music\Singles\060-095\(89.28) Paul Hardcastle - Desire.mp3
 C:\Users\Sean\Music\Singles\060-095\(89.30) Maxi Priest - Woman in You.mp3
+C:\Users\Sean\Music\Singles\060-095\(89.41) Ilan Kabiljo - Golden Days.mp3
 C:\Users\Sean\Music\Singles\060-095\(89.56) Kenny G - I Can't Tell You Why.mp3
 C:\Users\Sean\Music\Singles\060-095\(89.60) Michael Bergin - Baby Fuckin' Whale!.mp3
 C:\Users\Sean\Music\Singles\060-095\(89.61) Prins Emanuel - Make Love 2 U (Edit).mp3
 C:\Users\Sean\Music\Singles\060-095\(89.85) Alain Chamfort - Bambou.mp3
 C:\Users\Sean\Music\Singles\060-095\(89.90) The Gap Band - Yearning for Your Love.mp3
+C:\Users\Sean\Music\Singles\060-095\(90.00) Analog Players Society - Coule' Ba (Version).mp3
 C:\Users\Sean\Music\Singles\060-095\(90.00) Analog Players Society - Coule'Ba.mp3
 C:\Users\Sean\Music\Singles\060-095\(90.00) Greg Paulus & John Camp - Remo.mp3
 C:\Users\Sean\Music\Singles\060-095\(90.00) Khidja - Abdul.mp3
 C:\Users\Sean\Music\Singles\060-095\(90.00) Mild Peril - Gamma Zone.mp3
 C:\Users\Sean\Music\Singles\060-095\(90.14) Roy Ayers - Midnight After Dark.mp3
 C:\Users\Sean\Music\Singles\060-095\(90.20) Barry White - It's Only Love Doing Its Thing.mp3
+C:\Users\Sean\Music\Singles\060-095\(90.50) Igor Talkov - Love You.mp3
 C:\Users\Sean\Music\Singles\060-095\(90.96) Fishmans - Baby Blue.mp3
 C:\Users\Sean\Music\Singles\060-095\(91.00) Chateau Marmont - Nibiru (Beautiful Swimmers Late Night Dubbing Mix).mp3
 C:\Users\Sean\Music\Singles\060-095\(91.24) Uku Kuut - Cat Dream.mp3
@@ -127,6 +132,7 @@ C:\Users\Sean\Music\Singles\060-095\(92.34) Philip Bailey - I Know (Extended Dan
 C:\Users\Sean\Music\Singles\060-095\(92.42) Ultramarine - Honey.mp3
 C:\Users\Sean\Music\Singles\060-095\(92.60) Hal Bradbury - You Win, I Lose.mp3
 C:\Users\Sean\Music\Singles\060-095\(92.60) Tetsuji Hayashi - Silly Girl.mp3
+C:\Users\Sean\Music\Singles\060-095\(92.78) Take Three - Can't Get Enough (Of Your Love) (Nice Up - Reggae Mix).mp3
 C:\Users\Sean\Music\Singles\060-095\(92.90) Francis Lai - Young Freedom (Mudd's Extended Mix).mp3
 C:\Users\Sean\Music\Singles\060-095\(93.00) Boys From Patagonia - It's So Exciting (High Jingo Love Love Rework).mp3
 C:\Users\Sean\Music\Singles\060-095\(93.00) Brandy - He's Mine (LNTG Rework).mp3
@@ -156,6 +162,7 @@ C:\Users\Sean\Music\Singles\060-095\(94.61) Nick Straker Band - Airwaves.mp3
 C:\Users\Sean\Music\Singles\060-095\(94.73) Joyce Sims - Come Into My Life (Club Version).mp3
 C:\Users\Sean\Music\Singles\060-095\(94.80) Phil Collins - In the Air Tonight (Extended Version).mp3
 C:\Users\Sean\Music\Singles\060-095\(95.00) A Vision of Panorama - Time Capsule (Andras Fox Remix).mp3
+C:\Users\Sean\Music\Singles\060-095\(95.00) Dreamcast - Deep Liquid.mp3
 C:\Users\Sean\Music\Singles\060-095\(95.00) Enigma - Principles of Lust.mp3
 C:\Users\Sean\Music\Singles\060-095\(95.00) Michael McDonald - I Keep Forgettin' (Every Time You're Near).mp3
 C:\Users\Sean\Music\Singles\060-095\(95.00) Nile Rodgers - Stay Out of the Light (Slow Version).mp3
@@ -163,6 +170,8 @@ C:\Users\Sean\Music\Singles\060-095\(95.00) Ptaki - Krystyna.mp3
 C:\Users\Sean\Music\Singles\060-095\(95.01) Moby - Porcelain.mp3
 C:\Users\Sean\Music\Singles\060-095\(95.06) Jerry Harrison - Rev It Up (Bad Bruce's Wisconsin Dub).mp3
 C:\Users\Sean\Music\Singles\060-095\(95.14) Takanaka - Illusion.mp3
+C:\Users\Sean\Music\Singles\060-095\(95.19) Lord Echo - Sword Cane.mp3
+C:\Users\Sean\Music\Singles\060-095\(95.20) Mendes & Mendes - Mitamiyo.mp3
 C:\Users\Sean\Music\Singles\060-095\(95.40) Nohelani Cypriano - Lihue.mp3
 C:\Users\Sean\Music\Singles\060-095\(95.42) Mark Morrison - Return of the Mack (C&J Street Mix).mp3
 C:\Users\Sean\Music\Singles\060-095\(95.45) Greeen Linez - Palm Coast Freeway.mp3
@@ -173,8 +182,10 @@ C:\Users\Sean\Music\Singles\060-095\(95.93) Megabyte - My Father Was a Teacher.m
 C:\Users\Sean\Music\Singles\096-102\(100.00) Booshank - Rock the Box.mp3
 C:\Users\Sean\Music\Singles\096-102\(100.00) Double Knots - Double Vision (Toby Tobias Remix).mp3
 C:\Users\Sean\Music\Singles\096-102\(100.00) Gorillaz - Stylo (Instrumental).mp3
+C:\Users\Sean\Music\Singles\096-102\(100.00) M5K - Absolutely Real.mp3
 C:\Users\Sean\Music\Singles\096-102\(100.00) Mudd & Ahmed Fakroun - Drago (Ahmed Fakroun Mix).mp3
 C:\Users\Sean\Music\Singles\096-102\(100.00) The Project Club - Field of Dreams (D-Pulse Remix).mp3
+C:\Users\Sean\Music\Singles\096-102\(100.00) The Two Mamarrachos - En Calma.mp3
 C:\Users\Sean\Music\Singles\096-102\(100.00) World's End Press - Feel City (Outskirts Dub).mp3
 C:\Users\Sean\Music\Singles\096-102\(100.02) Wally Badarou - Fisherman (II - Solo).mp3
 C:\Users\Sean\Music\Singles\096-102\(100.06) Mickey - Don't Break the Shadow of Your Love.mp3
@@ -200,15 +211,18 @@ C:\Users\Sean\Music\Singles\096-102\(100.93) Mike Francis - Features of Love (Ap
 C:\Users\Sean\Music\Singles\096-102\(100.97) Ahmed Fakroun - Nisyan.mp3
 C:\Users\Sean\Music\Singles\096-102\(101.00) Beverley Skeete - Warm.mp3
 C:\Users\Sean\Music\Singles\096-102\(101.00) Escape From New York - Slow Beat.mp3
+C:\Users\Sean\Music\Singles\096-102\(101.00) Retiree - Altruisme.mp3
 C:\Users\Sean\Music\Singles\096-102\(101.00) Saint Pepsi - Private Caller.mp3
 C:\Users\Sean\Music\Singles\096-102\(101.00) Tevo Howard - Summer Romance.mp3
 C:\Users\Sean\Music\Singles\096-102\(101.03) Escape From New York - Fire in My Heart (Instrumental).mp3
 C:\Users\Sean\Music\Singles\096-102\(101.10) Tatsuro Yamashita - Sparkle.mp3
 C:\Users\Sean\Music\Singles\096-102\(101.16) Goblin - Jennifer's Friend.mp3
+C:\Users\Sean\Music\Singles\096-102\(101.17) Milli Vanilli - Magic Touch.mp3
 C:\Users\Sean\Music\Singles\096-102\(101.32) Lisa Stansfield - All Around the World (Long Version).mp3
 C:\Users\Sean\Music\Singles\096-102\(101.45) Roger R”nning - Tiden Bara G†r.mp3
 C:\Users\Sean\Music\Singles\096-102\(101.50) Yse Saint Laur'ant - Warm Wind Brewing.mp3
 C:\Users\Sean\Music\Singles\096-102\(101.55) Tashan - Read My Mind (Long Version).mp3
+C:\Users\Sean\Music\Singles\096-102\(101.72) Pink Rhythm - India.mp3
 C:\Users\Sean\Music\Singles\096-102\(101.76) Tamiko Jones - Tamiko's Groove (Instrumental).mp3
 C:\Users\Sean\Music\Singles\096-102\(101.78) Nevia Preex - Fly Robin Fly (Sequence Version).mp3
 C:\Users\Sean\Music\Singles\096-102\(101.87) Stephanie Mills - (You're Puttin') A Rush on Me.mp3
@@ -227,6 +241,7 @@ C:\Users\Sean\Music\Singles\096-102\(102.53) Kultra Edits - Kultra 1.mp3
 C:\Users\Sean\Music\Singles\096-102\(102.53) Wang Chung - The Waves.mp3
 C:\Users\Sean\Music\Singles\096-102\(102.64) RAH Band - Clouds Across the Moon.mp3
 C:\Users\Sean\Music\Singles\096-102\(102.65) Howard Johnson - Keepin' Love New.mp3
+C:\Users\Sean\Music\Singles\096-102\(102.67) Marcos Valle - Estrelar.mp3
 C:\Users\Sean\Music\Singles\096-102\(102.70) Kid Creole & The Coconuts - I'm a Wonderful Thing, Baby.mp3
 C:\Users\Sean\Music\Singles\096-102\(102.70) Mariya Takeuchi - Plastic Love.mp3
 C:\Users\Sean\Music\Singles\096-102\(102.71) George Benson - Turn Your Love Around.mp3
@@ -250,6 +265,7 @@ C:\Users\Sean\Music\Singles\096-102\(96.25) Society of Seven - Between Hello and
 C:\Users\Sean\Music\Singles\096-102\(96.40) Yoshino Fujimal - Freeway 5 to South.mp3
 C:\Users\Sean\Music\Singles\096-102\(96.80) Logic System - Automatic Collect, Automatic Correct.mp3
 C:\Users\Sean\Music\Singles\096-102\(96.85) Viola Willis - Dare to Dream (London Remix).mp3
+C:\Users\Sean\Music\Singles\096-102\(96.98) Patchwork - Candice.mp3
 C:\Users\Sean\Music\Singles\096-102\(97.00) 6th Borough Project - McLovin'.mp3
 C:\Users\Sean\Music\Singles\096-102\(97.00) Phil Gerus - Finding Nash.mp3
 C:\Users\Sean\Music\Singles\096-102\(97.00) Slow Porn - Gate 13.mp3
@@ -269,6 +285,7 @@ C:\Users\Sean\Music\Singles\096-102\(97.90) Yarbrough & Peoples - Don't Stop the
 C:\Users\Sean\Music\Singles\096-102\(97.92) Nacht Und Nebel - Beats of Love.mp3
 C:\Users\Sean\Music\Singles\096-102\(97.97) The Who - Eminence Front.mp3
 C:\Users\Sean\Music\Singles\096-102\(97.99) Dam-Funk - 10 West.mp3
+C:\Users\Sean\Music\Singles\096-102\(98.00) Avant Garde - Everybody's Lover (Jaz & Party Dad Remix).mp3
 C:\Users\Sean\Music\Singles\096-102\(98.00) Eddie C - Jam on Dallas Road.mp3
 C:\Users\Sean\Music\Singles\096-102\(98.01) The Mary Jane Girls - All Night Long.mp3
 C:\Users\Sean\Music\Singles\096-102\(98.02) Ryuichi Sakamoto - Fade.mp3
@@ -282,6 +299,7 @@ C:\Users\Sean\Music\Singles\096-102\(98.40) Don Henley - Dirty Laundry.mp3
 C:\Users\Sean\Music\Singles\096-102\(98.45) Letta Mbulu - Nomalizo.mp3
 C:\Users\Sean\Music\Singles\096-102\(98.50) Greeen Linez - Hibiscus Pacific.mp3
 C:\Users\Sean\Music\Singles\096-102\(98.54) Robyn - Searching.mp3
+C:\Users\Sean\Music\Singles\096-102\(98.55) Renee - Change Your Style.mp3
 C:\Users\Sean\Music\Singles\096-102\(98.56) Christophe Laurent - Nuits Bresiliennes.mp3
 C:\Users\Sean\Music\Singles\096-102\(98.60) Hiroshi & Claudia - Beats in the Depth (Edit).mp3
 C:\Users\Sean\Music\Singles\096-102\(98.60) Wham! - Nothing Looks the Same in the Light (Instrumental Remix).mp3
@@ -298,6 +316,7 @@ C:\Users\Sean\Music\Singles\096-102\(99.13) Tatsuro Yamashita - Melody, For You.
 C:\Users\Sean\Music\Singles\096-102\(99.17) The Gap Band - Outstanding (Vocal) (Long Version).mp3
 C:\Users\Sean\Music\Singles\096-102\(99.19) Try to Find Me - Needs Ending.mp3
 C:\Users\Sean\Music\Singles\096-102\(99.20) Erik Tagg - Got to Be Lovin' You.mp3
+C:\Users\Sean\Music\Singles\096-102\(99.20) Level 42 - Love Meeting Love.mp3
 C:\Users\Sean\Music\Singles\096-102\(99.26) Tredje Mannen - Bl† Dr”mmar.mp3
 C:\Users\Sean\Music\Singles\096-102\(99.34) Herb Alpert - Rise.mp3
 C:\Users\Sean\Music\Singles\096-102\(99.36) Uku Kuut - Secret Dream.mp3
@@ -320,6 +339,7 @@ C:\Users\Sean\Music\Singles\103-107\(103.06) Soul II Soul - Back to Life (One Wo
 C:\Users\Sean\Music\Singles\103-107\(103.07) Swing Out Sister - Communion (Instrumental).mp3
 C:\Users\Sean\Music\Singles\103-107\(103.10) Orlando Johnson & Trance - Can't Break Loose (Touchsoul Regroove).mp3
 C:\Users\Sean\Music\Singles\103-107\(103.15) Robbie Nevil - C'est La Vie (Extended Remix).mp3
+C:\Users\Sean\Music\Singles\103-107\(103.24) Raydio - More Than One Way to Love a Woman.mp3
 C:\Users\Sean\Music\Singles\103-107\(103.29) UB40  - Nkomo a Go-Go.mp3
 C:\Users\Sean\Music\Singles\103-107\(103.36) Loose Ends - Hangin' on a String (Contemplating) (Frankie Knuckles Remix).mp3
 C:\Users\Sean\Music\Singles\103-107\(103.37) Swimmers & Gang - Sexy.mp3
@@ -329,6 +349,7 @@ C:\Users\Sean\Music\Singles\103-107\(103.54) Pete Herbert - Wally Dub.mp3
 C:\Users\Sean\Music\Singles\103-107\(103.57) Change - Mutual Attraction.mp3
 C:\Users\Sean\Music\Singles\103-107\(103.59) The Alan Parsons Project - Mammagamma.mp3
 C:\Users\Sean\Music\Singles\103-107\(103.60) Sister Sledge - Thinking of You.mp3
+C:\Users\Sean\Music\Singles\103-107\(103.66) Harris Haith - Show Me the Way (Instrumental).mp3
 C:\Users\Sean\Music\Singles\103-107\(103.67) Stefano Breda - Electric Fling.mp3
 C:\Users\Sean\Music\Singles\103-107\(103.70) Dam-Funk - Hood Pass Intact (Instrumental).mp3
 C:\Users\Sean\Music\Singles\103-107\(103.70) Kwanzaa Posse - Wicked Funk (Hypno Beat).mp3
@@ -365,6 +386,7 @@ C:\Users\Sean\Music\Singles\103-107\(104.94) Mike Francis - Survivor.mp3
 C:\Users\Sean\Music\Singles\103-107\(105.00) 40 Thieves - Crystal Mountain Thunderfuck.mp3
 C:\Users\Sean\Music\Singles\103-107\(105.00) Andrew Grant & Lomez - Be Free (Original Mix).mp3
 C:\Users\Sean\Music\Singles\103-107\(105.00) David Marston & Life on Planets - Treegossip.mp3
+C:\Users\Sean\Music\Singles\103-107\(105.00) Dedication - Let Me Rock You.mp3
 C:\Users\Sean\Music\Singles\103-107\(105.00) Eddie C - Every Life Under the Invisible Hands.mp3
 C:\Users\Sean\Music\Singles\103-107\(105.00) George Benson - Shiver (Extended Remix).mp3
 C:\Users\Sean\Music\Singles\103-107\(105.00) Heion - Silk (Trujillo & Bernardo Risquez Remix).mp3
@@ -383,6 +405,7 @@ C:\Users\Sean\Music\Singles\103-107\(105.00) Sphynx - Azul.mp3
 C:\Users\Sean\Music\Singles\103-107\(105.00) We are Destino - Mind Force (Instrumental).mp3
 C:\Users\Sean\Music\Singles\103-107\(105.01) Retiree - Together.mp3
 C:\Users\Sean\Music\Singles\103-107\(105.03) Ethereal Beat - Underboard (Remix).mp3
+C:\Users\Sean\Music\Singles\103-107\(105.06) Selvagem - Tamanqueiro.mp3
 C:\Users\Sean\Music\Singles\103-107\(105.12) Imagination - Just an Illusion.mp3
 C:\Users\Sean\Music\Singles\103-107\(105.21) Tashan - Thank You Father.mp3
 C:\Users\Sean\Music\Singles\103-107\(105.23) Real to Reel - Love Me Like This.mp3
@@ -421,8 +444,10 @@ C:\Users\Sean\Music\Singles\103-107\(106.04) Fashion - Love Shadow.mp3
 C:\Users\Sean\Music\Singles\103-107\(106.04) Kajagoogoo - The Lion's Mouth (The Beast Mix).mp3
 C:\Users\Sean\Music\Singles\103-107\(106.04) New York Edits - Untitled.mp3
 C:\Users\Sean\Music\Singles\103-107\(106.07) Mercy Mercy - What Are We Gonna Do About It.mp3
+C:\Users\Sean\Music\Singles\103-107\(106.10) Ray Williams - Cosmopolitan London.mp3
 C:\Users\Sean\Music\Singles\103-107\(106.13) MANIK - Need Your Lovin'.mp3
 C:\Users\Sean\Music\Singles\103-107\(106.33) Whadya Want - Involved With You.mp3
+C:\Users\Sean\Music\Singles\103-107\(106.40) The Dukes - Mystery Girl.mp3
 C:\Users\Sean\Music\Singles\103-107\(106.45) Peter Morris - Sunburst.mp3
 C:\Users\Sean\Music\Singles\103-107\(106.47) Junko Ohashi - I Love You So.mp3
 C:\Users\Sean\Music\Singles\103-107\(106.48) Krystol - After the Dance is Through (Vocal).mp3
@@ -453,6 +478,7 @@ C:\Users\Sean\Music\Singles\103-107\(107.11) Pieces of a Dream - Mt. Airy Groove
 C:\Users\Sean\Music\Singles\103-107\(107.22) Collage - Romeo Where's Juliet (Special Dance Mix).mp3
 C:\Users\Sean\Music\Singles\103-107\(107.25) Talk Talk - Happiness is Easy (12' Mix).mp3
 C:\Users\Sean\Music\Singles\103-107\(107.26) Bailey & Bridges - Come and Get It.mp3
+C:\Users\Sean\Music\Singles\103-107\(107.30) Blue Vision - Leila (Little Willy's Camelride).mp3
 C:\Users\Sean\Music\Singles\103-107\(107.33) Gwen Guthrie - Ain't Nothin' Goin' on But the Rent (12' Club Mix).mp3
 C:\Users\Sean\Music\Singles\103-107\(107.34) David Christie - Back Fire.mp3
 C:\Users\Sean\Music\Singles\103-107\(107.34) Larry Paul Emmett - Evita.mp3
@@ -460,10 +486,13 @@ C:\Users\Sean\Music\Singles\103-107\(107.36) Don Ray - Garden of Love.mp3
 C:\Users\Sean\Music\Singles\103-107\(107.36) Roberta Flack - Back Together Again (Tiger & Woods Edit).mp3
 C:\Users\Sean\Music\Singles\103-107\(107.40) Change - Change of Heart (Long Version).mp3
 C:\Users\Sean\Music\Singles\103-107\(107.43) B.W.H. - Stop (Original Mix).mp3
+C:\Users\Sean\Music\Singles\103-107\(107.43) Jeff Lorber - Seventh Heaven.mp3
 C:\Users\Sean\Music\Singles\103-107\(107.43) Vangelis O. - Let It Happen.mp3
 C:\Users\Sean\Music\Singles\103-107\(107.45) Gwen Guthrie - Seventh Heaven (US Remix).mp3
 C:\Users\Sean\Music\Singles\103-107\(107.52) Harlem Gem - More Than You Can Wish.mp3
 C:\Users\Sean\Music\Singles\103-107\(107.73) The S.O.S. Band - Groovin' (That's What We're Doin').mp3
+C:\Users\Sean\Music\Singles\103-107\(107.74) Natural Experience - Don't Leave Me (I'm With U).mp3
+C:\Users\Sean\Music\Singles\103-107\(107.83) Monyaka - Street People (It Ain't Easy).mp3
 C:\Users\Sean\Music\Singles\103-107\(107.85) Wham! - Last Christmas (Pudding Mix).mp3
 C:\Users\Sean\Music\Singles\103-107\(107.90) Grace Jones - Pull Up to the Bumper (Larry Levan Garage Remix).mp3
 C:\Users\Sean\Music\Singles\103-107\(107.90) Kajagoogoo - Too Shy.mp3
@@ -480,6 +509,7 @@ C:\Users\Sean\Music\Singles\108-110\(108.00) Mark E - Special FX (Re-Run).mp3
 C:\Users\Sean\Music\Singles\108-110\(108.00) SECT - In the Park (feat. Ben Westbeech).mp3
 C:\Users\Sean\Music\Singles\108-110\(108.00) Still Going - Untitled Love.mp3
 C:\Users\Sean\Music\Singles\108-110\(108.01) Jane Child - Don't Wanna Fall in Love (Knife Feel Good Mix).mp3
+C:\Users\Sean\Music\Singles\108-110\(108.01) Thomass Jackson - Midway Atoll.mp3
 C:\Users\Sean\Music\Singles\108-110\(108.01) Touch One - Tonite (Touchsoul ReDub).mp3
 C:\Users\Sean\Music\Singles\108-110\(108.05) Gaz Nevada - I.C. Love Affair (Italian Version).mp3
 C:\Users\Sean\Music\Singles\108-110\(108.10) Dante - Freak in Me.mp3
@@ -544,6 +574,7 @@ C:\Users\Sean\Music\Singles\108-110\(109.40) Arian - Your Love Makes Me a Winner
 C:\Users\Sean\Music\Singles\108-110\(109.40) Johnnie Taylor - (Ooh-Wee) She's Killing Me.mp3
 C:\Users\Sean\Music\Singles\108-110\(109.40) Prince - Hot Thing (Extended Remix).mp3
 C:\Users\Sean\Music\Singles\108-110\(109.41) Dynasty - Love in the Fast Lane.mp3
+C:\Users\Sean\Music\Singles\108-110\(109.44) Bebe & Cece Winans - Heaven.mp3
 C:\Users\Sean\Music\Singles\108-110\(109.45) Herb Alpert - Red Hot (Specially Remixed Version).mp3
 C:\Users\Sean\Music\Singles\108-110\(109.50) Boytronic - Bryllyant (33 1'3 Plus 8 Remix).mp3
 C:\Users\Sean\Music\Singles\108-110\(109.50) Phil Fearon & Galaxy - I Can Prove It (Full Version).mp3
@@ -627,6 +658,7 @@ C:\Users\Sean\Music\Singles\108-110\(110.75) Greg Kihn Band - Jeopardy (Dance Mi
 C:\Users\Sean\Music\Singles\108-110\(110.80) Smiles - N. 1,4 - Magnetic Dance.mp3
 C:\Users\Sean\Music\Singles\108-110\(110.81) Hall & Oates - Downtown Life (Downtown Remix).mp3
 C:\Users\Sean\Music\Singles\108-110\(110.83) Jocelyn Brown - I Wish You Would (Vocal).mp3
+C:\Users\Sean\Music\Singles\108-110\(110.83) Rim Kwaku Obeng - International Funk (Instrumental).mp3
 C:\Users\Sean\Music\Singles\108-110\(110.91) Steve Harvey - Tonight (Dub-Mix).mp3
 C:\Users\Sean\Music\Singles\108-110\(110.98) Alexander O'Neal - What's Missing (Remix).mp3
 C:\Users\Sean\Music\Singles\108-110\(110.99) Circle City Band - Magic (Greg Wilson Edit).mp3
@@ -637,6 +669,7 @@ C:\Users\Sean\Music\Singles\108-110\(111.86) Toshiki Kadomatsu - Step into the L
 C:\Users\Sean\Music\Singles\111-113\(111.00) Eddie C - Tell Me (Tornado Wallace Remix).mp3
 C:\Users\Sean\Music\Singles\111-113\(111.00) Gadi Mizrahi - You Know It's True.mp3
 C:\Users\Sean\Music\Singles\111-113\(111.00) House of Spirits - Holding On.mp3
+C:\Users\Sean\Music\Singles\111-113\(111.00) Kashif - Say Somethin' Love.mp3
 C:\Users\Sean\Music\Singles\111-113\(111.00) Marvin Gaye - Funky Space Reincarnation (OOFT Music Edit).mp3
 C:\Users\Sean\Music\Singles\111-113\(111.00) No Regular Play - Won't Quit.mp3
 C:\Users\Sean\Music\Singles\111-113\(111.00) Private Agenda - Freefalling.mp3
@@ -678,6 +711,7 @@ C:\Users\Sean\Music\Singles\111-113\(111.69) Strafe - Set It Off.mp3
 C:\Users\Sean\Music\Singles\111-113\(111.77) Alioke Alison Borg - Nkoli.mp3
 C:\Users\Sean\Music\Singles\111-113\(111.78) Asso - Don't Stop.mp3
 C:\Users\Sean\Music\Singles\111-113\(111.81) Third World - Try Jah Love (Long Version).mp3
+C:\Users\Sean\Music\Singles\111-113\(111.89) Sherrick - Just Call.mp3
 C:\Users\Sean\Music\Singles\111-113\(111.90) Idiater Edwards - Loving Sweet Devotion (Sweeter Mix).mp3
 C:\Users\Sean\Music\Singles\111-113\(111.93) Theo Parrish - Serengeti Echoes.mp3
 C:\Users\Sean\Music\Singles\111-113\(111.95) Deee-Lite - What is Love (Holographic Goatee Mix).mp3
@@ -730,6 +764,7 @@ C:\Users\Sean\Music\Singles\111-113\(112.99) Swing Out Sister - Breakout (N.A.D.
 C:\Users\Sean\Music\Singles\111-113\(113.00) Honom - Purple Sun (Original Mix).mp3
 C:\Users\Sean\Music\Singles\111-113\(113.00) Jex Opolis - On the Cliffs.mp3
 C:\Users\Sean\Music\Singles\111-113\(113.00) Leo Zero - U Like It.mp3
+C:\Users\Sean\Music\Singles\111-113\(113.00) Paradis - Toi Et Moi.mp3
 C:\Users\Sean\Music\Singles\111-113\(113.00) Rodion - Solenoid.mp3
 C:\Users\Sean\Music\Singles\111-113\(113.00) Soul Clap - Love Light (Original Mix).mp3
 C:\Users\Sean\Music\Singles\111-113\(113.00) Ugly Drums & Chesney - Father (Original Mix).mp3
@@ -771,9 +806,11 @@ C:\Users\Sean\Music\Singles\111-113\(113.77) Kwanzaa Posse - African Vibrations 
 C:\Users\Sean\Music\Singles\111-113\(113.77) Sheila E. - A Love Bizarre.mp3
 C:\Users\Sean\Music\Singles\111-113\(113.79) Audio for Movement - Hymn of Praise.mp3
 C:\Users\Sean\Music\Singles\111-113\(113.79) Freekwency - Outrun (Dub).mp3
+C:\Users\Sean\Music\Singles\111-113\(113.80) Ago - You Make Me Do It (Instrumental).mp3
 C:\Users\Sean\Music\Singles\111-113\(113.80) Haruomi Hosono - Passion Flower.mp3
 C:\Users\Sean\Music\Singles\111-113\(113.85) Evelyn King - I'm in Love.mp3
 C:\Users\Sean\Music\Singles\111-113\(113.87) Toba - Moving Up.mp3
+C:\Users\Sean\Music\Singles\111-113\(113.93) Rob Mehl - House on the Rock.mp3
 C:\Users\Sean\Music\Singles\111-113\(113.96) Billy Ocean - Caribbean Queen (No More Love on the Run) (Special Mix).mp3
 C:\Users\Sean\Music\Singles\111-113\(113.98) T-Square - Big City.mp3
 C:\Users\Sean\Music\Singles\111-113\(113.99) M - Pop Muzik (Todd Terje Remix).mp3
@@ -867,6 +904,7 @@ C:\Users\Sean\Music\Singles\114-115\(115.09) Melba Moore - Mind Up Tonight.mp3
 C:\Users\Sean\Music\Singles\114-115\(115.13) Janet Jackson - Escapade (Shep's Housecapade Mix).mp3
 C:\Users\Sean\Music\Singles\114-115\(115.14) Lisa Lisa & Cult Jam - I Wonder If I Take You Home.mp3
 C:\Users\Sean\Music\Singles\114-115\(115.14) Paul Hardcastle & 1st Light - Daybreak.mp3
+C:\Users\Sean\Music\Singles\114-115\(115.14) The Limit - She's So Divine.mp3
 C:\Users\Sean\Music\Singles\114-115\(115.16) Change - Hold Tight.mp3
 C:\Users\Sean\Music\Singles\114-115\(115.18) Dee C. Lee - Hold On.mp3
 C:\Users\Sean\Music\Singles\114-115\(115.21) Smokey Robinson - And I Don't Love You (Instrumental Dub).mp3
@@ -910,7 +948,9 @@ C:\Users\Sean\Music\Singles\116-117\(116.00) Los Amigos Invisibles & Dimitri Fro
 C:\Users\Sean\Music\Singles\116-117\(116.00) Midnight Magic - Drop Me a Line.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.00) Nile Delta - Channel.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.00) Rod - Shake It Up (U.S. Razor House 88 Mix).mp3
+C:\Users\Sean\Music\Singles\116-117\(116.00) Roldy Cezaire - You & I.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.00) Roosevelt - Montreal.mp3
+C:\Users\Sean\Music\Singles\116-117\(116.00) The Osmonds - I, I, I.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.00) Tornado Wallace - Bit One.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.00) Tornado Wallace - Rainbow Road (Lewie's Bowser Castle Remix).mp3
 C:\Users\Sean\Music\Singles\116-117\(116.00) Trujillo - Fruit Punch (Eddie C Remix).mp3
@@ -920,6 +960,7 @@ C:\Users\Sean\Music\Singles\116-117\(116.10) Black Ivory - Mainline.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.10) Don Pablo's Animals - Paranoia.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.17) Cherrelle & Alexander O'Neal - Saturday Love (Extended Version).mp3
 C:\Users\Sean\Music\Singles\116-117\(116.17) Noel - Silent Morning (12' Club).mp3
+C:\Users\Sean\Music\Singles\116-117\(116.21) Stinger J. - Pretty Face.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.22) Ce' Moi - Give It Up (Special State Prosecutor Mix).mp3
 C:\Users\Sean\Music\Singles\116-117\(116.22) Janet Jackson - When I Think of You (Dance Remix).mp3
 C:\Users\Sean\Music\Singles\116-117\(116.28) Sleeque - One for the Money (Dance Remix).mp3
@@ -935,10 +976,12 @@ C:\Users\Sean\Music\Singles\116-117\(116.39) The Whispers - Rock Steady.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.41) Fingers Inc. - So Glad (Dub Version).mp3
 C:\Users\Sean\Music\Singles\116-117\(116.43) Udell - Won't You Try.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.44) Jesse Johnson - She Won't Let Go.mp3
+C:\Users\Sean\Music\Singles\116-117\(116.44) Pasteur Lappe - Na Real Sekele Fo' Ya.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.47) Suzanne Kraft - Femme Cosmic.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.51) Donald Byrd & 125th Street NYC - Sexy Dancer.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.52) RAH Band - Messages From the Stars (Long Wave Mix).mp3
 C:\Users\Sean\Music\Singles\116-117\(116.59) Willie Colon - Set Fire to Me (Latin Jazzbo Version).mp3
+C:\Users\Sean\Music\Singles\116-117\(116.60) Joni Haastrup - Greetings.mp3
 C:\Users\Sean\Music\Singles\116-117\(116.62) Fox the Fox - Precious Little Diamond (Special Remix).mp3
 C:\Users\Sean\Music\Singles\116-117\(116.65) Koto - Jabdah (Long Version).mp3
 C:\Users\Sean\Music\Singles\116-117\(116.66) Neddy Smith - Liberated Woman.mp3
@@ -963,7 +1006,9 @@ C:\Users\Sean\Music\Singles\116-117\(117.00) Bad Rabbits - She's Bad (Gadi Mizra
 C:\Users\Sean\Music\Singles\116-117\(117.00) Bubble Club - Lonely Acid (Brennan Green's Dub Mix).mp3
 C:\Users\Sean\Music\Singles\116-117\(117.00) Crashers - Flight to Jamaica (Disco Tech Edit).mp3
 C:\Users\Sean\Music\Singles\116-117\(117.00) DJ Hell - The Angst (Deniz Kurtel & Wolf + Lamb Remix).mp3
+C:\Users\Sean\Music\Singles\116-117\(117.00) Eddie Ness - Let's Get Playa.mp3
 C:\Users\Sean\Music\Singles\116-117\(117.00) George Duke - I Want You for Myself (Keep Schtum Rework).mp3
+C:\Users\Sean\Music\Singles\116-117\(117.00) Loose Shus - Featurette.mp3
 C:\Users\Sean\Music\Singles\116-117\(117.00) Motor City Drum Ensemble - Raw Cuts #3.mp3
 C:\Users\Sean\Music\Singles\116-117\(117.00) Nicholas - I Know (feat. Nick Anthony).mp3
 C:\Users\Sean\Music\Singles\116-117\(117.00) Pharaohs - If It Ever Feels Right (Tornado Wallace Remix).mp3
@@ -1022,9 +1067,9 @@ C:\Users\Sean\Music\Singles\116-117\(117.98) Rare Band - Why Why (Vocal).mp3
 C:\Users\Sean\Music\Singles\116-117\(117.99) Gadi Mizrahi & Soul Clap - Romantic Comedy.mp3
 C:\Users\Sean\Music\Singles\118-119\(118.00) Bosq - Take Over (feat. Kaleta).mp3
 C:\Users\Sean\Music\Singles\118-119\(118.00) Crusaders - My Lady (Purple Disco Machine Re-Edit).mp3
+C:\Users\Sean\Music\Singles\118-119\(118.00) Grant - Social Standards.mp3
 C:\Users\Sean\Music\Singles\118-119\(118.00) Lindstrom - R…-Ako-St (Todd Terje Extended Edit).mp3
 C:\Users\Sean\Music\Singles\118-119\(118.00) Melchior Sultana - Paradise.mp3
-C:\Users\Sean\Music\Singles\118-119\(118.00) Proper Heat - For the Love (Monsoon Season Dub).mp3
 C:\Users\Sean\Music\Singles\118-119\(118.00) Soul Clap - Dreams of Tomorrow.mp3
 C:\Users\Sean\Music\Singles\118-119\(118.00) Soul Clap - Let It Go (Miguel Campbell's Club Mix).mp3
 C:\Users\Sean\Music\Singles\118-119\(118.00) Sue¤o Latino - Sue¤o Latino (Paradise Version).mp3
@@ -1040,6 +1085,7 @@ C:\Users\Sean\Music\Singles\118-119\(118.05) Lil' Louis & The World - I Called U
 C:\Users\Sean\Music\Singles\118-119\(118.08) Paul Hardcastle - 19 (Destruction Mix).mp3
 C:\Users\Sean\Music\Singles\118-119\(118.10) Greg Paulus - Suchashame (Soul Clap Remix).mp3
 C:\Users\Sean\Music\Singles\118-119\(118.11) Culture Beat - Der Erdbeermund (Get Into Magic Vocal Mix).mp3
+C:\Users\Sean\Music\Singles\118-119\(118.13) Slim Pezin - Mam's Song.mp3
 C:\Users\Sean\Music\Singles\118-119\(118.20) Jimmy Ross - First True Love Affair (Larry Levan Mix).mp3
 C:\Users\Sean\Music\Singles\118-119\(118.26) Telex - Raised by Snakes (Razormaid Mix).mp3
 C:\Users\Sean\Music\Singles\118-119\(118.31) Blue Feather - Let's Funk Tonight.mp3
@@ -1100,7 +1146,6 @@ C:\Users\Sean\Music\Singles\118-119\(119.42) Inner City - Ain't Nobody Better (G
 C:\Users\Sean\Music\Singles\118-119\(119.45) Frankie Knuckles - Workout (1992 Vocal Mix).mp3
 C:\Users\Sean\Music\Singles\118-119\(119.57) Groove - Submit to the Beat (Original Jazzy House Mix).mp3
 C:\Users\Sean\Music\Singles\118-119\(119.58) Private Joy - Coolin Out (Vocal).mp3
-C:\Users\Sean\Music\Singles\118-119\(119.68) Maxine Singleton - You Can't Run From Love (Club Mix).mp3
 C:\Users\Sean\Music\Singles\118-119\(119.70) Doobie Brothers - Long Train Runnin'.mp3
 C:\Users\Sean\Music\Singles\118-119\(119.73) M.F.S.B. - Mysteries of the World.mp3
 C:\Users\Sean\Music\Singles\118-119\(119.79) Con Funk Shun - Don't Let Your Love Grow Cold.mp3
@@ -1116,6 +1161,7 @@ C:\Users\Sean\Music\Singles\118-119\(119.91) Dharma - Plastic Doll (Remixed) (In
 C:\Users\Sean\Music\Singles\118-119\(119.95) Y.M.O. - Firecracker.mp3
 C:\Users\Sean\Music\Singles\118-119\(119.96) Ilija Rudman - Easy (Dub Version).mp3
 C:\Users\Sean\Music\Singles\118-119\(119.96) Outkast - Prototype (Nick Monaco Classic House Mix).mp3
+C:\Users\Sean\Music\Singles\118-119\(119.97) Herbest Moon - Blow Your Body (Deep Space Dub).mp3
 C:\Users\Sean\Music\Singles\118-119\(119.97) Herbest Moon - Blow Your Body (Deep Space Main Mix).mp3
 C:\Users\Sean\Music\Singles\118-119\(119.98) After Hours - Waterfalls (3 A.M. Mix).mp3
 C:\Users\Sean\Music\Singles\118-119\(119.98) Lifelike - Sequencer (Original Mix).mp3
@@ -1151,6 +1197,7 @@ C:\Users\Sean\Music\Singles\120-121\(120.00) Larry Heard - Tell Me What It Is.mp
 C:\Users\Sean\Music\Singles\120-121\(120.00) Les Sins - Grind.mp3
 C:\Users\Sean\Music\Singles\120-121\(120.00) Linkwood - Fudge Boogie.mp3
 C:\Users\Sean\Music\Singles\120-121\(120.00) Mario Basanov - We are Child of Love (The Mekanism Remix).mp3
+C:\Users\Sean\Music\Singles\120-121\(120.00) Nico Motte - Morning Mist.mp3
 C:\Users\Sean\Music\Singles\120-121\(120.00) Omar-S - Psychotic Photosynthesis.mp3
 C:\Users\Sean\Music\Singles\120-121\(120.00) Paradis - Parfait Tirage.mp3
 C:\Users\Sean\Music\Singles\120-121\(120.00) Paul Johnson - White Winds.mp3
@@ -1171,6 +1218,7 @@ C:\Users\Sean\Music\Singles\120-121\(120.01) Michael Mayer - Privat (Original Mi
 C:\Users\Sean\Music\Singles\120-121\(120.02) Sumeria - Cosmic Traveller (Slow Version).mp3
 C:\Users\Sean\Music\Singles\120-121\(120.02) The Jets - Rocket 2 U (Extended Version).mp3
 C:\Users\Sean\Music\Singles\120-121\(120.02) Voggue - Roller Boogie (R&R Edit).mp3
+C:\Users\Sean\Music\Singles\120-121\(120.03) JV - Editchannel XXX.mp3
 C:\Users\Sean\Music\Singles\120-121\(120.06) CeCe Peniston - Finally (12' Choice Mix).mp3
 C:\Users\Sean\Music\Singles\120-121\(120.07) D-Train - Music (Vocal).mp3
 C:\Users\Sean\Music\Singles\120-121\(120.10) Guy Cuevas - Ebony Game.mp3
@@ -1340,7 +1388,6 @@ C:\Users\Sean\Music\Singles\122-124\(124.00) Nazan Soray - Halhal (Baris K Edit)
 C:\Users\Sean\Music\Singles\122-124\(124.00) No Regular Play - Derecha (Soul Clap Remix).mp3
 C:\Users\Sean\Music\Singles\122-124\(124.00) No Regular Play - Owe Me (Nicholas Jaar Remix).mp3
 C:\Users\Sean\Music\Singles\122-124\(124.00) Nuyorican Soul - The Nervous Track (Runaway Gets Nervous Mix).mp3
-C:\Users\Sean\Music\Singles\122-124\(124.00) Salt City Orchestra & Derrick Carter - Got Change for a Twenty.mp3
 C:\Users\Sean\Music\Singles\122-124\(124.00) Soul Clap - Need Your Lovin' (Nitetime Remix).mp3
 C:\Users\Sean\Music\Singles\122-124\(124.00) Souls of Mischief - 93 'til Infinity (Hannes Fischer Remix).mp3
 C:\Users\Sean\Music\Singles\122-124\(124.00) Todd Terje - Delorean Dynamite.mp3
@@ -1443,6 +1490,7 @@ C:\Users\Sean\Music\Singles\125-160\(127.87) Soul Capsule - Lady Science (NYC Su
 C:\Users\Sean\Music\Singles\125-160\(128.00) Gregorythme - Futurama.mp3
 C:\Users\Sean\Music\Singles\125-160\(128.00) Paradis - H‚misphŠre.mp3
 C:\Users\Sean\Music\Singles\125-160\(128.10) Coffee - Casanova.mp3
+C:\Users\Sean\Music\Singles\125-160\(128.10) Stephen Encinas - Lypso Illusion.mp3
 C:\Users\Sean\Music\Singles\125-160\(128.24) Third World - Roots With Quality.mp3
 C:\Users\Sean\Music\Singles\125-160\(128.25) Gwen McCrae - Keep the Fire Burning.mp3
 C:\Users\Sean\Music\Singles\125-160\(128.45) Dead or Alive - You Spin Me Round (Like a Record).mp3
@@ -1455,6 +1503,7 @@ C:\Users\Sean\Music\Singles\125-160\(129.69) Salt-n-Pepa - Push It.mp3
 C:\Users\Sean\Music\Singles\125-160\(129.87) Frankie Knuckles - It's a Cold World.mp3
 C:\Users\Sean\Music\Singles\125-160\(130.00) Underworld - Cups (Salt City Orchestra's Vertical Bacon Vocal).mp3
 C:\Users\Sean\Music\Singles\125-160\(130.02) The Alan Parsons Project - Standing on Higher Ground.mp3
+C:\Users\Sean\Music\Singles\125-160\(130.07) Blue Lazer - Stay Away From Her.mp3
 C:\Users\Sean\Music\Singles\125-160\(130.40) New Order - Blue Monday.mp3
 C:\Users\Sean\Music\Singles\125-160\(131.00) Real Thing - Can You Feel the Force.mp3
 C:\Users\Sean\Music\Singles\125-160\(131.33) Joachim Witt - Tri Tra Trullala (Herbergsvater).mp3
@@ -1470,9 +1519,13 @@ C:\Users\Sean\Music\Singles\125-160\(134.81) Y.M.O. - La Femme Chinoise.mp3
 C:\Users\Sean\Music\Singles\125-160\(134.94) Prince - I Would Die 4 U.mp3
 C:\Users\Sean\Music\Singles\125-160\(135.45) Icehouse - Hey Little Girl (Disco Edit Mix).mp3
 C:\Users\Sean\Music\Singles\125-160\(137.00) Torn Sail - Birds.mp3
+C:\Users\Sean\Music\Singles\125-160\(139.06) Cameron Allan & Graham Bidstrup - Bikini Atoll.mp3
+C:\Users\Sean\Music\Singles\125-160\(141.75) Leon Ware - Rockin' You Eternally.mp3
 C:\Users\Sean\Music\Singles\125-160\(142.46) Y.M.O. - Kimi ni Mune Kyun.mp3
+C:\Users\Sean\Music\Singles\125-160\(143.50) Yumi Matsutoya - Cinderella Express.mp3
 C:\Users\Sean\Music\Singles\125-160\(144.10) The Style Council - Shout to the Top.mp3
 C:\Users\Sean\Music\Singles\125-160\(145.66) Hiroshi Sato - I Can't Wait.mp3
+C:\Users\Sean\Music\Singles\125-160\(145.80) Christine Lewin - In the Mood.mp3
 C:\Users\Sean\Music\Singles\125-160\(149.30) Yasuhiro Abe - Irene.mp3
 C:\Users\Sean\Music\Singles\125-160\(160.00) Joe Jackson - Steppin' Out.mp3
 C:\Users\Sean\Music\Singles\125-160\(160.00) Oingo Boingo - Dead Man's Party.mp3
